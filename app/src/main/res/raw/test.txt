@@ -1,0 +1,688 @@
+What is your name?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What is your girlfriends name?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What is the color of Elmo?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your (full) name?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+How old are you?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your Birthday?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What starsign does that make it?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite colour?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your lucky number?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you have any pets?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Where are you from?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+How tall are you?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What shoe size are you?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+How many pairs of shoes do you own?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If you were prime miniser/ruler of the world what laws would you make?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If you were a super hero what powers would you have?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+and what would your hero name be?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+and what outfit would you wear?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What was your last dream about?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What would you do if you won the lottery?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Would you like to build/design your own house?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Which form of public transport do you prefer?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What talents do you have?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Can you juggle?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Can you solve a rubix cube?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you have a cherished childhood teddybear?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you psychic in any way?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you a good dancer?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you a good singer?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you a good cook?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you a good artist?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you a good listener?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you a good public speaker?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you a good babysitter?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you a good mechanic?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you a good diplomat?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you a good employee?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you a good dresser?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you a good swimmer?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you a good skier?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you a good lover?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you a good musician?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you a good comedian?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you a good cleaner?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you a good actor?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you a good writer?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been bungee jumping?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been canoeing/kayaking?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What types of holidays do you prefer?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats the furthest you've ever been on holiday?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What was your favourite holiday?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Where would your dream holiday be?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Can you tap dance?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite zoo animal?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite sport?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite food?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite pizza topping?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite film?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite song?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite alcoholic drink?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite non-alcoholic drink?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite TV program?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite boyband?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite girl group?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What would be your ideal partner?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you want children?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you want a church wedding?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you religious?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you like reality TV programs?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you like TV talent shows?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If you were gay who would your life partner be?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If you could go back in time to change one thing what would it be?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+How many hats do you own?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you any good at pool?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats the highest you've ever jumped into the water from?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been admitted to hospital?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever had any brushes with the law?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been on TV?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever met any celebrities?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been to Legoland?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever done something heroic?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever played a practical joke on anyone?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been the recipiant of a practical joke?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What would be your best achievement to date?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you prefer baths or showers?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you prefer towel drying, blow drying or natural dryin your hair?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever built a snowman?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been sledging?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever flown a kite?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What colour socks are you wearing?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If you could live anywhere, where would that be?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been famous?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Would you like to be a big celebrity?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Would you ever go on Big Brother?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+How big is your TV?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What is your most essential appliance?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What type of music do you like?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been skinnydipping?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+How many Pillows do you sleep with?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What position do you often sleep in?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What do you wear to bed?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+How big is your house?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you prefer sunrises or sunsets?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What do you typically have for breakfast?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you like scary movies?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite Milkshake flavour?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been in a newspaper?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+How long can you balance on one foot?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever fired a gun?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever tried archery?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite condement?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite clean word?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite swear word?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your least favourite word?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What was the last film you saw?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What football team do you support?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats the longest you've gone without sleep?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats the tallest building you've ever been up?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you have any scars?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you like marmite?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Did you ever win any sportsday events?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What did you want to be when you grew up?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If you could change anything about yourself what would it be?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats the longest you've ever grown your hair?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you scared of flying?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Would you rather trade some intelligence for looks or looks for intelligence?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever tie-dyed your own clothes?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+How often do you buy new clothes?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you reliable?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you proud of yourself?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever had a secret admirer,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If you could ask your future self one question what would it be?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you hold grudges?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If you could breed two animals together to defy the laws of nature what new animal would you create?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you decorate the outside of your house for christmas?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Can you solve sudoko puzzles?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever played conkers?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats the most unusual conversation you've ever had?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you much of a gambler?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you much of a daredevil?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you a good liar?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you a good judge of character?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you any good at charades?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+How long could you go without talking?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What has been your worst haircut/style?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Can you iceskate?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Can you summersault?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite joke?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats been your best present?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats been your worst present?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever sleepwalked?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Can you build a house of cards?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite TV advert?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Can you play poker?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If your parents hated your partner you currently loved would you ditch him or carry on with him despite the protests?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been professionally photographed?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever baked your own cake?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite fruit pastel colour?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What traditionally adorns the top of your christmas tree?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What would be your dream sandwich?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Can you inpersonate anyone famous?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Can you do any accents other than your own?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you have a strong local accent?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite accent?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+In O's and X's which do you normally pick?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you prefer blue or black inked pens?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What was the last thing you recorded off TV?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What was the last thing you dressed up as for fancy dress?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you prefer green or red grapes?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What do you like on your toast?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you prefer liquid soap or bars of soap?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+How do you have your eggs?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite saying?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been in a tug of war?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+and did you win?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Can you stand on your hands unassisted?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What do you have on your fridge door?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you love or hate myspace?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Who was the last person to knock/ring at your door?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+How old were you when you last went trick or treating?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been bobbing for apples?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your most expensive piece of clothing?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats the last thing you took a picture of?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats the last thing you drew a picture of?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever bought anything from ebay?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite smell/scent?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Can you blow bubbles with bubblegum?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What was your favourite birthday?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Can you curl your tounge?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Is your bellybutton an innie or outie?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What would be your dream car?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you left or right handed?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What was the last book you read?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What was the last song you danced to?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever owned a yo-yo?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been on a pogo stick?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been on a space hopper?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Who was the last person to send you a text message?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever accidentally injured anyone?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you scared of spiders?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Can you down a pint (of anything) in one?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been banned from a public place?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+How much spam email do you tend to get a week?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If you could learn any language fluently what would it be?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What historical Figure would you love to see in 21st centuary life?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+As a kid were you ever frighted of a monster under the bed or in the cupboard?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you like clowns?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you prefer BBC or ITV?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been surfing?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been snowboarding?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Who was better, the Beatles or Elvis Presley?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite type of foreign food?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Which Foreign country do you dislike the most?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you like your music loud or easy listening?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite animated or cartoon program?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you sing in the shower?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you a clean or messy person?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your prefered playing piece in monopoly?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Can or Do you still play twister?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Can you play chess?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you know the dance steps to an annoying cheesey pop song?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you prefer straight or bendy straws?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever entered a talent contest?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+and did you win?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you like poetry?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you a bad loser?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Which would you choose? Jelly or Ice Cream?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite type of Pie?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your most used phrase?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your most used word?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Who would you want to play you in a movie of your life?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What would your dream job be?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Which song do you hate the most?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+How long does it take you to get ready?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What do you think the greatest invention has been?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite feature on the opposite sex?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your least favourite feature on the opposite sex?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Who's your favourite Comedian?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What's your favourite board game?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you have any lucky items, objects or traditions?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you have any superstitions?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite Movie quote?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Who would win in a fight? Chuck Norris or Jack Bauer?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you have much of an ego?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you wear sunglasses indoors to look cool or stylish?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you a hat person?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite supermarket chain?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite fastfood chain?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your first thought upon waking up?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What animal would you most like to have as a pet?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite type of tree?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If you could bankrupt one person or company who would it be?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If you could steal one thing without consequence what would it be?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Who's your favourite celeb with the same first name or surname as you?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If evil-doers invaded your country would you rush to the battlelines to defend the motherland or hide in a box?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite flower?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you believe in ghosts?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you believe in the loch ness monster?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you believe in Aliens?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you believe the Governments hide technology and information from the public?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Which is your favourite pokemon?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What horror fiction character scares you the most?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Can you do 10 revolutions of a hula hoop?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you think Great Britain should have a National Day?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you think Great Britain should be part of a United Europe?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Would you want the Euro or keep the British Pound?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Were you part of the Brownies/Cubs/Scouts/Guides etc,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever invented a fairly unique meal or drink?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you have any secret family recipes?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you have any family secrets? :o,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you good at keeping secrets?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been up in a hot air balloon?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite Sci-fi film/program etc?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+When playing checkers or chess do you prefer to be black or white?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Which is better, a Pastie or Sausage Roll?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you prefer shopping on the high street or online?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Would you ever want to learn to fly?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you often read your horoscope?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever had a proper Tarot reading?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite brand of newspaper?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever milked a cow?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever used the phrase "back in my time" to someone younger than you?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you love or hate rollercoasters?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Which was the greatest Empire?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats the cleverest word you know?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite sportsware brand?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you buy any weekly/monthly magazines?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Who's your favourite Superhero?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Who's your favourite Villain/Baddie?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What was the last Album you purchased?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What was the last DVD you purchased?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What was the last piece of clothing you purchased?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+When pulling crackers does everyone get one each regardless or whoever gets the big ends keeps all the prizes,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you ever make your own greetings cards,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you have a swiss army knife?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+At what age did you twig onto the fact Santa wasnt real?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite fruit?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever done something really unbelivable, only to have no one around to see it?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you buy from charity shops?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever sold your services?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever raised money for charity?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever won a giant sized cuddly toy from a fair?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Is the glass half full or half empty?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Is the grass greener on the other side?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If a tree falls in the forest and there's no one around to hear it does it make a noise?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Why does it always rain on me?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever sailed a boat?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you love or loathe Harry Potter?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you do your utmost for the environment?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you love or loather Eurovison?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever weilded a sword?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If you were famous would you want a statue or a building names after you?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite type of fish?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Which do you prefer pony tails or pig tails?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats the ultimate cake topping?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you like marzipan?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats better? Center Parks or Butlins?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If you were in a band, what instrument/role would you play?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Can you erect a tent?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you suck or bite lollipops?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever used the yellow pages?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If you have an mp3 player what size is it?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you still have any music on vinyl or casettes?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you still have a camera that uses conventional film?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Approximately how many DVD's do you have?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Approximately how many Albums do you have?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you talk to yourself?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you sing to yourself?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you know any identical twins?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever given blood?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Could you ever be a medical guineapig?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite radio station?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite letter of the Alphabet?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Which is better? rollerblade or rollerskates?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever written a love letter?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+How many valentines cards did you recieve this/last year?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What are cooler? Dinosaurs or Dragons?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever made your own ice lollies?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever made your own Ice cream?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Which forgeign language did you have to learn at school?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+and do you still remember enough to hold a conversation in that language?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you know CPR?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you have any swimming badges?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you prefer digital or rotary/analogue clocks?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+How tall is the tallest person you know?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever got lost in a maze?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been attacked by a wild animal?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever ridden a camel?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your opinion on rats?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been to a gym?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been in a helicopter?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever cheated at a test?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever ridden a tractor?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you a gossip?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever cried at a film?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+When you're ill do you struggle on regardless or just curl up in bed as much as possible?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you need to write down things to remember them?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you keep a diary/journal?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you scared of thunderstorms?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you have any unusual fears or phobias?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite disney movie?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever slept in a caravan?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever painted a house?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you got green fingers?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats the tallest tree you've ever climbed?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever dialed the talking clock?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you always wear identical socks?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you live by any motto or philosophy?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you lick the yoghurt or desert lid?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you lick the spoon clean after making something sweet?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you like the sound of music? (the musical/film),Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever made your own orangejuice?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever sucked on a lemon?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever licked a battery?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you a good aim with a rubber band?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever played golf?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats the most unusual name you've ever come across?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you prefer to wash in the mornings or evenings?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever danced in the rain?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you like long or short hair?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever sworn at an authority figure?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever walked into a wall?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite precious metal?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite precious stone?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Could you ever hunt your own meal?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever read any comics?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Where do you like to go to on a first date?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you prefer vertical or horizontal stripes?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever baked your own bread?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Can you believe I can't believe its not butter is in fact not actually butter?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Can you name all 50 American states?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever owned a goldfish?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What was your favourite school subject?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What was your least favourite school subject?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever passed wind in an embarassing situation?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever played the bongos?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever handled a snake?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever assembled furniture by yourself?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+When did you last go to the beach?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+When if ever did you last go to london?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What do you do to cool down when its hot?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats the most unusual thing you've ever eaten?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you have a favourite mug?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you know any self defence or martial arts?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Who's your favourite movie action hero?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever ridden a motorcycle?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you collect anything?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Is there anything you wished would come back into fashion?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you stick to conventional fashions or like to try and be original?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever given someone a handmade present?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you introvert or extrovert?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If you could have any feature from an animal what would you want?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your prefered swimming stroke?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been scuba diving?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever had a disasterous interview?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What makes you nervous?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Which of the 5 senses would you say is your strongest?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What colour are your eyes?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been to an Art gallery?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you shout out the answers at the TV whilst watching quiz shows?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you a valuable asset on a Pub Quiz team?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever won any kind of quiz yourself?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you get over-involved with TV or movie plots at times?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you own any inflatable furniture?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats the highest hill or mountain you've ever climbed?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you have a piggy bank?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats the fastest you've ever travelled in a car?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Could you ever hand milk a cow?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you have popcorn with a movie?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats the futhest you've ever got a paper airplane to fly?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever built an igloo?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Can you play the harmonica?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever made a ball of twine or rubberbands?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If given the option of having a flake in your ice cream do you always take it?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Could you ever be a living organ donor?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Which was your favourite science? Biology, Physics or Chemistry?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Could you ever go out with someone just cause they're rich?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever contemplated sueing someone?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you pretty devious?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever had a surprise party? (that was an actual surprise),Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you any good at giving massages?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats been your worst date ever?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever slapped somoene in public?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever drawn on a sleeping or inebriated person?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever warn clothing with the labels/tags still attached?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever slipped on a banana skin?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you scared of the dark?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you have a lawyer?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been wolf whistled in public?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats the worst chatup line you've heard?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been water skiing?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever hopelessly failed a test?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If you had a year off, what would you want to do?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+How many sms/txt messages do you recieve on average a day?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+How long did you last phone call last?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you go to car boot sales?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If you saw someone drop a £10 note, would you claim it for your own or try to return it to them?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever helped someone across the road?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been horseriding?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever walked a tightrope?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever demolished a wall or building?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If you and a friend both wanted the same thing would you let the friend get it first?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever argued over who should pay for something?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you have any family heirlooms?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you related or distantly related to anyone famous?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite ocean?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you correct peoples mistakes?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever helped out an injured animal?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you throw bread for the ducks?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you think babies are little bundles of joy or smelly noisey things?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you give money to buskers?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever tossed your own pancake?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you any good at egg and spoon races?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you allergic to anything?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you ticklish?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you prefer tea,coffee or cocoa?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you like Turkish Delight?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you buy people presents to bring back when you go on holiday?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you tired of answering questions yet?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been wheelbarrow racing?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you ever forward or reply to chain mails?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you often have a tune in your head you can't name?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Has anyone ever approached you thinking you were someone else?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been approached by someone who knew you but you couldn't remember them for the life of you?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What do you do to keep fit?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you the sort to step in and try to break up a fight?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you the kind of friend you'd want to have as a friend yourself?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you have any questions or queries about things you're just to scared or embarassed to ask anyone about?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If you were a wrestler what would your stage name be?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+and what would your special move be called?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats the most interesting thing you can see out of your nearest window?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you think Barbie is a negative role model for young girls?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever needed an eye test?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you find yourself attractive?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Can you roll your R's?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What social class do you consider yourself or your family background to be in?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you know any magic tricks?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats the largest amount of money you've ever won?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats the largest amount of money you've spent in one spree?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats the largest amount of money you've had to borrow off of a friend or family member,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been on a cable car?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you prefer Honey or Jam?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you prefer the French or Germans?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+How fast can you get changed?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+How fast do you type?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+How fast can you run?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Which is better, Mario or Sonic?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite biscuit to dunk?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Which would you rather have if you had to, a broken leg or a broken arm?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you read a daily newspaper?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you watch the news on TV?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever had anything published?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you believe in love at first sight?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+How many remote controls do you have in your house?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been in a hot tub or sauna?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever had chicken pox?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you own a lava lamp?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you glad these are almost over?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+On a scale of 1-10 how random would you say these are?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What is your one major weekness?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats been the best descision you've made in your life so far?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats been the worst descision you've made in your life so far?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What words do you always struggle to spell correctly?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+On a scale of 1-10 how happy would you say you are?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+On a scale of 1-10 how smart would you say you are?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+On a scale of 1-10 how funny would you say you are?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+On a scale of 1-10 how devious would you say you are?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+On a scale of 1-10 how awesome would you say you are?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+On a scale of 1-10 how devilsh would you say you are?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+On a scale of 1-10 how nice/caring would you say you are?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+On a scale of 1-10 how bitchy would you say you are?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+On a scale of 1-10 how polite would you say you are?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+On a scale of 1-10 how attractive would you say you are?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If you could be any famous person who would you be and why?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite animal beginning with the letter A?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite item of clothing beginning with the letter B?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite expleitive beginning with the letter C?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite boys name beginning with the letter D?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite girls name beginning with the letter E?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite book beginning with the letter F?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite bodypart beginning with the letter G?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite musical instrument beginning with the letter H?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite song beginning with the letter I?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite actress beginning with the letter J?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite actor beginning with the letter K?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite film beginning with the letter L?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite tv show beginning with the letter M?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite game beginning with the letter N?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite non alcoholic drink beginning with the letter O?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite food beginning with the letter P?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite band beginning with the letter Q?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite author beginning with the letter R?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite sport beginning with the letter S?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite job beginning with the letter T?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite mythical creature beginning with the letter U?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite alcoholic drink beginning with the letter V?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite cartoon character beginning with the letter W?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite word beginning with the letter X?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite city beginning with the letter Y?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite country beginning with the letter Z?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you get seasick?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If you discovered a new species of dinosaur what would you call it?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you own a paddling pool?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What do you consider is the most important piece of furniture in a house?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What do you consider is the most important appliance in a house?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If you could have any celebritys hair whos would it be?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Which Celebrity do you find the most annoying?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What potential talents do you think you might have if you worked at them?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Who was better, Flipper, Lassie or Skippy?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If you could be trained up in any profession of your choice by top professionals what profession would you choose?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If someone elses child was being an annoying little runt would you go tell them off or do something about it?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you believe in kharma?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you believe in revenge?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you believe in fairies?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you believe in a god?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you believe there used to be dragons?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Who would you want to be with on a desert island?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What's the worst show on television?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Who's your favourite god from ancient history?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What one device would you want to see added to a mobile phone?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Where do you see yourself in 1 months time?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Where do you see yourself in 1 years time?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Where do you see yourself in 10 years time?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What was the best thing about your old school?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What was the worst thing about your old school?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If you could change your name to anything what would your new name be?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you watch too much tv?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever planted a tree?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats the heaviest thing you can lift?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What was the last present you recieved?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are your ears lobed or attached?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+How often do you wash your ears?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Could you go out with someone who had a child from a previous relationship?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What was your first alcoholic drink?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What was your first job?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What was your first car? (or what would you like it to be?),Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What was your first mobile phone?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What is your first proper memory?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Who was your first teacher?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Where did you go on your first ride on an airplane?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Who was your first best friend?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What was your first detention for?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your strongest voluntary muscle?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Who was your first kiss?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What was the first film you remember seeing at the cinema?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What thing that you've made are you most proud of?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Could you ever be someones bodygaurd?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Michelangelo's David... Masterpiece or filth?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you like other people buying you clothes?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever brought a present for someone that they hated/disliked?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What nicknames do you have/have had?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Did you have any pretend or imaginary friends?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever seen a therapist/shrink?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever carved a pumpkin?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Would you say you are a good or bad influence to others?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you prefer giving or recieving gifts/help etc,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If you were a member of the spice girls, what would your spice handle be?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If you were to become a famous singer, what would your debut album be called?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If you could join any music group which would you want to join?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What do your parents do?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If you were a giant mega monster what city would you rampage?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Did you ever have a treehouse as a kid?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Is your dad an embarassing dancer?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you plan to vote in the next election?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If you could replace one bodypart with a super bionic replacement what bodypart and what features would the new bionic replacement have?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What if any unusual objects have you swallowed?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+When you buy something new do you get a desire to use/play with it even when they dont have any physical application yet?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Did you understand the Matrix Trilogy?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Would you rather be the fella in a movie who gets the girl or the baddie with all the good lines?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If you were stinking rich, would you only go to places other rich people went?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Would you rather have a mans top half and a womens bottom half or visa versa?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Rebound relationships, good or bad?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever owned a slinky?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Teenage parents, good bad or indifferent?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats the most expensive thing you've ever broken?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Pirate downloads, good or bad?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Democracy, good or bad?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Communism, good or bad?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been electrocuted?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been attacked with a creamy bakery product?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever shawn a sheep?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever accidentally set fire to yourself?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever eaten a whole tube of pringles by yourself?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been hit on by someone of the same gender?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+The war in Iraq, good or bad?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+The war in Afganistan, good or bad?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever appeared on youtube?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever performed in front of a large audience?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever eaten anything prepared by a celebrity chef?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever been on radio?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Did your school make a teatowel that everyone submitted to?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What colour/style was your school tie?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you have to wear glasses?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you bite your nails?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you prefer male or female singers voices?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Would you rather be the worlds greatest football player or lover?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you get hayfever?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you have a list of things to do before your 'x' years old?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you like your age?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite physical thing you like about yourself?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your least favourite physical thing you like about yourself?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you proud, comfortable or ashamed of your body?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your favourite personality trait you like about yourself?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your least favourite personality trait you like about yourself?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you know html?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever flown first class?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+How many languages do you speak?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What are better, violins or pianos?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats the fastest you've ever driven? (as driver or passenger),Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What compulsions do you have?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What makes you angry?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If you could see any band, which would you like to see?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Who would you say are more attractive, English or Europeans?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What would you say is your favourite album of all time?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you dislike hairy people?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Are you much of an adventurer?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you like your own name?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Would you ever sign a Prenuptial agreement?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+How long has your longest ever phone call been?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Have you ever stolen anything?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Could you ever have an affair with a married person?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Could you ever split up a couple for one reason or another?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+What is your family christmases like?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Do you prefer sporty or academic members of the opposite sex?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+How much would it cost to buy your love?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Who was your least favourite teacher at school and why?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+If you met a Genie who offered you three wishes, what would you wish for? (more wishes does not count),Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your current Mobile phone model and do you like it?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
