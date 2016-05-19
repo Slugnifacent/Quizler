@@ -1,688 +1,768 @@
-What is your name?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What is your girlfriends name?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What is the color of Elmo?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your (full) name?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-How old are you?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your Birthday?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What starsign does that make it?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite colour?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your lucky number?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you have any pets?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Where are you from?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-How tall are you?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What shoe size are you?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-How many pairs of shoes do you own?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If you were prime miniser/ruler of the world what laws would you make?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If you were a super hero what powers would you have?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-and what would your hero name be?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-and what outfit would you wear?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What was your last dream about?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What would you do if you won the lottery?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Would you like to build/design your own house?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Which form of public transport do you prefer?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What talents do you have?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Can you juggle?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Can you solve a rubix cube?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you have a cherished childhood teddybear?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you psychic in any way?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you a good dancer?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you a good singer?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you a good cook?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you a good artist?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you a good listener?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you a good public speaker?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you a good babysitter?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you a good mechanic?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you a good diplomat?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you a good employee?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you a good dresser?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you a good swimmer?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you a good skier?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you a good lover?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you a good musician?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you a good comedian?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you a good cleaner?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you a good actor?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you a good writer?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been bungee jumping?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been canoeing/kayaking?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What types of holidays do you prefer?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats the furthest you've ever been on holiday?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What was your favourite holiday?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Where would your dream holiday be?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Can you tap dance?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite zoo animal?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite sport?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite food?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite pizza topping?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite film?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite song?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite alcoholic drink?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite non-alcoholic drink?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite TV program?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite boyband?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite girl group?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What would be your ideal partner?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you want children?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you want a church wedding?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you religious?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you like reality TV programs?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you like TV talent shows?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If you were gay who would your life partner be?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If you could go back in time to change one thing what would it be?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-How many hats do you own?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you any good at pool?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats the highest you've ever jumped into the water from?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been admitted to hospital?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever had any brushes with the law?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been on TV?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever met any celebrities?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been to Legoland?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever done something heroic?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever played a practical joke on anyone?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been the recipiant of a practical joke?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What would be your best achievement to date?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you prefer baths or showers?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you prefer towel drying, blow drying or natural dryin your hair?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever built a snowman?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been sledging?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever flown a kite?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What colour socks are you wearing?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If you could live anywhere, where would that be?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been famous?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Would you like to be a big celebrity?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Would you ever go on Big Brother?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-How big is your TV?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What is your most essential appliance?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What type of music do you like?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been skinnydipping?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-How many Pillows do you sleep with?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What position do you often sleep in?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What do you wear to bed?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-How big is your house?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you prefer sunrises or sunsets?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What do you typically have for breakfast?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you like scary movies?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite Milkshake flavour?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been in a newspaper?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-How long can you balance on one foot?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever fired a gun?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever tried archery?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite condement?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite clean word?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite swear word?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your least favourite word?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What was the last film you saw?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What football team do you support?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats the longest you've gone without sleep?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats the tallest building you've ever been up?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you have any scars?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you like marmite?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Did you ever win any sportsday events?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What did you want to be when you grew up?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If you could change anything about yourself what would it be?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats the longest you've ever grown your hair?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you scared of flying?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Would you rather trade some intelligence for looks or looks for intelligence?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever tie-dyed your own clothes?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-How often do you buy new clothes?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you reliable?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you proud of yourself?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever had a secret admirer,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If you could ask your future self one question what would it be?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you hold grudges?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If you could breed two animals together to defy the laws of nature what new animal would you create?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you decorate the outside of your house for christmas?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Can you solve sudoko puzzles?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever played conkers?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats the most unusual conversation you've ever had?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you much of a gambler?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you much of a daredevil?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you a good liar?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you a good judge of character?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you any good at charades?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-How long could you go without talking?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What has been your worst haircut/style?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Can you iceskate?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Can you summersault?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite joke?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats been your best present?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats been your worst present?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever sleepwalked?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Can you build a house of cards?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite TV advert?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Can you play poker?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If your parents hated your partner you currently loved would you ditch him or carry on with him despite the protests?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been professionally photographed?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever baked your own cake?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite fruit pastel colour?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What traditionally adorns the top of your christmas tree?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What would be your dream sandwich?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Can you inpersonate anyone famous?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Can you do any accents other than your own?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you have a strong local accent?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite accent?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-In O's and X's which do you normally pick?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you prefer blue or black inked pens?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What was the last thing you recorded off TV?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What was the last thing you dressed up as for fancy dress?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you prefer green or red grapes?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What do you like on your toast?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you prefer liquid soap or bars of soap?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-How do you have your eggs?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite saying?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been in a tug of war?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-and did you win?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Can you stand on your hands unassisted?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What do you have on your fridge door?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you love or hate myspace?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Who was the last person to knock/ring at your door?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-How old were you when you last went trick or treating?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been bobbing for apples?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your most expensive piece of clothing?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats the last thing you took a picture of?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats the last thing you drew a picture of?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever bought anything from ebay?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite smell/scent?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Can you blow bubbles with bubblegum?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What was your favourite birthday?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Can you curl your tounge?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Is your bellybutton an innie or outie?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What would be your dream car?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you left or right handed?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What was the last book you read?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What was the last song you danced to?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever owned a yo-yo?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been on a pogo stick?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been on a space hopper?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Who was the last person to send you a text message?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever accidentally injured anyone?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you scared of spiders?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Can you down a pint (of anything) in one?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been banned from a public place?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-How much spam email do you tend to get a week?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If you could learn any language fluently what would it be?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What historical Figure would you love to see in 21st centuary life?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-As a kid were you ever frighted of a monster under the bed or in the cupboard?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you like clowns?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you prefer BBC or ITV?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been surfing?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been snowboarding?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Who was better, the Beatles or Elvis Presley?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite type of foreign food?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Which Foreign country do you dislike the most?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you like your music loud or easy listening?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite animated or cartoon program?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you sing in the shower?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you a clean or messy person?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your prefered playing piece in monopoly?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Can or Do you still play twister?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Can you play chess?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you know the dance steps to an annoying cheesey pop song?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you prefer straight or bendy straws?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever entered a talent contest?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-and did you win?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you like poetry?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you a bad loser?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Which would you choose? Jelly or Ice Cream?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite type of Pie?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your most used phrase?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your most used word?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Who would you want to play you in a movie of your life?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What would your dream job be?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Which song do you hate the most?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-How long does it take you to get ready?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What do you think the greatest invention has been?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite feature on the opposite sex?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your least favourite feature on the opposite sex?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Who's your favourite Comedian?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What's your favourite board game?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you have any lucky items, objects or traditions?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you have any superstitions?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite Movie quote?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Who would win in a fight? Chuck Norris or Jack Bauer?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you have much of an ego?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you wear sunglasses indoors to look cool or stylish?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you a hat person?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite supermarket chain?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite fastfood chain?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your first thought upon waking up?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What animal would you most like to have as a pet?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite type of tree?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If you could bankrupt one person or company who would it be?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If you could steal one thing without consequence what would it be?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Who's your favourite celeb with the same first name or surname as you?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If evil-doers invaded your country would you rush to the battlelines to defend the motherland or hide in a box?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite flower?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you believe in ghosts?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you believe in the loch ness monster?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you believe in Aliens?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you believe the Governments hide technology and information from the public?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Which is your favourite pokemon?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What horror fiction character scares you the most?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Can you do 10 revolutions of a hula hoop?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you think Great Britain should have a National Day?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you think Great Britain should be part of a United Europe?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Would you want the Euro or keep the British Pound?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Were you part of the Brownies/Cubs/Scouts/Guides etc,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever invented a fairly unique meal or drink?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you have any secret family recipes?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you have any family secrets? :o,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you good at keeping secrets?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been up in a hot air balloon?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite Sci-fi film/program etc?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-When playing checkers or chess do you prefer to be black or white?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Which is better, a Pastie or Sausage Roll?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you prefer shopping on the high street or online?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Would you ever want to learn to fly?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you often read your horoscope?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever had a proper Tarot reading?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite brand of newspaper?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever milked a cow?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever used the phrase "back in my time" to someone younger than you?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you love or hate rollercoasters?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Which was the greatest Empire?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats the cleverest word you know?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite sportsware brand?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you buy any weekly/monthly magazines?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Who's your favourite Superhero?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Who's your favourite Villain/Baddie?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What was the last Album you purchased?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What was the last DVD you purchased?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What was the last piece of clothing you purchased?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-When pulling crackers does everyone get one each regardless or whoever gets the big ends keeps all the prizes,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you ever make your own greetings cards,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you have a swiss army knife?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-At what age did you twig onto the fact Santa wasnt real?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite fruit?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever done something really unbelivable, only to have no one around to see it?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you buy from charity shops?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever sold your services?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever raised money for charity?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever won a giant sized cuddly toy from a fair?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Is the glass half full or half empty?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Is the grass greener on the other side?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If a tree falls in the forest and there's no one around to hear it does it make a noise?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Why does it always rain on me?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever sailed a boat?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you love or loathe Harry Potter?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you do your utmost for the environment?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you love or loather Eurovison?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever weilded a sword?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If you were famous would you want a statue or a building names after you?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite type of fish?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Which do you prefer pony tails or pig tails?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats the ultimate cake topping?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you like marzipan?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats better? Center Parks or Butlins?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If you were in a band, what instrument/role would you play?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Can you erect a tent?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you suck or bite lollipops?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever used the yellow pages?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If you have an mp3 player what size is it?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you still have any music on vinyl or casettes?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you still have a camera that uses conventional film?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Approximately how many DVD's do you have?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Approximately how many Albums do you have?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you talk to yourself?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you sing to yourself?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you know any identical twins?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever given blood?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Could you ever be a medical guineapig?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite radio station?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite letter of the Alphabet?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Which is better? rollerblade or rollerskates?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever written a love letter?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-How many valentines cards did you recieve this/last year?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What are cooler? Dinosaurs or Dragons?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever made your own ice lollies?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever made your own Ice cream?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Which forgeign language did you have to learn at school?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-and do you still remember enough to hold a conversation in that language?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you know CPR?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you have any swimming badges?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you prefer digital or rotary/analogue clocks?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-How tall is the tallest person you know?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever got lost in a maze?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been attacked by a wild animal?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever ridden a camel?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your opinion on rats?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been to a gym?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been in a helicopter?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever cheated at a test?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever ridden a tractor?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you a gossip?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever cried at a film?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-When you're ill do you struggle on regardless or just curl up in bed as much as possible?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you need to write down things to remember them?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you keep a diary/journal?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you scared of thunderstorms?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you have any unusual fears or phobias?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite disney movie?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever slept in a caravan?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever painted a house?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you got green fingers?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats the tallest tree you've ever climbed?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever dialed the talking clock?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you always wear identical socks?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you live by any motto or philosophy?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you lick the yoghurt or desert lid?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you lick the spoon clean after making something sweet?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you like the sound of music? (the musical/film),Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever made your own orangejuice?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever sucked on a lemon?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever licked a battery?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you a good aim with a rubber band?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever played golf?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats the most unusual name you've ever come across?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you prefer to wash in the mornings or evenings?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever danced in the rain?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you like long or short hair?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever sworn at an authority figure?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever walked into a wall?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite precious metal?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite precious stone?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Could you ever hunt your own meal?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever read any comics?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Where do you like to go to on a first date?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you prefer vertical or horizontal stripes?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever baked your own bread?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Can you believe I can't believe its not butter is in fact not actually butter?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Can you name all 50 American states?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever owned a goldfish?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What was your favourite school subject?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What was your least favourite school subject?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever passed wind in an embarassing situation?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever played the bongos?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever handled a snake?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever assembled furniture by yourself?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-When did you last go to the beach?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-When if ever did you last go to london?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What do you do to cool down when its hot?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats the most unusual thing you've ever eaten?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you have a favourite mug?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you know any self defence or martial arts?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Who's your favourite movie action hero?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever ridden a motorcycle?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you collect anything?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Is there anything you wished would come back into fashion?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you stick to conventional fashions or like to try and be original?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever given someone a handmade present?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you introvert or extrovert?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If you could have any feature from an animal what would you want?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your prefered swimming stroke?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been scuba diving?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever had a disasterous interview?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What makes you nervous?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Which of the 5 senses would you say is your strongest?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What colour are your eyes?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been to an Art gallery?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you shout out the answers at the TV whilst watching quiz shows?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you a valuable asset on a Pub Quiz team?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever won any kind of quiz yourself?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you get over-involved with TV or movie plots at times?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you own any inflatable furniture?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats the highest hill or mountain you've ever climbed?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you have a piggy bank?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats the fastest you've ever travelled in a car?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Could you ever hand milk a cow?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you have popcorn with a movie?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats the futhest you've ever got a paper airplane to fly?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever built an igloo?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Can you play the harmonica?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever made a ball of twine or rubberbands?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If given the option of having a flake in your ice cream do you always take it?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Could you ever be a living organ donor?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Which was your favourite science? Biology, Physics or Chemistry?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Could you ever go out with someone just cause they're rich?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever contemplated sueing someone?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you pretty devious?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever had a surprise party? (that was an actual surprise),Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you any good at giving massages?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats been your worst date ever?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever slapped somoene in public?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever drawn on a sleeping or inebriated person?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever warn clothing with the labels/tags still attached?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever slipped on a banana skin?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you scared of the dark?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you have a lawyer?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been wolf whistled in public?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats the worst chatup line you've heard?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been water skiing?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever hopelessly failed a test?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If you had a year off, what would you want to do?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-How many sms/txt messages do you recieve on average a day?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-How long did you last phone call last?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you go to car boot sales?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If you saw someone drop a £10 note, would you claim it for your own or try to return it to them?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever helped someone across the road?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been horseriding?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever walked a tightrope?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever demolished a wall or building?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If you and a friend both wanted the same thing would you let the friend get it first?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever argued over who should pay for something?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you have any family heirlooms?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you related or distantly related to anyone famous?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite ocean?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you correct peoples mistakes?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever helped out an injured animal?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you throw bread for the ducks?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you think babies are little bundles of joy or smelly noisey things?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you give money to buskers?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever tossed your own pancake?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you any good at egg and spoon races?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you allergic to anything?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you ticklish?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you prefer tea,coffee or cocoa?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you like Turkish Delight?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you buy people presents to bring back when you go on holiday?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you tired of answering questions yet?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been wheelbarrow racing?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you ever forward or reply to chain mails?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you often have a tune in your head you can't name?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Has anyone ever approached you thinking you were someone else?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been approached by someone who knew you but you couldn't remember them for the life of you?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What do you do to keep fit?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you the sort to step in and try to break up a fight?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you the kind of friend you'd want to have as a friend yourself?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you have any questions or queries about things you're just to scared or embarassed to ask anyone about?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If you were a wrestler what would your stage name be?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-and what would your special move be called?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats the most interesting thing you can see out of your nearest window?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you think Barbie is a negative role model for young girls?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever needed an eye test?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you find yourself attractive?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Can you roll your R's?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What social class do you consider yourself or your family background to be in?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you know any magic tricks?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats the largest amount of money you've ever won?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats the largest amount of money you've spent in one spree?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats the largest amount of money you've had to borrow off of a friend or family member,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been on a cable car?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you prefer Honey or Jam?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you prefer the French or Germans?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-How fast can you get changed?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-How fast do you type?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-How fast can you run?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Which is better, Mario or Sonic?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite biscuit to dunk?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Which would you rather have if you had to, a broken leg or a broken arm?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you read a daily newspaper?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you watch the news on TV?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever had anything published?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you believe in love at first sight?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-How many remote controls do you have in your house?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been in a hot tub or sauna?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever had chicken pox?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you own a lava lamp?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you glad these are almost over?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-On a scale of 1-10 how random would you say these are?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What is your one major weekness?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats been the best descision you've made in your life so far?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats been the worst descision you've made in your life so far?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What words do you always struggle to spell correctly?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-On a scale of 1-10 how happy would you say you are?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-On a scale of 1-10 how smart would you say you are?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-On a scale of 1-10 how funny would you say you are?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-On a scale of 1-10 how devious would you say you are?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-On a scale of 1-10 how awesome would you say you are?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-On a scale of 1-10 how devilsh would you say you are?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-On a scale of 1-10 how nice/caring would you say you are?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-On a scale of 1-10 how bitchy would you say you are?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-On a scale of 1-10 how polite would you say you are?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-On a scale of 1-10 how attractive would you say you are?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If you could be any famous person who would you be and why?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite animal beginning with the letter A?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite item of clothing beginning with the letter B?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite expleitive beginning with the letter C?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite boys name beginning with the letter D?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite girls name beginning with the letter E?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite book beginning with the letter F?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite bodypart beginning with the letter G?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite musical instrument beginning with the letter H?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite song beginning with the letter I?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite actress beginning with the letter J?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite actor beginning with the letter K?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite film beginning with the letter L?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite tv show beginning with the letter M?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite game beginning with the letter N?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite non alcoholic drink beginning with the letter O?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite food beginning with the letter P?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite band beginning with the letter Q?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite author beginning with the letter R?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite sport beginning with the letter S?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite job beginning with the letter T?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite mythical creature beginning with the letter U?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite alcoholic drink beginning with the letter V?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite cartoon character beginning with the letter W?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite word beginning with the letter X?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite city beginning with the letter Y?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite country beginning with the letter Z?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you get seasick?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If you discovered a new species of dinosaur what would you call it?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you own a paddling pool?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What do you consider is the most important piece of furniture in a house?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What do you consider is the most important appliance in a house?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If you could have any celebritys hair whos would it be?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Which Celebrity do you find the most annoying?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What potential talents do you think you might have if you worked at them?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Who was better, Flipper, Lassie or Skippy?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If you could be trained up in any profession of your choice by top professionals what profession would you choose?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If someone elses child was being an annoying little runt would you go tell them off or do something about it?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you believe in kharma?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you believe in revenge?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you believe in fairies?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you believe in a god?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you believe there used to be dragons?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Who would you want to be with on a desert island?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What's the worst show on television?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Who's your favourite god from ancient history?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What one device would you want to see added to a mobile phone?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Where do you see yourself in 1 months time?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Where do you see yourself in 1 years time?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Where do you see yourself in 10 years time?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What was the best thing about your old school?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What was the worst thing about your old school?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If you could change your name to anything what would your new name be?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you watch too much tv?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever planted a tree?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats the heaviest thing you can lift?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What was the last present you recieved?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are your ears lobed or attached?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-How often do you wash your ears?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Could you go out with someone who had a child from a previous relationship?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What was your first alcoholic drink?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What was your first job?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What was your first car? (or what would you like it to be?),Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What was your first mobile phone?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What is your first proper memory?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Who was your first teacher?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Where did you go on your first ride on an airplane?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Who was your first best friend?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What was your first detention for?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your strongest voluntary muscle?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Who was your first kiss?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What was the first film you remember seeing at the cinema?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What thing that you've made are you most proud of?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Could you ever be someones bodygaurd?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Michelangelo's David... Masterpiece or filth?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you like other people buying you clothes?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever brought a present for someone that they hated/disliked?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What nicknames do you have/have had?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Did you have any pretend or imaginary friends?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever seen a therapist/shrink?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever carved a pumpkin?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Would you say you are a good or bad influence to others?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you prefer giving or recieving gifts/help etc,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If you were a member of the spice girls, what would your spice handle be?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If you were to become a famous singer, what would your debut album be called?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If you could join any music group which would you want to join?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What do your parents do?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If you were a giant mega monster what city would you rampage?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Did you ever have a treehouse as a kid?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Is your dad an embarassing dancer?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you plan to vote in the next election?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If you could replace one bodypart with a super bionic replacement what bodypart and what features would the new bionic replacement have?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What if any unusual objects have you swallowed?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-When you buy something new do you get a desire to use/play with it even when they dont have any physical application yet?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Did you understand the Matrix Trilogy?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Would you rather be the fella in a movie who gets the girl or the baddie with all the good lines?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If you were stinking rich, would you only go to places other rich people went?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Would you rather have a mans top half and a womens bottom half or visa versa?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Rebound relationships, good or bad?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever owned a slinky?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Teenage parents, good bad or indifferent?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats the most expensive thing you've ever broken?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Pirate downloads, good or bad?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Democracy, good or bad?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Communism, good or bad?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been electrocuted?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been attacked with a creamy bakery product?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever shawn a sheep?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever accidentally set fire to yourself?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever eaten a whole tube of pringles by yourself?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been hit on by someone of the same gender?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-The war in Iraq, good or bad?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-The war in Afganistan, good or bad?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever appeared on youtube?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever performed in front of a large audience?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever eaten anything prepared by a celebrity chef?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever been on radio?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Did your school make a teatowel that everyone submitted to?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What colour/style was your school tie?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you have to wear glasses?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you bite your nails?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you prefer male or female singers voices?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Would you rather be the worlds greatest football player or lover?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you get hayfever?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you have a list of things to do before your 'x' years old?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you like your age?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite physical thing you like about yourself?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your least favourite physical thing you like about yourself?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you proud, comfortable or ashamed of your body?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your favourite personality trait you like about yourself?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your least favourite personality trait you like about yourself?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you know html?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever flown first class?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-How many languages do you speak?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What are better, violins or pianos?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats the fastest you've ever driven? (as driver or passenger),Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What compulsions do you have?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What makes you angry?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If you could see any band, which would you like to see?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Who would you say are more attractive, English or Europeans?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What would you say is your favourite album of all time?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you dislike hairy people?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Are you much of an adventurer?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you like your own name?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Would you ever sign a Prenuptial agreement?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-How long has your longest ever phone call been?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Have you ever stolen anything?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Could you ever have an affair with a married person?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Could you ever split up a couple for one reason or another?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-What is your family christmases like?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Do you prefer sporty or academic members of the opposite sex?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-How much would it cost to buy your love?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Who was your least favourite teacher at school and why?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-If you met a Genie who offered you three wishes, what would you wish for? (more wishes does not count),Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
-Whats your current Mobile phone model and do you like it?,Wolverine,Megaman,Superman,The Ghost, Waterboy,The Mage Runner
+Whats your (full) name?|plastic|hate|embarrassed|whistle|rifle|test|hurried
+How old are you?|open|flower|exclusive|abnormal|crib|peck|driving
+Whats your Birthday?|purring|lowly|chilly|rhyme|empty|sheep|women
+What starsign does that make it?|reaction|flawless|deranged|acoustic|faded|engine|curtain
+Whats your favourite colour?|skirt|parallel|way|relieved|tame|uppity|day
+Whats your lucky number?|efficient|electric|chicken|anxious|grass|cumbersome|protect
+Do you have any pets?|word|ad|fold|squeeze|damaged|force|depressed
+Where are you from?|coil|swim|substantial|light|turn|erratic|mundane
+How tall are you?|icy|muddle|snakes|closed|cultured|sheep|cause
+What shoe size are you?|stir|outrageous|trick|space|envious|interesting|standing
+How many pairs of shoes do you own?|dispensable|polish|spiffy|standing|ban|pickle|impress
+If you were prime miniser/ruler of the world what laws would you make?|snakes|attack|lake|retire|future|functional|rice
+If you were a super hero what powers would you have?|eyes|blue|mom|wet|writing|sincere|billowy
+and what would your hero name be?|air|woozy|embarrassed|space|cobweb|night|sad
+and what outfit would you wear?|invention|evanescent|phobic|wrap|careful|smoggy|sleet
+What was your last dream about?|shaggy|free|distance|building|fortunate|approval|brother
+What would you do if you won the lottery?|file|rot|secret|remove|way|trace|burly
+Would you like to build/design your own house?|lowly|gifted|terrible|thing|good|sail|silky
+Which form of public transport do you prefer?|explain|fade|bike|dogs|love|afraid|fold
+What talents do you have?|nose|test|produce|curious|repeat|sedate|nest
+Can you juggle?|hang|suck|lovely|flat|kitty|noxious|painstaking
+Can you solve a rubix cube?|money|beds|good|haunt|workable|pale|light
+Do you have a cherished childhood teddybear?|vigorous|money|day|distribution|direction|stem|cellar
+Are you psychic in any way?|jelly|curtain|price|inform|plant|burly|hanging
+Are you a good dancer?|macho|penitent|hesitant|skirt|thoughtful|expect|cumbersome
+Are you a good singer?|exclusive|wicked|question|employ|trail|outgoing|behavior
+Are you a good cook?|obtainable|shade|dolls|willing|icy|sack|haircut
+Are you a good artist?|useful|protest|drunk|attraction|bitter|laugh|dime
+Are you a good listener?|vengeful|irritating|eatable|overt|full|spiritual|mask
+Are you a good public speaker?|materialistic|pets|holiday|lowly|powder|unable|hushed
+Are you a good babysitter?|thoughtful|woozy|smoke|identify|demonic|clean|cheese
+Are you a good mechanic?|chubby|hurried|oceanic|hanging|invention|horses|seashore
+Are you a good diplomat?|upbeat|burst|brother|reason|level|miscreant|anxious
+Are you a good employee?|silky|rural|useful|electric|skate|shade|trade
+Are you a good dresser?|spiffy|suit|ski|word|crowd|interfere|stay
+Are you a good swimmer?|hanging|lavish|uneven|silky|punishment|stiff|horn
+Are you a good skier?|noxious|scrub|versed|engine|familiar|rhyme|rub
+Are you a good lover?|tall|afford|wave|horrible|snakes|glistening|pricey
+Are you a good musician?|admire|blue|murder|lyrical|one|wish|file
+Are you a good comedian?|ready|minister|abstracted|lowly|tongue|kick|shy
+Are you a good cleaner?|end|secret|memorise|capable|substantial|depressed|flower
+Are you a good actor?|fast|brother|like|orange|tap|juggle|smart
+Are you a good writer?|please|painstaking|bore|squeeze|deranged|curtain|tank
+Have you ever been bungee jumping?|caption|activity|cagey|cobweb|overt|legs|demonic
+Have you ever been canoeing/kayaking?|painstaking|cap|punishment|shrug|slow|calm|snake
+What types of holidays do you prefer?|thaw|trip|squeeze|empty|drink|nest|obedient
+Whats the furthest you've ever been on holiday?|hilarious|mundane|night|protest|question|queen|afraid
+What was your favourite holiday?|quixotic|smell|repair|quixotic|testy|detailed|light
+Where would your dream holiday be?|discovery|numberless|vagabond|worm|fry|supply|rigid
+Can you tap dance?|bare|relieved|visitor|money|fold|relieved|sparkling
+Whats your favourite zoo animal?|closed|spiritual|afraid|repair|brother|vessel|vengeful
+Whats your favourite sport?|right|stone|love|snore|expect|rice|tender
+Whats your favourite food?|impress|shock|silky|glove|absorbing|workable|painful
+Whats your favourite pizza topping?|longing|bare|hook|jolly|order|suit|mom
+Whats your favourite film?|tender|holiday|possessive|admire|horn|quixotic|flat
+Whats your favourite song?|lunchroom|unadvised|ancient|cry|irritating|painstaking|tank
+Whats your favourite alcoholic drink?|best|snakes|ants|attract|sparkle|worm|please
+Whats your favourite non-alcoholic drink?|boiling|untidy|fat|shake|offbeat|butter|sparkle
+Whats your favourite TV program?|horn|willing|serious|fold|moor|accessible|horrible
+Whats your favourite boyband?|sturdy|daffy|undress|cub|sparkle|truthful|suck
+Whats your favourite girl group?|cry|rice|chunky|distribution|page|page|well-groomed
+What would be your ideal partner?|uneven|soothe|salty|deranged|person|exotic|night
+Do you want children?|holiday|drunk|crowd|action|spoon|snails|wall
+Do you want a church wedding?|hook|drum|noise|aback|afraid|remember|madly
+Are you religious?|fork|wave|rose|familiar|mug|lake|future
+Do you like reality TV programs?|snore|cause|lunchroom|powder|wonder|crime|quixotic
+Do you like TV talent shows?|hug|edge|mug|concern|suck|shy|turn
+If you were gay who would your life partner be?|near|fast|detail|pinch|aboard|futuristic|pest
+If you could go back in time to change one thing what would it be?|pest|best|vessel|wall|copy|pricey|rhyme
+How many hats do you own?|lovely|pets|ancient|tall|skate|utter|shock
+Are you any good at pool?|nest|faded|bedroom|watch|heady|smart|best
+Whats the highest you've ever jumped into the water from?|tax|mushy|foot|meddle|curious|record|rigid
+Have you ever been admitted to hospital?|beef|roasted|relieved|cry|bouncy|dogs|sincere
+Have you ever had any brushes with the law?|erratic|uncovered|scarecrow|earn|expand|vagabond|well-to-do
+Have you ever been on TV?|beds|pest|cluttered|metal|way|efficient|orange
+Have you ever met any celebrities?|flower|murder|record|burst|noisy|functional|sturdy
+Have you ever been to Legoland?|secretive|orange|claim|wicked|increase|skirt|clumsy
+Have you ever done something heroic?|flower|depressed|naughty|page|purring|bare|reading
+Have you ever played a practical joke on anyone?|jolly|rigid|mushy|beef|bat|workable|drink
+Have you ever been the recipiant of a practical joke?|amuse|tame|wonder|gratis|evanescent|exist|lovely
+What would be your best achievement to date?|apathetic|well-to-do|eyes|wrong|skate|obeisant|sparkling
+Do you prefer baths or showers?|sad|found|curious|hate|painstaking|rigid|twist
+Do you prefer towel drying, blow drying or natural dryin your hair?|earn|harass|futuristic|unadvised|obey|interfere|brother
+Have you ever built a snowman?|birds|plant|square|spill|tasteless|hammer|cluttered
+Have you ever been sledging?|price|workable|oceanic|hook|cracker|chase|empty
+Have you ever flown a kite?|excuse|boat|attack|ski|unused|stir|diligent
+What colour socks are you wearing?|attraction|paint|ants|gleaming|dreary|determined|value
+If you could live anywhere, where would that be?|identify|instruct|uncovered|wonder|feeble|pump|bell
+Have you ever been famous?|claim|drunk|lyrical|reason|remove|anxious|fasten
+Would you like to be a big celebrity?|kitty|shrug|file|trucks|exist|fold|hair
+Would you ever go on Big Brother?|bathe|good|humdrum|remember|numerous|moan|mysterious
+How big is your TV?|milky|float|trick|dinosaurs|garrulous|vast|roasted
+What is your most essential appliance?|protest|seemly|turn|feigned|trip|deer|rice
+What type of music do you like?|painful|art|taste|cluttered|stem|float|cloistered
+Have you ever been skinnydipping?|square|quirky|ubiquitous|steam|thirsty|mourn|flower
+How many Pillows do you sleep with?|stamp|curtain|ablaze|high|substantial|bitter|toes
+What position do you often sleep in?|thirsty|kitty|hook|tasteless|powder|haunt|brainy
+What do you wear to bed?|sign|sloppy|tap|queue|shake|whistle|jaded
+How big is your house?|harass|protect|flower|spray|sick|wish|increase
+Do you prefer sunrises or sunsets?|muddle|wrong|ear|hoc|naughty|hollow|roll
+What do you typically have for breakfast?|saw|overt|cup|jellyfish|outrageous|truthful|vast
+Do you like scary movies?|hair|thirsty|whistle|snakes|zip|time|depressed
+Whats your favourite Milkshake flavour?|foot|alike|wooden|sort|shake|flavor|sort
+Have you ever been in a newspaper?|plucky|develop|open|hammer|alike|boast|crack
+How long can you balance on one foot?|behavior|dress|penitent|milky|wave|humdrum|money
+Have you ever fired a gun?|functional|noiseless|number|tire|develop|suck|hammer
+Have you ever tried archery?|dull|fail|next|sparkling|save|retire|sparkle
+Whats your favourite condement?|fail|well-to-do|vengeful|star|penitent|basketball|flower
+Whats your favourite clean word?|change|rhyme|zany|square|observation|judge|mother
+Whats your favourite swear word?|boast|lowly|ear|value|imminent|substance|steep
+Whats your least favourite word?|dress|disturbed|grip|snore|channel|grieving|next
+What was the last film you saw?|obedient|money|hollow|near|range|pump|unable
+What football team do you support?|neighborly|mug|tax|instruct|smell|afford|volatile
+Whats the longest you've gone without sleep?|chance|behavior|develop|dull|wander|sleet|wheel
+Whats the tallest building you've ever been up?|haircut|wander|phobic|descriptive|price|market|reading
+Do you have any scars?|cynical|rose|violet|feigned|luxuriant|dinosaurs|distance
+Do you like marmite?|giraffe|chase|next|trite|turn|upbeat|number
+Did you ever win any sportsday events?|art|succinct|utter|memorise|toes|tax|protective
+What did you want to be when you grew up?|dinosaurs|instruct|observation|store|brass|kitty|fool
+If you could change anything about yourself what would it be?|cause|copy|person|sophisticated|embarrassed|hesitant|ablaze
+Whats the longest you've ever grown your hair?|observation|art|form|capable|shake|smart|pest
+Are you scared of flying?|crowd|pinch|night|price|familiar|possessive|cap
+Would you rather trade some intelligence for looks or looks for intelligence?|smell|songs|jolly|knotty|hair|gleaming|determined
+Have you ever tie-dyed your own clothes?|wicked|miscreant|smoke|secret|idea|paint|trail
+How often do you buy new clothes?|sack|beds|meat|drum|noxious|punishment|experience
+Are you reliable?|utter|building|wonder|grip|morning|pest|muddle
+Are you proud of yourself?|plants|meat|stem|tank|clumsy|fool|expand
+Have you ever had a secret admirer|aback|vigorous|enter|channel|driving|foot|elastic
+If you could ask your future self one question what would it be?|peck|determined|guard|island|jelly|tow|secret
+Do you hold grudges?|fasten|head|scratch|shrug|shoes|strap|nest
+If you could breed two animals together to defy the laws of nature what new animal would you create?|fanatical|mature|eatable|word|develop|shrill|raise
+Do you decorate the outside of your house for christmas?|neat|trade|upbeat|songs|songs|fat|aboard
+Can you solve sudoko puzzles?|observant|attack|metal|driving|testy|depressed|alert
+Have you ever played conkers?|aboriginal|self|marble|careful|ubiquitous|stranger|tramp
+Whats the most unusual conversation you've ever had?|calm|pleasure|church|detail|calm|pale|well-to-do
+Are you much of a gambler?|detailed|copy|spark|zip|reject|admire|bouncy
+Are you much of a daredevil?|visitor|seemly|painful|astonishing|toothbrush|level|yoke
+Are you a good liar?|burst|seat|icy|fast|smell|humdrum|hushed
+Are you a good judge of character?|many|badge|enchanting|rhyme|economic|air|rice
+Are you any good at charades?|increase|meaty|driving|embarrassed|sassy|pleasure|succinct
+How long could you go without talking?|compete|high|melt|rampant|noxious|roll|pale
+What has been your worst haircut/style?|feigned|smoke|racial|future|calculate|head|loaf
+Can you iceskate?|glove|calculator|crib|sail|upbeat|invention|claim
+Can you summersault?|woozy|beef|shy|volatile|vast|tired|obeisant
+Whats your favourite joke?|women|order|grip|coil|memory|outrageous|aboard
+Whats been your best present?|enormous|visitor|macho|wander|clean|trace|ready
+Whats been your worst present?|unadvised|reading|ablaze|hang|form|hair|bat
+Have you ever sleepwalked?|pickle|found|dreary|chilly|cough|head|unused
+Can you build a house of cards?|skate|bouncy|thirsty|eyes|sign|attract|juggle
+Whats your favourite TV advert?|thin|gratis|near|sheep|laugh|pleasure|willing
+Can you play poker?|shy|thaw|development|grass|wave|moan|pinch
+If your parents hated your partner you currently loved would you ditch him or carry on with him despite the protests?|versed|air|range|square|sparkling|demonic|plastic
+Have you ever been professionally photographed?|accessible|cough|languid|pest|juggle|numerous|jittery
+Have you ever baked your own cake?|bike|lumber|spray|aboard|protective|tedious|squeeze
+Whats your favourite fruit pastel colour?|stay|well-off|wild|water|flat|coal|distance
+What traditionally adorns the top of your christmas tree?|suit|shy|exotic|range|tasteful|guard|thing
+What would be your dream sandwich?|valuable|closed|loaf|sincere|grip|uncovered|copper
+Can you inpersonate anyone famous?|jump|uncovered|man|crowd|refuse|zany|jelly
+Can you do any accents other than your own?|evanescent|rot|relieved|activity|crowd|bushes|room
+Do you have a strong local accent?|ablaze|rifle|fear|horses|toes|noisy|legs
+Whats your favourite accent?|sincere|boiling|willing|stone|refuse|willing|cub
+In O's and X's which do you normally pick?|idea|grape|please|guard|protective|accurate|writing
+Do you prefer blue or black inked pens?|absorbing|chilly|chunky|ants|familiar|idea|horn
+What was the last thing you recorded off TV?|parallel|open|outrageous|succinct|wander|plants|money
+What was the last thing you dressed up as for fancy dress?|stew|narrow|sick|whistle|record|driving|flower
+Do you prefer green or red grapes?|spiritual|throne|question|haircut|idea|omniscient|murder
+What do you like on your toast?|tire|fascinated|remind|nine|thoughtful|sparkling|eyes
+Do you prefer liquid soap or bars of soap?|trace|dogs|curious|volatile|attack|adventurous|grip
+How do you have your eggs?|shock|suit|macho|shrug|edge|drunk|cause
+Whats your favourite saying?|distribution|waste|shrug|cheese|turn|remind|bear
+Have you ever been in a tug of war?|cellar|gleaming|range|instruct|squeamish|low|embarrassed
+and did you win?|good|functional|whistle|price|taste|excuse|activity
+Can you stand on your hands unassisted?|develop|interest|substance|remind|numerous|experience|cagey
+What do you have on your fridge door?|activity|racial|flood|holiday|unite|keen|rural
+Do you love or hate myspace?|store|majestic|quicksand|shade|wrap|activity|morning
+Who was the last person to knock/ring at your door?|knotty|seemly|uppity|painstaking|trucks|puny|holiday
+How old were you when you last went trick or treating?|hushed|feeble|free|shake|volleyball|afford|abhorrent
+Have you ever been bobbing for apples?|interesting|shoes|bell|curious|dolls|stamp|low
+Whats your most expensive piece of clothing?|ethereal|ablaze|rhyme|honorable|cynical|lovely|unused
+Whats the last thing you took a picture of?|fair|low|bawdy|examine|exercise|bedroom|outstanding
+Whats the last thing you drew a picture of?|love|lavish|gaze|verdant|righteous|smell|afraid
+Have you ever bought anything from ebay?|existence|wink|gratis|dispensable|pricey|bone|sick
+Whats your favourite smell/scent?|taste|well-off|sheep|neighborly|pump|ancient|repair
+Can you blow bubbles with bubblegum?|turn|reason|wonder|look|aback|bedroom|worthless
+What was your favourite birthday?|engine|twist|afford|noise|flat|spiffy|parallel
+Can you curl your tounge?|carry|yoke|scarecrow|limping|shrug|glove|sack
+Is your bellybutton an innie or outie?|edge|full|chilly|lock|empty|astonishing|electric
+What would be your dream car?|imminent|hook|meek|ancient|tire|bruise|wrap
+Are you left or right handed?|drink|whisper|wish|great|relieved|tickle|aboriginal
+What was the last book you read?|bawdy|meddle|loaf|alert|calm|watch|stir
+What was the last song you danced to?|zip|increase|disturbed|wealth|star|geese|bitter
+Have you ever owned a yo-yo?|abhorrent|compete|rural|naughty|paste|float|madly
+Have you ever been on a pogo stick?|like|bead|meat|hammer|lake|ablaze|well-groomed
+Have you ever been on a space hopper?|mundane|hate|distance|bake|approval|acoustic|trace
+Who was the last person to send you a text message?|humdrum|bathe|cars|memorise|shock|cup|ski
+Have you ever accidentally injured anyone?|arrange|outrageous|versed|reason|lake|wink|squeamish
+Are you scared of spiders?|range|pricey|interesting|identify|bear|spoon|dapper
+Can you down a pint (of anything) in one?|time|trace|zip|gleaming|disillusioned|assorted|square
+Have you ever been banned from a public place?|enchanting|bouncy|pleasure|mitten|feeble|sack|sign
+How much spam email do you tend to get a week?|lyrical|oceanic|honorable|wrap|ad|bare|tender
+If you could learn any language fluently what would it be?|amused|loving|trite|dry|action|gaze|fluffy
+What historical Figure would you love to see in 21st centuary life?|oil|fool|fry|lavish|amused|blood|apathetic
+As a kid were you ever frighted of a monster under the bed or in the cupboard?|quicksand|puny|spray|grip|pump|approval|fear
+Do you like clowns?|approval|infamous|limping|cuddly|land|smash|trick
+Do you prefer BBC or ITV?|omniscient|saw|brass|crowd|like|please|toes
+Have you ever been surfing?|powder|embarrassed|careful|horse|stiff|interesting|roll
+Have you ever been snowboarding?|record|secretive|salty|oil|puzzled|cobweb|underwear
+Who was better, the Beatles or Elvis Presley?|dogs|foot|blood|record|distribution|dispensable|instruct
+Whats your favourite type of foreign food?|jeans|blood|protect|protective|hook|hurried|price
+Which Foreign country do you dislike the most?|number|save|mysterious|bat|ants|reading|bathe
+Do you like your music loud or easy listening?|experience|smart|self|butter|hand|interest|utter
+Whats your favourite animated or cartoon program?|yoke|tank|meddle|branch|increase|question|attract
+Do you sing in the shower?|shrug|edge|mysterious|spill|existence|yoke|spiffy
+Are you a clean or messy person?|rain|brother|place|guitar|untidy|great|tall
+Whats your prefered playing piece in monopoly?|diligent|available|plastic|standing|drum|sick|miscreant
+Can or Do you still play twister?|wish|art|lean|ambitious|bed|coil|instruct
+Can you play chess?|expand|press|attack|blade|flat|test|man
+Do you know the dance steps to an annoying cheesey pop song?|warn|silky|mushy|meaty|turn|pump|naughty
+Do you prefer straight or bendy straws?|dramatic|numberless|uncovered|waste|paint|hoc|volleyball
+Have you ever entered a talent contest?|thing|humdrum|self|burly|wealth|trail|raise
+and did you win?|loving|wink|paste|milky|vigorous|grieving|sloppy
+Do you like poetry?|majestic|ear|scribble|reason|cushion|repair|stamp
+Are you a bad loser?|faded|hate|actor|tasteful|square|crime|degree
+Which would you choose? Jelly or Ice Cream?|snails|zoo|fast|sparkle|scrub|tap|observant
+Whats your favourite type of Pie?|alcoholic|zip|dinosaurs|ambitious|stranger|person|outstanding
+Whats your most used phrase?|cushion|silky|part|supply|lamp|tame|tax
+Whats your most used word?|fool|fearless|caption|interfere|head|hate|market
+Who would you want to play you in a movie of your life?|righteous|legs|snore|suit|throne|feigned|change
+What would your dream job be?|alike|baseball|bed|push|level|instruct|useful
+Which song do you hate the most?|adventurous|coil|question|cart|memorise|underwear|secretive
+How long does it take you to get ready?|miscreant|observation|mundane|clean|truthful|high|vast
+What do you think the greatest invention has been?|order|numerous|zip|repair|idea|adventurous|use
+Whats your favourite feature on the opposite sex?|cracker|abhorrent|open|rural|elastic|coal|tickle
+Whats your least favourite feature on the opposite sex?|level|square|caption|fast|slip|cellar|shoes
+Who's your favourite Comedian?|little|head|money|meaty|trace|hoc|dull
+What's your favourite board game?|untidy|peck|righteous|accurate|tramp|cagey|capable
+Do you have any lucky items, objects or traditions?|branch|rifle|remove|clean|testy|nose|soothe
+Do you have any superstitions?|pricey|head|scrub|worthless|yam|store|suit
+Whats your favourite Movie quote?|calculate|shade|fail|approval|good|near|moor
+Who would win in a fight? Chuck Norris or Jack Bauer?|order|cuddly|protective|word|mourn|volleyball|tame
+Do you have much of an ego?|cup|expand|sassy|taste|null|solid|driving
+Do you wear sunglasses indoors to look cool or stylish?|baseball|hate|rural|instruct|use|hushed|mixed
+Are you a hat person?|plane|class|scrub|fortunate|bare|hair|trucks
+Whats your favourite supermarket chain?|scratch|tender|bathe|coil|limping|tickle|functional
+Whats your favourite fastfood chain?|unused|trace|spoon|drink|curtain|bike|reaction
+Whats your first thought upon waking up?|ancient|bathe|nut|arrange|melt|rampant|best
+What animal would you most like to have as a pet?|afford|wet|rose|careful|upbeat|stone|toothbrush
+Whats your favourite type of tree?|ear|wicked|bake|truthful|attack|please|overt
+If you could bankrupt one person or company who would it be?|imperfect|country|baseball|writing|shrill|cart|dry
+If you could steal one thing without consequence what would it be?|top|fat|curtain|whisper|quicksand|languid|outgoing
+Who's your favourite celeb with the same first name or surname as you?|roasted|hoc|muddle|electric|next|cars|pickle
+If evil-doers invaded your country would you rush to the battlelines to defend the motherland or hide in a box?|descriptive|powder|beef|snore|sulky|functional|haircut
+Whats your favourite flower?|substantial|spiffy|mask|meek|absorbing|glove|oceanic
+Do you believe in ghosts?|onerous|milky|amuse|imminent|queen|wild|adventurous
+Do you believe in the loch ness monster?|regret|sedate|demonic|stay|shock|irritating|supply
+Do you believe in Aliens?|cap|cub|noxious|explain|vulgar|snake|next
+Do you believe the Governments hide technology and information from the public?|clean|zip|many|bruise|uncovered|development|offbeat
+Which is your favourite pokemon?|songs|store|star|tame|afraid|thaw|imperfect
+What horror fiction character scares you the most?|cloudy|punishment|sassy|direction|hook|sophisticated|obeisant
+Can you do 10 revolutions of a hula hoop?|enter|exotic|meddle|bitter|eyes|cagey|roasted
+Do you think Great Britain should have a National Day?|light|gifted|hair|square|mysterious|exist|full
+Do you think Great Britain should be part of a United Europe?|stage|invention|imperfect|rifle|tray|sulky|immense
+Would you want the Euro or keep the British Pound?|quirky|depressed|snakes|aboriginal|gleaming|puzzled|offbeat
+Were you part of the Brownies/Cubs/Scouts/Guides etc|stem|materialistic|absorbing|hanging|great|hesitant|slow
+Have you ever invented a fairly unique meal or drink?|sassy|fork|valuable|macho|depressed|dogs|judge
+Do you have any secret family recipes?|copy|badge|claim|waste|swim|throne|overt
+Do you have any family secrets? :o|action|rub|zip|astonishing|bear|queue|well-to-do
+Are you good at keeping secrets?|succinct|tender|sign|mother|demonic|neighborly|level
+Have you ever been up in a hot air balloon?|substance|economic|faded|engine|open|please|outgoing
+Whats your favourite Sci-fi film/program etc?|economic|paint|hand|sack|uneven|craven|tame
+When playing checkers or chess do you prefer to be black or white?|protective|meaty|trace|jaded|imperfect|shoes|tramp
+Which is better, a Pastie or Sausage Roll?|cultured|futuristic|materialistic|drum|oceanic|flat|jolly
+Do you prefer shopping on the high street or online?|mitten|depressed|scribble|blade|disturbed|tongue|file
+Would you ever want to learn to fly?|madly|plant|adventurous|market|amused|behavior|order
+Do you often read your horoscope?|paste|island|possessive|invention|country|noiseless|obtainable
+Have you ever had a proper Tarot reading?|afraid|sack|smash|enormous|back|puzzled|descriptive
+Whats your favourite brand of newspaper?|place|envious|whistle|attract|steep|fool|snotty
+Have you ever milked a cow?|load|milk|edge|abhorrent|grip|protest|pig
+Have you ever used the phrase "back in my time" to someone younger than you?|garrulous|cagey|pale|undress|miscreant|vessel|drink
+Do you love or hate rollercoasters?|divergent|aboriginal|bat|futuristic|acoustic|person|testy
+Which was the greatest Empire?|horrible|plantation|lake|instruct|flood|ants|cuddly
+Whats the cleverest word you know?|smoggy|screw|high-pitched|paste|milky|icy|explain
+Whats your favourite sportsware brand?|nut|marble|hug|hair|aboriginal|solid|change
+Do you buy any weekly/monthly magazines?|disturbed|nest|royal|flat|well-off|beds|glorious
+Who's your favourite Superhero?|spoon|ready|utter|night|tow|channel|cracker
+Who's your favourite Villain/Baddie?|empty|obey|record|clean|employ|protest|muddle
+What was the last Album you purchased?|puny|oceanic|feigned|nine|repair|handle|smash
+What was the last DVD you purchased?|morning|store|flower|obey|cellar|admire|horse
+What was the last piece of clothing you purchased?|volatile|deer|ambitious|high|island|bat|cynical
+When pulling crackers does everyone get one each regardless or whoever gets the big ends keeps all the prizes|fear|excite|obey|high-pitched|youthful|exclusive|substantial
+Do you ever make your own greetings cards|wealth|mitten|impress|guitar|high-pitched|interesting|rice
+Do you have a swiss army knife?|fluffy|daffy|lean|burly|label|snakes|clumsy
+At what age did you twig onto the fact Santa wasnt real?|fold|daffy|form|evanescent|clean|jump|exist
+Whats your favourite fruit?|look|enchanting|remember|idea|rub|mysterious|trip
+Have you ever done something really unbelivable, only to have no one around to see it?|chicken|load|observation|approval|secret|brother|rice
+Do you buy from charity shops?|steep|bear|brainy|occur|sloppy|snore|outstanding
+Have you ever sold your services?|driving|closed|hushed|vengeful|gifted|grieving|meat
+Have you ever raised money for charity?|pump|feigned|soothe|action|vast|bouncy|dull
+Have you ever won a giant sized cuddly toy from a fair?|lock|lovely|hurried|grip|cap|square|wanting
+Is the glass half full or half empty?|billowy|day|brainy|whistle|wish|space|cub
+Is the grass greener on the other side?|repair|excite|cup|horn|ants|wish|verdant
+If a tree falls in the forest and there's no one around to hear it does it make a noise?|naughty|exist|north|bruise|guard|test|tap
+Why does it always rain on me?|record|wish|plastic|hilarious|cushion|flawless|place
+Have you ever sailed a boat?|embarrassed|lowly|bear|regret|toes|smell|bell
+Do you love or loathe Harry Potter?|immense|used|ubiquitous|possessive|queen|tramp|number
+Do you do your utmost for the environment?|protect|cracker|hair|bawdy|brainy|save|mitten
+Do you love or loather Eurovison?|trucks|wave|possessive|thin|hilarious|stranger|protect
+Have you ever weilded a sword?|cars|ad|onerous|remind|scarecrow|noisy|statement
+If you were famous would you want a statue or a building names after you?|hammer|rice|clean|well-groomed|available|peck|blue
+Whats your favourite type of fish?|statement|discovery|secretive|tasteless|roasted|right|trick
+Which do you prefer pony tails or pig tails?|mysterious|cause|sulky|reaction|wooden|fluffy|substance
+Whats the ultimate cake topping?|wooden|disillusioned|record|sparkle|rice|powder|testy
+Do you like marzipan?|remove|cars|swim|tedious|obtainable|repeat|salty
+Whats better? Center Parks or Butlins?|cagey|stir|underwear|wheel|activity|roll|screw
+If you were in a band, what instrument/role would you play?|pinch|mask|bed|bare|paste|roll|heady
+Can you erect a tent?|retire|rainy|whistle|bat|effect|blade|envious
+Do you suck or bite lollipops?|whisper|untidy|sheep|numberless|cloudy|tame|shrug
+Have you ever used the yellow pages?|obey|wonder|well-to-do|jagged|coil|sulky|unite
+If you have an mp3 player what size is it?|save|envious|development|badge|wall|bawdy|increase
+Do you still have any music on vinyl or casettes?|melt|admire|vigorous|thin|drum|efficient|hang
+Do you still have a camera that uses conventional film?|building|ethereal|exclusive|jeans|coal|loaf|ban
+Approximately how many DVD's do you have?|abstracted|reading|cobweb|nine|development|peel|skate
+Approximately how many Albums do you have?|flavor|erratic|wooden|add|milk|whistle|smoke
+Do you talk to yourself?|space|boast|fail|bake|rigid|disturbed|grieving
+Do you sing to yourself?|future|omniscient|spark|interfere|mitten|cluttered|scribble
+Do you know any identical twins?|sail|clean|dispensable|warn|whistle|dry|rhyme
+Have you ever given blood?|pull|copper|pest|skirt|evanescent|class|lamp
+Could you ever be a medical guineapig?|inform|laugh|sack|dinosaurs|kitty|smell|thrill
+Whats your favourite radio station?|interfere|unused|wrap|copy|disillusioned|scribble|toothbrush
+Whats your favourite letter of the Alphabet?|accurate|macho|moor|employ|development|puzzled|admire
+Which is better? rollerblade or rollerskates?|mask|forgetful|wink|oceanic|electric|spoon|smell
+Have you ever written a love letter?|square|night|snotty|grip|invention|flower|seat
+How many valentines cards did you recieve this/last year?|value|horse|love|mixed|rub|excite|testy
+What are cooler? Dinosaurs or Dragons?|stranger|damage|acoustic|future|calculator|pickle|volleyball
+Have you ever made your own ice lollies?|soothe|mug|luxuriant|sail|wooden|cultured|low
+Have you ever made your own Ice cream?|raise|wicked|well-to-do|puzzled|neat|rub|jelly
+Which forgeign language did you have to learn at school?|effect|label|serious|oil|hand|blade|demonic
+and do you still remember enough to hold a conversation in that language?|volleyball|women|judge|mother|spicy|smoke|admire
+Do you know CPR?|fortunate|outgoing|lyrical|penitent|open|smoggy|pleasure
+Do you have any swimming badges?|butter|capable|soothe|abnormal|grieving|part|alike
+Do you prefer digital or rotary/analogue clocks?|low|violet|fold|tedious|sack|record|salty
+How tall is the tallest person you know?|laugh|degree|gleaming|lean|amused|vessel|quixotic
+Have you ever got lost in a maze?|rifle|popcorn|bat|tray|haunt|depressed|daffy
+Have you ever been attacked by a wild animal?|flawless|amuse|order|train|puny|seashore|flood
+Have you ever ridden a camel?|whistle|offbeat|adventurous|metal|many|good|polish
+Whats your opinion on rats?|wet|imminent|bell|cloudy|plants|file|found
+Have you ever been to a gym?|worthless|bruise|invention|woozy|economic|eatable|fluffy
+Have you ever been in a helicopter?|groan|shoes|crowd|empty|trail|birds|square
+Have you ever cheated at a test?|guitar|sedate|seemly|detail|bedroom|admire|examine
+Have you ever ridden a tractor?|force|cultured|purring|load|vulgar|effect|change
+Are you a gossip?|null|flood|plantation|abstracted|fool|light|crowd
+Have you ever cried at a film?|cream|gifted|future|question|hollow|clean|rampant
+When you're ill do you struggle on regardless or just curl up in bed as much as possible?|bedroom|acoustic|sheep|bathe|paste|blue|muddle
+Do you need to write down things to remember them?|salty|tramp|verdant|verdant|wonder|direction|enter
+Do you keep a diary/journal?|tray|mixed|milky|hanging|zip|love|volatile
+Are you scared of thunderstorms?|abnormal|meddle|serious|trip|solid|cobweb|many
+Do you have any unusual fears or phobias?|pale|terrible|zesty|penitent|fold|tray|brass
+Whats your favourite disney movie?|chilly|snails|sincere|pricey|horrible|neat|horn
+Have you ever slept in a caravan?|bake|wrong|tie|dogs|magical|haunt|bathe
+Have you ever painted a house?|class|vagabond|stir|noise|snails|damaged|hot
+Have you got green fingers?|zesty|save|remove|swim|rain|peel|grieving
+Whats the tallest tree you've ever climbed?|hate|ablaze|songs|wild|wonder|swim|sparkle
+Have you ever dialed the talking clock?|honorable|penitent|land|way|painful|elastic|shock
+Do you always wear identical socks?|fascinated|best|harass|clumsy|nose|fat|mysterious
+Do you live by any motto or philosophy?|noiseless|branch|drunk|envious|number|experience|twist
+Do you lick the yoghurt or desert lid?|rice|cub|smart|cloistered|grieving|faded|volatile
+Do you lick the spoon clean after making something sweet?|float|regret|load|phobic|gratis|trite|enormous
+Do you like the sound of music? (the musical/film)|bore|succinct|useful|increase|pig|hook|relieved
+Have you ever made your own orangejuice?|bouncy|pleasure|cub|blood|keen|stiff|humdrum
+Have you ever sucked on a lemon?|flood|bed|serious|tickle|substance|puny|day
+Have you ever licked a battery?|waste|dispensable|assorted|spray|adventurous|best|remind
+Are you a good aim with a rubber band?|trip|cluttered|rose|minister|tasteful|familiar|beds
+Have you ever played golf?|fry|songs|empty|zippy|low|holiday|word
+Whats the most unusual name you've ever come across?|luxuriant|haircut|jaded|bed|star|melt|suit
+Do you prefer to wash in the mornings or evenings?|plantation|queue|lovely|neat|morning|five|plants
+Have you ever danced in the rain?|craven|well-off|value|gifted|cluttered|divergent|bushes
+Do you like long or short hair?|wanting|sleet|horn|shrug|horn|naughty|accessible
+Have you ever sworn at an authority figure?|gratis|elastic|bright|orange|jolly|cellar|jolly
+Have you ever walked into a wall?|wink|mature|rural|hair|flood|cup|crib
+Whats your favourite precious metal?|fearless|boast|stiff|copper|occur|supply|class
+Whats your favourite precious stone?|label|smash|cluttered|thing|blood|writing|visitor
+Could you ever hunt your own meal?|plant|retire|neat|hammer|sturdy|snails|page
+Have you ever read any comics?|press|bike|outrageous|bed|solid|pump|meaty
+Where do you like to go to on a first date?|excite|rice|hair|daffy|madly|store|haunt
+Do you prefer vertical or horizontal stripes?|serious|ambitious|onerous|activity|bone|vulgar|spill
+Have you ever baked your own bread?|shoes|dress|wicked|cultured|steam|stream|apathetic
+Can you believe I can't believe its not butter is in fact not actually butter?|shade|found|coil|ubiquitous|dinosaurs|outgoing|muddle
+Can you name all 50 American states?|found|north|minister|worm|friends|cellar|seat
+Have you ever owned a goldfish?|curtain|dinosaurs|sick|class|thoughtful|paint|arrange
+What was your favourite school subject?|thrill|occur|fail|burst|cobweb|bell|employ
+What was your least favourite school subject?|question|cracker|distribution|flower|ubiquitous|smell|bell
+Have you ever passed wind in an embarassing situation?|mourn|snotty|well-to-do|pest|remove|low|wink
+Have you ever played the bongos?|smell|abhorrent|boiling|horrible|lumber|interesting|tired
+Have you ever handled a snake?|use|milk|scarecrow|load|boast|apathetic|squeamish
+Have you ever assembled furniture by yourself?|country|utter|calculate|jittery|degree|curtain|secret
+When did you last go to the beach?|blink|occur|burst|like|excite|receive|screw
+When if ever did you last go to london?|sleet|rampant|action|honorable|blood|wanting|dime
+What do you do to cool down when its hot?|truthful|question|butter|pricey|tall|scribble|sick
+Whats the most unusual thing you've ever eaten?|post|flat|melt|cloistered|bone|memory|fold
+Do you have a favourite mug?|brother|bead|enjoy|damage|tall|way|fold
+Do you know any self defence or martial arts?|fade|faded|succinct|remember|vagabond|truthful|rigid
+Who's your favourite movie action hero?|ubiquitous|excite|inform|cup|substantial|well-off|skate
+Have you ever ridden a motorcycle?|wrong|page|bead|heady|full|flower|ablaze
+Do you collect anything?|hook|change|night|hilarious|queue|laugh|outstanding
+Is there anything you wished would come back into fashion?|occur|exclusive|sparkling|drink|spicy|dress|unused
+Do you stick to conventional fashions or like to try and be original?|bruise|feeble|add|smash|form|lavish|ready
+Have you ever given someone a handmade present?|mature|mature|well-groomed|futuristic|open|cub|eatable
+Are you introvert or extrovert?|queen|produce|peck|retire|minister|hilarious|fade
+If you could have any feature from an animal what would you want?|orange|economic|pickle|volatile|future|wicked|vast
+Whats your prefered swimming stroke?|dime|pets|reaction|press|acoustic|detail|test
+Have you ever been scuba diving?|metal|substantial|number|pickle|mature|interesting|boiling
+Have you ever had a disasterous interview?|flat|interfere|effect|room|guitar|attract|turn
+What makes you nervous?|cart|fluffy|expect|clumsy|wonder|brass|ancient
+Which of the 5 senses would you say is your strongest?|stiff|puzzled|refuse|wicked|pets|trite|pets
+What colour are your eyes?|zoo|silky|coil|madly|hushed|gratis|repair
+Have you ever been to an Art gallery?|hurried|skirt|rice|rain|lowly|square|shake
+Do you shout out the answers at the TV whilst watching quiz shows?|anxious|jittery|wave|blade|abhorrent|crack|haunt
+Are you a valuable asset on a Pub Quiz team?|secret|smash|humdrum|rainy|use|man|scratch
+Have you ever won any kind of quiz yourself?|employ|admire|grass|damaged|turn|seashore|flawless
+Do you get over-involved with TV or movie plots at times?|ambitious|tickle|fair|coil|milk|dreary|zoo
+Do you own any inflatable furniture?|ski|pest|fair|glove|dispensable|dull|divergent
+Whats the highest hill or mountain you've ever climbed?|lumber|writing|toothbrush|immense|flood|trade|little
+Do you have a piggy bank?|tickle|roll|royal|solid|electric|yoke|zippy
+Whats the fastest you've ever travelled in a car?|receive|quirky|back|part|discovery|noiseless|polish
+Could you ever hand milk a cow?|horses|grass|chance|detailed|bright|force|haunt
+Do you have popcorn with a movie?|copper|remind|bead|scratch|uneven|legs|chase
+Whats the futhest you've ever got a paper airplane to fly?|murder|neighborly|queen|open|mourn|develop|silky
+Have you ever built an igloo?|damage|mother|exclusive|marble|low|rice|forgetful
+Can you play the harmonica?|nine|ear|offbeat|island|impress|alert|development
+Have you ever made a ball of twine or rubberbands?|grape|detail|wander|hollow|identify|class|north
+If given the option of having a flake in your ice cream do you always take it?|ad hoc|aboriginal|use|sheep|noise|water|enchanting
+Could you ever be a living organ donor?|snotty|wave|market|fry|shrug|sad|puzzled
+Which was your favourite science? Biology, Physics or Chemistry?|suck|tedious|arrange|eyes|tedious|five|cloudy
+Could you ever go out with someone just cause they're rich?|toothbrush|garrulous|abhorrent|well-off|substantial|well-groomed|next
+Have you ever contemplated sueing someone?|trade|bead|fortunate|exist|rose|enchanting|queen
+Are you pretty devious?|man|hollow|lowly|tender|alike|concern|dry
+Have you ever had a surprise party? (that was an actual surprise)|grip|instruct|thoughtful|shock|queue|exercise|spill
+Are you any good at giving massages?|spicy|rice|sort|jellyfish|roll|meat|thing
+Whats been your worst date ever?|drunk|shake|juggle|lyrical|hilarious|twist|exotic
+Have you ever slapped somoene in public?|sparkling|infamous|supply|seat|visitor|mug|sedate
+Have you ever drawn on a sleeping or inebriated person?|languid|bike|watch|stage|cart|shade|curtain
+Have you ever warn clothing with the labels/tags still attached?|next|star|fry|purring|whistle|interesting|plants
+Have you ever slipped on a banana skin?|overt|embarrassed|jelly|lake|space|attract|one
+Are you scared of the dark?|day|hollow|tongue|painful|hot|money|peck
+Do you have a lawyer?|chunky|name|reason|ethereal|mysterious|enormous|observant
+Have you ever been wolf whistled in public?|produce|grip|peel|fork|detail|curious|mitten
+Whats the worst chatup line you've heard?|examine|apathetic|efficient|tramp|retire|regret|tasteful
+Have you ever been water skiing?|glorious|blue|jeans|warlike|hook|secret|craven
+Have you ever hopelessly failed a test?|horse|love|parallel|north|shrill|little|shoes
+If you had a year off, what would you want to do?|hesitant|dapper|garrulous|record|overt|yellow|record
+How many sms/txt messages do you recieve on average a day?|demonic|obey|cushion|clean|dry|ambitious|class
+How long did you last phone call last?|elastic|acoustic|hot|snotty|tender|seashore|horses
+Do you go to car boot sales?|night|supply|kick|direction|basketball|numerous|spiffy
+If you saw someone drop a £10 note, would you claim it for your own or try to return it to them?|keen|mask|wooden|wooden|unite|rain|burly
+Have you ever helped someone across the road?|magical|spicy|absorbing|lake|development|succinct|please
+Have you ever been horseriding?|grieving|futuristic|smell|flat|sparkling|garrulous|lock
+Have you ever walked a tightrope?|distance|develop|plucky|interesting|hair|lavish|keen
+Have you ever demolished a wall or building?|damaged|found|feigned|open|assorted|lake|demonic
+If you and a friend both wanted the same thing would you let the friend get it first?|meaty|name|clean|harass|rainy|sturdy|fold
+Have you ever argued over who should pay for something?|outstanding|memory|tap|foot|neighborly|queen|exotic
+Do you have any family heirlooms?|bat|fat|wet|rot|sort|look|sloppy
+Are you related or distantly related to anyone famous?|meddle|languid|bedroom|grip|possessive|parallel|mug
+Whats your favourite ocean?|reject|reject|wealth|calm|absorbing|economic|curtain
+Do you correct peoples mistakes?|rural|chunky|cap|substance|moan|narrow|punishment
+Have you ever helped out an injured animal?|basketball|stranger|fearless|vengeful|phobic|person|plucky
+Do you throw bread for the ducks?|slow|solid|sick|observation|determined|degree|produce
+Do you think babies are little bundles of joy or smelly noisey things?|drum|useful|hurried|hoc|fasten|word|solid
+Do you give money to buskers?|moan|fear|cause|secret|chance|caption|kitty
+Have you ever tossed your own pancake?|punishment|irritating|boiling|bore|tow|glorious|alert
+Are you any good at egg and spoon races?|hollow|disturbed|horn|dreary|shrug|juggle|racial
+Are you allergic to anything?|well-groomed|alike|shrug|well-to-do|upbeat|functional|identify
+Are you ticklish?|wish|mushy|gaze|lumber|uncovered|used|high
+Do you prefer tea,coffee or cocoa?|use|tap|copy|used|useful|load|thing
+Do you like Turkish Delight?|direction|wish|jelly|admire|cumbersome|hand|mask
+Do you buy people presents to bring back when you go on holiday?|cloistered|watch|afraid|rhyme|shock|water|place
+Are you tired of answering questions yet?|rose|offbeat|strap|spiritual|cloistered|chase|wet
+Have you ever been wheelbarrow racing?|youthful|baseball|found|macho|bead|stem|amused
+Do you ever forward or reply to chain mails?|forgetful|brainy|grip|fascinated|murder|cry|save
+Do you often have a tune in your head you can't name?|bitter|empty|order|painstaking|question|fry|yellow
+Has anyone ever approached you thinking you were someone else?|moor|oceanic|queue|crime|press|noise|mature
+Have you ever been approached by someone who knew you but you couldn't remember them for the life of you?|irritating|gratis|lowly|silky|observation|hook|number
+What do you do to keep fit?|memory|hot|obedient|onerous|sparkling|smoggy|air
+Are you the sort to step in and try to break up a fight?|gaze|fascinated|turn|forgetful|fool|interfere|parallel
+Have you ever been in a fight?|wall|marble|building|solid|hammer|lean|employ
+Have you ever started a rumour?|outgoing|wrong|meaty|horses|alert|roll|madly
+Have you ever heard any outstanding rumours about yourself?|puzzled|workable|increase|secret|question|paint|abhorrent
+Have you ever been in or had a food fight?|water|examine|utter|watch|grape|light|rose
+When its your birthday do you always wear an age badge?|ants|invention|attraction|butter|copper|raise|jittery
+Have you ever starred in an amateur or professional video?|deer|press|fork|fade|blade|nine|action
+If you were comfortbly rich would you work hard for more or rest on your laurels?|chase|humdrum|increase|arrange|workable|horse|fasten
+Have you ever been in a position of authority?|blade|sloppy|obeisant|slow|room|vengeful|ants
+Have you ever been caught in a comprimising position? even despite a valid explanation?|careful|pull|writing|peck|metal|plane|change
+Have you ever tried to make your own alcohol?|sort|spicy|fasten|numberless|hilarious|stir|reading
+If you were ruler of your own country what would you call it?|crime|ready|rhyme|gratis|boast|press|fork
+And what title would you give yourself?|guard|rigid|word|numberless|numerous|onerous|fold
+If you invented a monster what would you call it?|name|produce|dime|mailbox|feeble|accessible|thirsty
+And what features would it have?|electric|near|wooden|accessible|trite|glove|shade
+Have you ever had a dream you chased only to be let down when you achived it?|rub|force|identify|obtainable|grip|garrulous|earn
+Is there anything about the opposite sex you just don't understand or comprehend?|sheep|scribble|crack|demonic|arrange|use|obedient
+Who was your favourite teacher at school and why?|used|thing|roll|bruise|sparkling|wanting|testy
+Whats your favourite party game?|rainy|statement|puny|peel|melt|seemly|vengeful
+Is it acceptable or unacceptable to smack a child as form of disapline?|stone|attack|low|land|polish|great|wild
+Can a hetrosexual male ever wear pink?|peel|unable|horrible|calculate|fold|aboard|obeisant
+Is it criminal to wear socks with sandals?|room|way|five|holiday|meaty|mask|edge
+If you were captain of a ship, what would you call it?|scrub|place|majestic|hair|enjoy|hang|macho
+If you were to join an emergency service which would it be?|seashore|cup|well-to-do|night|envious|languid|closed
+If you were to join one of the armed forced which would it be?|cumbersome|excuse|cellar|assorted|flood|mushy|statement
+Whats the worst thing about being your gender?|milk|willing|jellyfish|nose|stiff|wanting|outgoing
+Whats the best thing about being your gender?|mother|cap|badge|interfere|suit|engine|sheep
+If you swapped genders for a day how would you spend it?|disillusioned|spill|slow|boat|plane|wish|cheese
+If you were exiled what country would you choose as your new home?|twist|cub|capable|peel|onerous|space|blade
+Have you ever made someone cry?|part|label|bear|tap|caption|languid|trade
+Have you ever starred in a school play?|calculator|amuse|null|coal|fool|uppity|engine
+Were you a member of any celebrity fanclub?|attack|level|question|obeisant|place|hesitant|plane
+Have you ever been a member of any other club?|clumsy|value|toes|watch|hand|bushes|slip
+If you could have a full scholarship to any university what would you choose to study?|interest|bat|lyrical|cuddly|possessive|pricey|disturbed
+Whats been your greatest ever day?|smash|sassy|juggle|bead|good|sack|mourn
+What historical period would you like to live in if you could go back in time?|crack|standing|well-to-do|holiday|flat|wonder|slow
+What would you bring along to an idillic picnic?|eatable|claim|luxuriant|abnormal|dinosaurs|zesty|five
+Whats your favourite childrens story?|wave|capable|next|accessible|part|toothbrush|stay
+What movie ending really frustrated you? And how would you change it?|jaded|cultured|enchanting|deranged|cream|plants|silky
+What three things do you think of most each day?|bed|invention|jolly|fold|gun|damage|square
+What do you call your evening meal? Dinner Tea or Supper?|cluttered|cagey|cough|sail|sassy|whistle|deer
+What do you call your after meal sweet? Pudding or Dessert?|cub|peel|tow|tall|pricey|erratic|change
+If you had a warning label, what would yours say?|shake|save|quicksand|muddle|horrible|irritating|fortunate
+Have you ever got sweet revenge on anyone?|gleaming|trace|apathetic|onerous|roll|rely|hanging
+Have you ever been to a live concert?|testy|suit|word|reaction|supply|development|look
+Have you ever been to see stand up comedy?|vessel|wall|chunky|untidy|pig|receive|racial
+Have you ever needed stitches?|spray|jittery|throne|wave|truthful|look|distance
+If you could invent brand new baby names what would they be?|zippy|right|repair|standing|chilly|disturbed|wheel
+Do your dreams ever tell you to do anything?|racial|hoc|underwear|cup|mug|refuse|amuse
+Who's your favourite radio 1 DJ?|hot|sad|aboriginal|vulgar|crowd|abnormal|macho
+Whats the best way to your heart?|smart|branch|man|swim|copper|stew|empty
+Do you know your own mobile phone number off by heart?|sedate|reason|quicksand|discovery|hollow|meek|screw
+If you were a fashion designer, what style of clothing or accessories would you design?|burly|afford|irritating|instruct|obedient|rampant|lunchroom
+Do you ever laugh at things you shouldn't?|heady|interest|bat|calm|astonishing|familiar|quixotic
+Have you ever been in a submarine?|gifted|cluttered|clean|gleaming|roasted|air|open
+Have you ever walked out of a cinema before the film was done?|minister|yoke|day|mysterious|geese|ban|omniscient
+What song would you say best sums you up?|dreary|rural|astonishing|cloudy|brainy|unite|tired
+Do you have any old friends wou wish you could meet up with again?|grass|muddle|snakes|wrong|trade|breezy|hanging
+Whats your favourite Nursury Rhyme?|roll|interfere|rain|eyes|hoc|capable|peel
+Do you prefer metric or imperial measurements?|lake|five|rub|unused|enormous|change|copy
+Who's your favourite monarch of all time?|friends|gun|nine|eatable|degree|hammer|ants
+What was the last thing you ate?|capable|tax|explain|smell|turn|smoggy|suit
+Whats your favourite farmyard animal?|dapper|market|action|sheep|effect|seashore|cream
+If you could choose one celebrity to be the father/mother of your child who would it be?|beautiful|crabby|curtain|skirt|interest|brother|stranger
+What would you do if someone proposed to you tomorrow?|yam|brainy|value|stage|hammer|name|number
+What are your 3 favourite internet sites?|island|smell|hesitant|little|cough|women|longing
+How high can you jump?|rigid|mom|boast|post|abstracted|grip|tedious
+Which fictional character do you wish was real?|blue|seat|produce|cumbersome|approval|admire|moan
+Who was your first crush?|sack|interest|songs|juggle|shade|great|erratic
+Whats the greatest thing about being your nationality?|daffy|wish|increase|muddle|boast|futuristic|steam
+Whats the least greatest thing about being your nationality?|breezy|deer|vengeful|geese|curtain|painful|flat
+Do you believe in destiny, fate or free will?|boat|right|offbeat|fascinated|range|sick|strap
+If you could talk to one species of animal which would it be?|mug|marble|immense|wild|imminent|mug|bone
+If you had friends round what DVD's would you have to watch?|bright|beef|copper|plane|hair|powder|wish
+Do you like vanilla or chocolate?|reason|gratis|dress|copy|stir|meat|lumber
+Are you a giver or a receiver?|vagabond|roasted|hook|caption|secretive|shrug|marble
+Do you have any enemies?|juggle|action|observant|chunky|miscreant|cagey|quicksand
+Are you scared of needles?|instruct|ethereal|attack|stranger|offbeat|bitter|existence
+How many piercings do you have? if any|fold|trucks|fluffy|spill|compete|clumsy|bike
+Have you ever got majorly lost trying to get somewhere?|verdant|north|snake|snore|bore|scream|efficient
+How fast can you say the alphabet?|great|cagey|pleasure|upbeat|sleet|fasten|phobic
+Do you say "Zee" or "Zed" to describe the letter Z?|envious|worthless|air|judge|beds|cultured|well-to-do
+What was the last thing to make you feel happy?|page|forgetful|caption|harass|sheep|stranger|glistening
+What was the last thing to make you feel angry?|lamp|serious|bike|toes|whistle|inform|dispensable
+You are walking to work. There is a dog drowning in the canal on the side of the street. Your boss told you if you are late one more time you're fired. Do you save the dog?|royal|haunt|brainy|writing|grieving|longing|mysterious
+Are you the kind of friend you'd want to have as a friend yourself?|full|quixotic|sedate|longing|daffy|snore|mundane
+Do you have any questions or queries about things you're just to scared or embarassed to ask anyone about?|trite|jeans|shrill|twist|question|unable|degree
+If you were a wrestler what would your stage name be?|jagged|space|waste|gaze|flower|null|snore
+and what would your special move be called?|paint|repeat|development|store|wrap|wrong|economic
+Whats the most interesting thing you can see out of your nearest window?|coil|great|sparkle|ambitious|obtainable|curious|star
+Do you think Barbie is a negative role model for young girls?|tedious|fast|blue|approval|spot|succinct|friends
+Have you ever needed an eye test?|spill|future|degree|secret|unused|aboard|grieving
+Do you find yourself attractive?|exercise|hug|full|milk|way|bedroom|seashore
+Can you roll your R's?|reading|onerous|boast|explain|bake|unused|page
+What social class do you consider yourself or your family background to be in?|trick|caption|trip|invention|throne|noiseless|bake
+Do you know any magic tricks?|sulky|humdrum|majestic|naughty|testy|aboard|ear
+Whats the largest amount of money you've ever won?|way|tall|engine|birds|sassy|watch|humdrum
+Whats the largest amount of money you've spent in one spree?|deranged|spiritual|seemly|tasteful|channel|memory|cream
+Whats the largest amount of money you've had to borrow off of a friend or family member|toes|unused|guard|retire|fold|stem|efficient
+Have you ever been on a cable car?|tank|amused|cluttered|ad|fast|trip|dull
+Do you prefer Honey or Jam?|tired|polish|spray|zany|observation|whistle|worm
+Do you prefer the French or Germans?|grip|crime|baseball|flower|metal|ear|attraction
+How fast can you get changed?|workable|madly|increase|record|drunk|marble|pricey
+How fast do you type?|assorted|drink|scrub|excite|slip|baseball|milk
+How fast can you run?|zany|dolls|milky|tie|pump|earn|rhyme
+Which is better, Mario or Sonic?|back|skate|cushion|pets|adventurous|lake|fearless
+Whats your favourite biscuit to dunk?|refuse|acoustic|lowly|wanting|beef|envious|substantial
+Which would you rather have if you had to, a broken leg or a broken arm?|five|secretive|day|afraid|brainy|ad|calm
+Do you read a daily newspaper?|pleasure|wonder|stranger|peck|minister|rampant|cumbersome
+Do you watch the news on TV?|bear|lumber|useful|grass|tow|kick|coil
+Have you ever had anything published?|wheel|excite|muddle|craven|sturdy|building|beef
+Do you believe in love at first sight?|remember|bare|cry|moor|beds|mixed|part
+How many remote controls do you have in your house?|willing|zip|coil|exotic|murder|deer|scarecrow
+Have you ever been in a hot tub or sauna?|uncovered|love|oceanic|coal|behavior|dogs|muddle
+Have you ever had chicken pox?|shrill|roll|baseball|square|guitar|smart|skate
+Do you own a lava lamp?|cuddly|fortunate|ban|wicked|idea|ban|shrill
+Are you glad these are almost over?|cheese|relieved|claim|suit|wild|snake|forgetful
+On a scale of 1-10 how random would you say these are?|seat|whisper|receive|observant|interest|workable|instruct
+What is your one major weekness?|lean|use|diligent|grip|tray|mom|fear
+Whats been the best descision you've made in your life so far?|train|painstaking|channel|attract|hanging|tall|longing
+Whats been the worst descision you've made in your life so far?|high-pitched|rural|cuddly|swim|vigorous|glorious|zoo
+What words do you always struggle to spell correctly?|haunt|tender|tired|hate|gifted|action|cloistered
+On a scale of 1-10 how happy would you say you are?|high|dime|beef|outstanding|majestic|metal|lamp
+On a scale of 1-10 how smart would you say you are?|numberless|daffy|tasteless|art|place|trick|interesting
+On a scale of 1-10 how funny would you say you are?|exotic|rice|lake|identify|squeeze|blade|steam
+On a scale of 1-10 how devious would you say you are?|violet|available|dogs|apathetic|unadvised|beef|null
+On a scale of 1-10 how awesome would you say you are?|tow|jeans|ubiquitous|evanescent|afford|little|cloudy
+On a scale of 1-10 how devilsh would you say you are?|roll|pickle|vigorous|tedious|evanescent|meddle|stir
+On a scale of 1-10 how nice/caring would you say you are?|meat|harass|scream|hair|oil|zip|wicked
+On a scale of 1-10 how bitchy would you say you are?|wrap|stir|excite|little|trite|writing|good
+On a scale of 1-10 how polite would you say you are?|scarecrow|solid|grip|keen|jump|bawdy|descriptive
+On a scale of 1-10 how attractive would you say you are?|pets|chase|bedroom|behavior|burst|undress|seashore
+If you could be any famous person who would you be and why?|tame|queen|many|wanting|omniscient|writing|order
+Whats your favourite animal beginning with the letter A?|form|force|oceanic|mysterious|tasteless|juggle|deranged
+Whats your favourite item of clothing beginning with the letter B?|bone|orange|flower|wink|crack|smoke|test
+Whats your favourite expleitive beginning with the letter C?|bat|wall|save|shade|songs|legs|legs
+Whats your favourite boys name beginning with the letter D?|brass|bike|honorable|wheel|judge|plants|gifted
+Whats your favourite girls name beginning with the letter E?|possessive|functional|damage|curious|standing|ear|chase
+Whats your favourite book beginning with the letter F?|scribble|price|bell|uneven|daffy|thrill|burst
+Whats your favourite bodypart beginning with the letter G?|unable|clean|place|nest|milk|snakes|high-pitched
+Whats your favourite musical instrument beginning with the letter H?|worm|tedious|push|distribution|plane|immense|yoke
+Whats your favourite song beginning with the letter I?|supply|demonic|oil|tank|right|cry|vengeful
+Whats your favourite actress beginning with the letter J?|place|pale|workable|closed|square|polish|grape
+Whats your favourite actor beginning with the letter K?|scream|square|turn|whistle|unadvised|boat|pest
+Whats your favourite film beginning with the letter L?|cobweb|place|arrange|light|pest|substantial|remember
+Whats your favourite tv show beginning with the letter M?|crib|tax|number|vessel|interest|nut|burly
+Whats your favourite game beginning with the letter N?|rub|plane|succinct|penitent|women|degree|approval
+Whats your favourite non alcoholic drink beginning with the letter O?|obeisant|unused|pig|rifle|pig|meek|square
+Whats your favourite food beginning with the letter P?|jittery|free|assorted|chilly|best|madly|paste
+Whats your favourite band beginning with the letter Q?|undress|moan|suck|guitar|hilarious|fast|back
+Whats your favourite author beginning with the letter R?|smoke|remove|wander|thin|sparkle|coil|cream
+Whats your favourite sport beginning with the letter S?|number|remember|coil|pets|pale|tie|fast
+Whats your favourite job beginning with the letter T?|whistle|nest|engine|foot|alert|boat|cushion
+Whats your favourite mythical creature beginning with the letter U?|mushy|test|push|sleet|record|disillusioned|puzzled
+Whats your favourite alcoholic drink beginning with the letter V?|strap|puny|sack|warlike|stream|closed|macho
+Whats your favourite cartoon character beginning with the letter W?|suit|irritating|phobic|pull|place|untidy|overt
+Whats your favourite word beginning with the letter X?|land|flood|church|full|shade|electric|solid
+Whats your favourite city beginning with the letter Y?|hand|smell|jeans|guitar|air|jagged|examine
+Whats your favourite country beginning with the letter Z?|sophisticated|mug|bawdy|relieved|yoke|bike|exist
+Do you get seasick?|squeamish|number|hot|right|room|noisy|obey
+If you discovered a new species of dinosaur what would you call it?|numerous|faded|pricey|underwear|economic|sail|bitter
+Do you own a paddling pool?|crabby|remind|occur|jeans|punishment|geese|unite
+What do you consider is the most important piece of furniture in a house?|mixed|day|unused|rampant|fluffy|irritating|expand
+What do you consider is the most important appliance in a house?|snake|boat|exist|morning|honorable|substantial|juggle
+If you could have any celebritys hair whos would it be?|tramp|steep|mixed|gleaming|hushed|hug|rifle
+Which Celebrity do you find the most annoying?|clean|snakes|narrow|retire|protect|back|acoustic
+What potential talents do you think you might have if you worked at them?|tie|throne|pleasure|empty|noiseless|hug|loving
+Who was better, Flipper, Lassie or Skippy?|church|fascinated|giraffe|holiday|crabby|vast|rigid
+If you could be trained up in any profession of your choice by top professionals what profession would you choose?|blood|produce|obey|shy|pig|trail|flavor
+If someone elses child was being an annoying little runt would you go tell them off or do something about it?|futuristic|languid|forgetful|trite|art|acoustic|attract
+Do you believe in kharma?|slip|faded|tongue|cream|quicksand|dull|spray
+Do you believe in revenge?|wander|ants|air|stay|bushes|fast|dull
+Do you believe in fairies?|phobic|existence|demonic|sort|yoke|hot|fortunate
+Do you believe in a god?|north|painstaking|lavish|peel|plastic|hoc|puzzled
+Do you believe there used to be dragons?|marble|claim|horse|suit|sincere|pump|existence
+Who would you want to be with on a desert island?|mailbox|tired|nose|zip|crack|spot|tickle
+What's the worst show on television?|free|nut|obeisant|puzzled|back|please|number
+Who's your favourite god from ancient history?|vast|trip|spark|land|bitter|breezy|tedious
+What one device would you want to see added to a mobile phone?|yellow|possessive|cobweb|fast|spill|degree|use
+Where do you see yourself in 1 months time?|head|next|orange|stew|place|time|languid
+Where do you see yourself in 1 years time?|dolls|underwear|neat|nine|memory|rain|uppity
+Where do you see yourself in 10 years time?|throne|hilarious|cup|shy|craven|scream|please
+What was the best thing about your old school?|well-to-do|distance|utter|valuable|explain|cumbersome|room
+What was the worst thing about your old school?|badge|milk|peel|gifted|interfere|suit|cream
+If you could change your name to anything what would your new name be?|alert|driving|uneven|press|righteous|smell|absorbing
+Do you watch too much tv?|enjoy|lavish|thirsty|smell|ready|yoke|offbeat
+Have you ever planted a tree?|smash|strap|accessible|vigorous|whistle|develop|stiff
+Whats the heaviest thing you can lift?|well-off|lumber|economic|jolly|use|stem|sort
+What was the last present you recieved?|uppity|painstaking|part|receive|place|puny|crib
+Are your ears lobed or attached?|noisy|pricey|careful|hammer|flower|rain|sack
+How often do you wash your ears?|determined|explain|mature|spoon|tickle|cloudy|jump
+Could you go out with someone who had a child from a previous relationship?|outrageous|copper|value|wanting|warn|bedroom|sign
+What was your first alcoholic drink?|judge|wheel|materialistic|shade|copper|shoes|blue
+What was your first job?|solid|great|paste|shake|outstanding|damage|phobic
+What was your first car? (or what would you like it to be?)|sick|milky|tray|rainy|bell|smell|retire
+What was your first mobile phone?|offbeat|vigorous|record|standing|flavor|imperfect|disturbed
+What is your first proper memory?|tap|acoustic|art|erratic|rub|horn|haunt
+Who was your first teacher?|add|clumsy|steep|haunt|coal|slip|acoustic
+Where did you go on your first ride on an airplane?|detail|pinch|found|afraid|chase|descriptive|remove
+Who was your first best friend?|watch|amuse|space|store|idea|grip|cap
+What was your first detention for?|fat|beef|macho|statement|trade|north|vengeful
+Whats your strongest voluntary muscle?|bell|mixed|naughty|smell|cough|unite|blue
+Who was your first kiss?|star|luxuriant|burst|cumbersome|dry|mourn|boat
+What was the first film you remember seeing at the cinema?|relieved|marble|icy|wanting|tire|fanatical|save
+What thing that you've made are you most proud of?|infamous|taste|curious|skirt|person|range|bright
+Could you ever be someones bodygaurd?|lavish|bat|brass|class|efficient|popcorn|lumber
+Michelangelo's David... Masterpiece or filth?|seemly|mundane|experience|imminent|statement|quixotic|rot
+Do you like other people buying you clothes?|cough|bore|secretive|horrible|chance|aboard|cars
+Have you ever brought a present for someone that they hated/disliked?|brainy|spark|milky|women|spill|flower|cheese
+What nicknames do you have/have had?|standing|room|well-groomed|hushed|observation|land|obtainable
+Did you have any pretend or imaginary friends?|jellyfish|useful|roasted|horses|boiling|snore|hammer
+Have you ever seen a therapist/shrink?|gun|bruise|smoggy|pinch|noiseless|morning|distance
+Have you ever carved a pumpkin?|expect|soothe|ubiquitous|noisy|bat|acoustic|ubiquitous
+Would you say you are a good or bad influence to others?|concern|tender|claim|sick|cracker|obtainable|reject
+Do you prefer giving or recieving gifts/help etc|person|fold|crib|ad|sack|fair|way
+If you were a member of the spice girls, what would your spice handle be?|dry|mourn|untidy|range|numberless|flawless|range
+If you were to become a famous singer, what would your debut album be called?|spark|cap|float|hang|shade|mysterious|squeeze
+If you could join any music group which would you want to join?|rampant|adventurous|claim|screw|air|hook|brother
+What do your parents do?|stream|excuse|blade|boiling|undress|concern|spicy
+If you were a giant mega monster what city would you rampage?|steam|terrible|dramatic|unadvised|miscreant|mushy|pricey
+Did you ever have a treehouse as a kid?|swim|plane|well-off|many|bake|stir|noiseless
+Is your dad an embarassing dancer?|unite|rigid|spicy|determined|chance|crack|bright
+Do you plan to vote in the next election?|test|star|melt|orange|suit|tramp|testy
+If you could replace one bodypart with a super bionic replacement what bodypart and what features would the new bionic replacement have?|mom|channel|reject|sturdy|sincere|quixotic|pump
+What if any unusual objects have you swallowed?|loaf|distribution|water|ants|many|repair|uneven
+When you buy something new do you get a desire to use/play with it even when they dont have any physical application yet?|one|oceanic|used|fasten|produce|fence|obtainable
+Did you understand the Matrix Trilogy?|bushes|possessive|strap|interfere|faded|mushy|water
+Would you rather be the fella in a movie who gets the girl or the baddie with all the good lines?|feeble|fork|high-pitched|pest|substance|edge|coil
+If you were stinking rich, would you only go to places other rich people went?|channel|occur|oceanic|spiritual|discovery|direction|yoke
+Would you rather have a mans top half and a womens bottom half or visa versa?|geese|wonder|jump|fanatical|memory|detail|luxuriant
+Rebound relationships, good or bad?|tongue|good|tall|painful|tramp|cub|wall
+Have you ever owned a slinky?|memorise|mask|float|lumber|milky|wild|turn
+Teenage parents, good bad or indifferent?|exist|yam|shoes|calculate|bell|forgetful|loaf
+Whats the most expensive thing you've ever broken?|aboard|jaded|gleaming|smash|lovely|experience|omniscient
+Pirate downloads, good or bad?|astonishing|dull|dreary|enjoy|lake|muddle|absorbing
+Democracy, good or bad?|wild|polish|undress|pump|lake|clumsy|knotty
+Communism, good or bad?|depressed|order|queue|many|high-pitched|sheep|depressed
+Have you ever been electrocuted?|popcorn|eyes|infamous|secretive|versed|mixed|obedient
+Have you ever been attacked with a creamy bakery product?|trail|ablaze|high-pitched|vessel|curious|holiday|vast
+Have you ever shawn a sheep?|market|name|fold|pleasure|compete|bedroom|steep
+Have you ever accidentally set fire to yourself?|noise|best|spiritual|naughty|pricey|forgetful|scream
+Have you ever eaten a whole tube of pringles by yourself?|actor|anxious|squeamish|stranger|gleaming|snake|meaty
+Have you ever been hit on by someone of the same gender?|wonder|whistle|overt|church|range|regret|cup
+The war in Iraq, good or bad?|legs|dark|apathetic|majestic|truthful|electric|cagey
+The war in Afganistan, good or bad?|glistening|produce|anxious|beef|aboriginal|yellow|well-off
+Have you ever appeared on youtube?|sparkle|slip|increase|punishment|lunchroom|punishment|lowly
+Have you ever performed in front of a large audience?|penitent|racial|rhyme|change|cough|skate|land
+Have you ever eaten anything prepared by a celebrity chef?|rot|place|demonic|spill|worthless|obedient|thaw
+Have you ever been on radio?|acoustic|taste|watch|screw|minister|repair|warn
+Did your school make a teatowel that everyone submitted to?|pump|worm|lunchroom|rot|lyrical|suit|class
+What colour/style was your school tie?|limping|roll|press|serious|skirt|wish|worthless
+Do you have to wear glasses?|bead|flower|shock|macho|tired|racial|queen
+Do you bite your nails?|fence|rhyme|sleet|many|dinosaurs|rifle|square
+Do you prefer male or female singers voices?|terrible|penitent|drink|post|clean|full|moor
+Would you rather be the worlds greatest football player or lover?|screw|giraffe|fair|economic|tedious|zoo|bruise
+Do you get hayfever?|development|distance|breezy|onerous|number|record|head
+Do you have a list of things to do before your 'x' years old?|coal|plucky|attract|murder|tap|direction|underwear
+Do you like your age?|sloppy|numberless|guard|examine|money|horse|workable
+Whats your favourite physical thing you like about yourself?|oceanic|supply|horrible|smell|noise|pig|wish
+Whats your least favourite physical thing you like about yourself?|handle|tall|fat|snotty|yoke|versed|sophisticated
+Are you proud, comfortable or ashamed of your body?|remind|ad|verdant|soothe|tow|fry|fascinated
+Whats your favourite personality trait you like about yourself?|polish|well-to-do|possessive|skirt|cap|church|giraffe
+Whats your least favourite personality trait you like about yourself?|underwear|seashore|zip|approval|best|suck|marble
+Do you know html?|tasteful|roasted|fork|tray|loaf|hoc|change
+Have you ever flown first class?|available|push|saw|bore|sad|soothe|naughty
+How many languages do you speak?|vulgar|deranged|craven|friends|steam|fence|ants
+What are better, violins or pianos?|warlike|plants|zoo|fold|record|cause|billowy
+Whats the fastest you've ever driven? (as driver or passenger)|queue|trip|deer|royal|deer|bore|cagey
+What compulsions do you have?|tasteless|keen|fat|deranged|versed|steam|blue
+What makes you angry?|meek|handle|narrow|hurried|bear|raise|cumbersome
+If you could see any band, which would you like to see?|spot|workable|rely|hate|tie|compete|remove
+Who would you say are more attractive, English or Europeans?|kick|fork|oceanic|like|jump|smell|daffy
+What would you say is your favourite album of all time?|rhyme|nose|mysterious|sail|hair|beautiful|wealth
+Do you dislike hairy people?|writing|depressed|zany|bike|feigned|fearless|engine
+Are you much of an adventurer?|narrow|squeeze|spot|full|branch|mug|toes
+Do you like your own name?|push|interest|bushes|enchanting|crib|experience|mom
+Would you ever sign a Prenuptial agreement?|curious|dime|wave|sincere|sort|meek|spot
+How long has your longest ever phone call been?|rely|bushes|guitar|taste|shoes|purring|plants
+Have you ever stolen anything?|degree|bitter|rural|jolly|fail|pest|nest
+Could you ever have an affair with a married person?|pig|miscreant|vast|regret|enjoy|muddle|feeble
+Could you ever split up a couple for one reason or another?|familiar|bell|limping|skate|ready|volatile|nose
+What is your family christmases like?|dark|paint|chunky|jolly|flower|gun|squeeze
+Do you prefer sporty or academic members of the opposite sex?|squeeze|shrug|statement|obedient|rub|fail|save
+How much would it cost to buy your love?|self|unused|rot|wish|vagabond|wish|idea
+Who was your least favourite teacher at school and why?|repeat|pump|grape|plants|upbeat|penitent|calculate
+If you met a Genie who offered you three wishes, what would you wish for? (more wishes does not count)|ban|cultured|rhyme|smoggy|bitter|meaty|like

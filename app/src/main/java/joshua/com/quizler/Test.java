@@ -34,10 +34,10 @@ public class Test {
             // do reading, usually loop until end of file reading
             String mLine;
             while ((mLine = reader.readLine()) != null) {
-                String[] values = mLine.split(",");
+                String[] values = mLine.split("\\|");
                 String question = values[0];
                 String[] options = Arrays.copyOfRange(values, 1, values.length);
-                int answer =0;
+                int answer = 0;
                 questions.add( new Question(question,options,answer));
             }
         } catch (IOException e) {

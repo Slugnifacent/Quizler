@@ -26,9 +26,19 @@ public class MainActivity extends AppCompatActivity {
         UI.onClick(view);
     }
 
+    public static String GetGrade()
+    {
+        return grader.RetrieveGrade();
+    }
+
     public static boolean GradeQuestion(int Answer)
     {
         return grader.GradeAnswerToCurrentQuestion(Answer);
+    }
+
+    public static void ResetGrade()
+    {
+        grader.ResetGrade();
     }
 
     public static Question GenerateQuestion()

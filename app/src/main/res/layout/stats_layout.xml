@@ -32,7 +32,8 @@
             android:text="Reset"
             android:id="@+id/button_reset"
             android:gravity="center"
-            android:clickable="false" />
+            android:clickable="true"
+            android:onClick="onClick" />
     </LinearLayout>
 
     <ListView

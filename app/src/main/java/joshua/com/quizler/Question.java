@@ -9,7 +9,8 @@ public class Question {
     private String question;
     private String[] options;
     private int answer;
-    Random random;
+    private Random random;
+    private boolean markedCorrect;
 
     public Question(String Question, String[] Options, int Answer)
     {
@@ -17,8 +18,7 @@ public class Question {
         options = Options;
         answer = Answer;
         random = new Random();
-        shuffleQuestions(2);
-
+        Refresh();
     }
 
     private void shuffleQuestions(int Times)
@@ -60,5 +60,26 @@ public class Question {
     public int getAnswer()
     {
         return answer;
+    }
+
+    public void MarkWrong()
+    {
+        markedCorrect = false;
+    }
+
+    public boolean isMarkedCorrect()
+    {
+        return markedCorrect;
+    }
+
+    public boolean isMarkedWrong()
+    {
+        return !markedCorrect;
+    }
+
+    public void Refresh()
+    {
+        markedCorrect = true;
+        shuffleQuestions(2);
     }
 }

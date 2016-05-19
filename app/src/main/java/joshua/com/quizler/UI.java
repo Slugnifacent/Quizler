@@ -29,15 +29,16 @@ public class UI {
                 QuizLayout();
                 break;
             case R.id.button_stats:
-                StatsLayout(view);
+                StatsLayout();
+                break;
+            case R.id.button_reset:
+                ResetStats();
                 break;
             default:
                 break;
 
         }
     }
-
-
 
     public static void QuizLayout() {
             activity.setContentView(R.layout.activity_main);
@@ -77,21 +78,25 @@ public class UI {
         });
     }
 
-    private static void StatsLayout(View view) {
+    private static void StatsLayout() {
             activity.setContentView(R.layout.stats_layout);
 
             ListView listView = (ListView) activity.findViewById(R.id.list_results);
-            String[] questions = {"one", "two", "three", "four"};
+
+            String[] grade = new String[1];
+            grade[0] = MainActivity.GetGrade();
+
+
             ArrayAdapter<String> adapter = new ArrayAdapter<String>(activity,
-                    android.R.layout.simple_list_item_1, questions);
+                    android.R.layout.simple_list_item_1, grade);
+
             listView.setAdapter(adapter);
-            listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-                @Override
-                public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                    String value = (String) parent.getItemAtPosition(position);
-                    Log.d("Value","String Value " + value);
-                }
-            });
+    }
+
+    private static void ResetStats()
+    {
+        MainActivity.ResetGrade();
+        StatsLayout();
     }
 
 }

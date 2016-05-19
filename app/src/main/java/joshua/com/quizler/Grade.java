@@ -4,19 +4,41 @@ package joshua.com.quizler;
  * Created by Joshua on 5/18/2016.
  */
 public class Grade {
-    int correct;
-    int total;
+    private int points;
+    private int total;
 
-    public Grade(int Correct, int Total)
+    public Grade(int Points, int Total)
     {
-        correct = Correct;
+        points = Points;
         total = Total;
+    }
+
+    public void ResetGrade()
+    {
+        points = 0;
+        total = 0;
+    }
+
+    public void AddPoints(int Amount)
+    {
+        points += Amount;
+    }
+
+    public void IncreaseTotal(int Amount)
+    {
+        total += Amount;
     }
 
     public float Percentage()
     {
         if (total == 0) return 0;
-        return (float)correct/(float)total;
+        return (float)points/(float)total * 100;
+    }
+
+    public String GetGradeRatio()
+    {
+        String grades = String.format("%d/%d", points, total);
+        return grades;
     }
 
     public String GetLetterGrade()
@@ -37,7 +59,7 @@ public class Grade {
         return "F";
     }
 
-    private String LetterGradeHelper(float percentage,int Floor,String LetterGrade)
+    private String LetterGradeHelper(float percentage,float Floor,String LetterGrade)
     {
         StringBuilder grade = new StringBuilder(LetterGrade);
         if(percentage >= Floor + 7)
