@@ -6,10 +6,14 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import java.lang.reflect.Array;
+import java.text.Format;
+import java.util.ArrayList;
 
 import joshua.com.quizler.test.Question;
+import joshua.com.quizler.test.Test;
 
 /**
  * Created by Joshua on 5/18/2016.
@@ -91,19 +95,24 @@ public class UI {
     }
 
     private static void StatsLayout() {
-
-
             activity.setContentView(R.layout.stats_layout);
 
             ListView listView = (ListView) activity.findViewById(R.id.list_results);
 
-            String[] grade = new String[1];
-            grade[0] = MainActivity.GetGrade();
+            final String[] TestNames = MainActivity.GetTestNames();
+            ArrayList<String> list = new ArrayList<String>();
+            for(String testName : TestNames)
+            {
+                Test test = MainActivity.GetTest(testName);
+                String grade = MainActivity.GetGrade(test);
+                String formatted = String.format("%s\n %s", testName,grade);
+                list.add(formatted);
+            }
 
+            String[] grades = list.toArray(new String[0]);
 
             ArrayAdapter<String> adapter = new ArrayAdapter<String>(activity,
-                    android.R.layout.simple_list_item_1, grade);
-
+                    android.R.layout.simple_list_item_1, grades);
             listView.setAdapter(adapter);
     }
 
@@ -128,6 +137,15 @@ public class UI {
                 QuizLayout();
             }
         });
+    }
+
+    public static void Toast(String Message)
+    {
+        if(activity != null) {
+            int duration = Toast.LENGTH_SHORT;
+            Toast toast = Toast.makeText(activity, Message, duration);
+            toast.show();
+        }
     }
 
     private static void ResetStats()

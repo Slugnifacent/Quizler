@@ -22,3 +22,6 @@ You should always specify the component name when starting a service.Otherwise..
 (ACTION_VIEW|ACTION_SEND) is a type of action in the action component of an intent.|True|False
 (ACTION_VIEW|ACTION_SEND) is not a type of action in the action component of an intent.|False|True
 Data Component of the intent specifies the URI, a Uri object, that references the data to be acted on and/or the MIME type of that data.|True|False
+
+
+

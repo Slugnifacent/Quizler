@@ -38,15 +38,20 @@ public class MainActivity extends AppCompatActivity {
         UI.onClick(view);
     }
 
+    public static Test GetTest(String TestName)
+    {
+        return test.GetTest(TestName);
+    }
+
     public static void SetTest(String TestName)
     {
         currentTest = test.GetTest(TestName);
         grader = new Grader(currentTest);
     }
 
-    public static String GetGrade()
+    public static String GetGrade(Test test)
     {
-        return grader.RetrieveGrade();
+        return grader.RetrieveGrade(test);
     }
 
     public static String[] GetTestNames()
@@ -68,15 +73,6 @@ public class MainActivity extends AppCompatActivity {
     {
         if(currentTest == null) return null;
         return currentTest.GenerateQuestion();
-    }
-
-    public static void Toast(String Message)
-    {
-        if(context != null) {
-            int duration = Toast.LENGTH_SHORT;
-            Toast toast = Toast.makeText(context, Message, duration);
-            toast.show();
-        }
     }
 
     public Activity getContext()

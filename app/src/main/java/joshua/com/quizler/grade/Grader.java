@@ -1,6 +1,7 @@
 package joshua.com.quizler.grade;
 
 import joshua.com.quizler.MainActivity;
+import joshua.com.quizler.UI;
 import joshua.com.quizler.test.Question;
 import joshua.com.quizler.util.Storage;
 import joshua.com.quizler.test.Test;
@@ -19,7 +20,7 @@ public class Grader {
     public Grader (Test test)
     {
         this.test = test;
-        RetrieveGrades();
+        RetrieveGrades(test);
     }
 
     public boolean GradeAnswerToCurrentQuestion(int Answer)
@@ -40,9 +41,9 @@ public class Grader {
             }
             currentQuestion.Refresh();
             result = true;
-            MainActivity.Toast("Correct");
+            UI.Toast("Correct");
 
-            saveGrade();
+            saveGrade(test);
             return result;
         }
 
@@ -50,7 +51,7 @@ public class Grader {
             currentQuestion.MarkWrong();
             AdjustGrade(0,1);
         }
-        MainActivity.Toast("Wrong");
+        UI.Toast("Wrong");
         return result;
     }
 
@@ -60,28 +61,27 @@ public class Grader {
         grade.IncreaseTotal(Total);
     }
 
-    public void RetrieveGrades()
+    private void RetrieveGrades(Test test)
     {
-        int points = Storage.instance().retrieveFromPreferences(GradeComponent.Points);
-        int total  = Storage.instance().retrieveFromPreferences(GradeComponent.Total);
+        String testName = test.getName();
+        int points = Storage.instance().retrieveFromPreferences(testName+GradeComponent.Points);
+        int total  = Storage.instance().retrieveFromPreferences(testName + GradeComponent.Total);
         grade = new Grade(points,total);
     }
 
-    public void saveGrade()
+    private  void saveGrade(Test test)
     {
-        Storage.instance().saveToPreferences(GradeComponent.Points,grade.getPoints());
-        Storage.instance().saveToPreferences(GradeComponent.Total,grade.getTotal());
+        String testName = test.getName();
+        Storage.instance().saveToPreferences(testName+GradeComponent.Points,grade.getPoints());
+        Storage.instance().saveToPreferences(testName+GradeComponent.Total,grade.getTotal());
     }
 
-    public String RetrieveGrade()
+    public String RetrieveGrade(Test test)
     {
-        String grades = String.format("Letter Grade:  %s \n" +
-                                      "Percentage:    %f \n" +
-                                      "Correct/Total: %s",
-                grade.GetLetterGrade(),
-                grade.Percentage(),
-                grade.GetGradeRatio());
-        return grades;
+        String testName = test.getName();
+        int points = Storage.instance().retrieveFromPreferences(testName+GradeComponent.Points);
+        int total  = Storage.instance().retrieveFromPreferences(testName + GradeComponent.Total);
+        return new Grade(points,total).toString();
     }
 
     public void ResetGrade()

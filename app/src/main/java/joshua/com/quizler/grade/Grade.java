@@ -84,4 +84,16 @@ public class Grade {
     {
         return total;
     }
+
+    public String toString()
+    {
+        String grades = String.format(
+                        "Letter Grade:  %s \n" +
+                        "Percentage:    %f \n" +
+                        "Correct/Total: %s",
+                GetLetterGrade(),
+                Percentage(),
+                GetGradeRatio());
+        return grades;
+    }
 }
