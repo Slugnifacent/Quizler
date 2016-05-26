@@ -16,6 +16,14 @@
         android:layout_height="wrap_content"
         android:gravity="right">
 
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tests"
+            android:id="@+id/button_tests"
+            android:gravity="center"
+            android:clickable="true"
+            android:onClick="onClick" />
 
         <Button
             android:layout_width="wrap_content"

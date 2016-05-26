@@ -1,5 +1,7 @@
-package joshua.com.quizler;
+package joshua.com.quizler.test;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Random;
 
 /**
@@ -15,10 +17,20 @@ public class Question {
     public Question(String Question, String[] Options, int Answer)
     {
         question = Question;
-        options = Options;
+        options = ProcessOptions(Options);
         answer = Answer;
         random = new Random();
         Refresh();
+    }
+
+    // Remove duplicates from options
+    private String[] ProcessOptions(String[] Options)
+    {
+        ArrayList<String> list = new ArrayList<String>();
+        for (String string: Options) {
+            if(!list.contains(string)) list.add(string);
+        }
+        return list.toArray(new String[0]);
     }
 
     private void shuffleQuestions(int Times)

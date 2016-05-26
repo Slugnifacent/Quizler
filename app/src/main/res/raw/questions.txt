@@ -1,768 +1,222 @@
-Whats your (full) name?|plastic|hate|embarrassed|whistle|rifle|test|hurried
-How old are you?|open|flower|exclusive|abnormal|crib|peck|driving
-Whats your Birthday?|purring|lowly|chilly|rhyme|empty|sheep|women
-What starsign does that make it?|reaction|flawless|deranged|acoustic|faded|engine|curtain
-Whats your favourite colour?|skirt|parallel|way|relieved|tame|uppity|day
-Whats your lucky number?|efficient|electric|chicken|anxious|grass|cumbersome|protect
-Do you have any pets?|word|ad|fold|squeeze|damaged|force|depressed
-Where are you from?|coil|swim|substantial|light|turn|erratic|mundane
-How tall are you?|icy|muddle|snakes|closed|cultured|sheep|cause
-What shoe size are you?|stir|outrageous|trick|space|envious|interesting|standing
-How many pairs of shoes do you own?|dispensable|polish|spiffy|standing|ban|pickle|impress
-If you were prime miniser/ruler of the world what laws would you make?|snakes|attack|lake|retire|future|functional|rice
-If you were a super hero what powers would you have?|eyes|blue|mom|wet|writing|sincere|billowy
-and what would your hero name be?|air|woozy|embarrassed|space|cobweb|night|sad
-and what outfit would you wear?|invention|evanescent|phobic|wrap|careful|smoggy|sleet
-What was your last dream about?|shaggy|free|distance|building|fortunate|approval|brother
-What would you do if you won the lottery?|file|rot|secret|remove|way|trace|burly
-Would you like to build/design your own house?|lowly|gifted|terrible|thing|good|sail|silky
-Which form of public transport do you prefer?|explain|fade|bike|dogs|love|afraid|fold
-What talents do you have?|nose|test|produce|curious|repeat|sedate|nest
-Can you juggle?|hang|suck|lovely|flat|kitty|noxious|painstaking
-Can you solve a rubix cube?|money|beds|good|haunt|workable|pale|light
-Do you have a cherished childhood teddybear?|vigorous|money|day|distribution|direction|stem|cellar
-Are you psychic in any way?|jelly|curtain|price|inform|plant|burly|hanging
-Are you a good dancer?|macho|penitent|hesitant|skirt|thoughtful|expect|cumbersome
-Are you a good singer?|exclusive|wicked|question|employ|trail|outgoing|behavior
-Are you a good cook?|obtainable|shade|dolls|willing|icy|sack|haircut
-Are you a good artist?|useful|protest|drunk|attraction|bitter|laugh|dime
-Are you a good listener?|vengeful|irritating|eatable|overt|full|spiritual|mask
-Are you a good public speaker?|materialistic|pets|holiday|lowly|powder|unable|hushed
-Are you a good babysitter?|thoughtful|woozy|smoke|identify|demonic|clean|cheese
-Are you a good mechanic?|chubby|hurried|oceanic|hanging|invention|horses|seashore
-Are you a good diplomat?|upbeat|burst|brother|reason|level|miscreant|anxious
-Are you a good employee?|silky|rural|useful|electric|skate|shade|trade
-Are you a good dresser?|spiffy|suit|ski|word|crowd|interfere|stay
-Are you a good swimmer?|hanging|lavish|uneven|silky|punishment|stiff|horn
-Are you a good skier?|noxious|scrub|versed|engine|familiar|rhyme|rub
-Are you a good lover?|tall|afford|wave|horrible|snakes|glistening|pricey
-Are you a good musician?|admire|blue|murder|lyrical|one|wish|file
-Are you a good comedian?|ready|minister|abstracted|lowly|tongue|kick|shy
-Are you a good cleaner?|end|secret|memorise|capable|substantial|depressed|flower
-Are you a good actor?|fast|brother|like|orange|tap|juggle|smart
-Are you a good writer?|please|painstaking|bore|squeeze|deranged|curtain|tank
-Have you ever been bungee jumping?|caption|activity|cagey|cobweb|overt|legs|demonic
-Have you ever been canoeing/kayaking?|painstaking|cap|punishment|shrug|slow|calm|snake
-What types of holidays do you prefer?|thaw|trip|squeeze|empty|drink|nest|obedient
-Whats the furthest you've ever been on holiday?|hilarious|mundane|night|protest|question|queen|afraid
-What was your favourite holiday?|quixotic|smell|repair|quixotic|testy|detailed|light
-Where would your dream holiday be?|discovery|numberless|vagabond|worm|fry|supply|rigid
-Can you tap dance?|bare|relieved|visitor|money|fold|relieved|sparkling
-Whats your favourite zoo animal?|closed|spiritual|afraid|repair|brother|vessel|vengeful
-Whats your favourite sport?|right|stone|love|snore|expect|rice|tender
-Whats your favourite food?|impress|shock|silky|glove|absorbing|workable|painful
-Whats your favourite pizza topping?|longing|bare|hook|jolly|order|suit|mom
-Whats your favourite film?|tender|holiday|possessive|admire|horn|quixotic|flat
-Whats your favourite song?|lunchroom|unadvised|ancient|cry|irritating|painstaking|tank
-Whats your favourite alcoholic drink?|best|snakes|ants|attract|sparkle|worm|please
-Whats your favourite non-alcoholic drink?|boiling|untidy|fat|shake|offbeat|butter|sparkle
-Whats your favourite TV program?|horn|willing|serious|fold|moor|accessible|horrible
-Whats your favourite boyband?|sturdy|daffy|undress|cub|sparkle|truthful|suck
-Whats your favourite girl group?|cry|rice|chunky|distribution|page|page|well-groomed
-What would be your ideal partner?|uneven|soothe|salty|deranged|person|exotic|night
-Do you want children?|holiday|drunk|crowd|action|spoon|snails|wall
-Do you want a church wedding?|hook|drum|noise|aback|afraid|remember|madly
-Are you religious?|fork|wave|rose|familiar|mug|lake|future
-Do you like reality TV programs?|snore|cause|lunchroom|powder|wonder|crime|quixotic
-Do you like TV talent shows?|hug|edge|mug|concern|suck|shy|turn
-If you were gay who would your life partner be?|near|fast|detail|pinch|aboard|futuristic|pest
-If you could go back in time to change one thing what would it be?|pest|best|vessel|wall|copy|pricey|rhyme
-How many hats do you own?|lovely|pets|ancient|tall|skate|utter|shock
-Are you any good at pool?|nest|faded|bedroom|watch|heady|smart|best
-Whats the highest you've ever jumped into the water from?|tax|mushy|foot|meddle|curious|record|rigid
-Have you ever been admitted to hospital?|beef|roasted|relieved|cry|bouncy|dogs|sincere
-Have you ever had any brushes with the law?|erratic|uncovered|scarecrow|earn|expand|vagabond|well-to-do
-Have you ever been on TV?|beds|pest|cluttered|metal|way|efficient|orange
-Have you ever met any celebrities?|flower|murder|record|burst|noisy|functional|sturdy
-Have you ever been to Legoland?|secretive|orange|claim|wicked|increase|skirt|clumsy
-Have you ever done something heroic?|flower|depressed|naughty|page|purring|bare|reading
-Have you ever played a practical joke on anyone?|jolly|rigid|mushy|beef|bat|workable|drink
-Have you ever been the recipiant of a practical joke?|amuse|tame|wonder|gratis|evanescent|exist|lovely
-What would be your best achievement to date?|apathetic|well-to-do|eyes|wrong|skate|obeisant|sparkling
-Do you prefer baths or showers?|sad|found|curious|hate|painstaking|rigid|twist
-Do you prefer towel drying, blow drying or natural dryin your hair?|earn|harass|futuristic|unadvised|obey|interfere|brother
-Have you ever built a snowman?|birds|plant|square|spill|tasteless|hammer|cluttered
-Have you ever been sledging?|price|workable|oceanic|hook|cracker|chase|empty
-Have you ever flown a kite?|excuse|boat|attack|ski|unused|stir|diligent
-What colour socks are you wearing?|attraction|paint|ants|gleaming|dreary|determined|value
-If you could live anywhere, where would that be?|identify|instruct|uncovered|wonder|feeble|pump|bell
-Have you ever been famous?|claim|drunk|lyrical|reason|remove|anxious|fasten
-Would you like to be a big celebrity?|kitty|shrug|file|trucks|exist|fold|hair
-Would you ever go on Big Brother?|bathe|good|humdrum|remember|numerous|moan|mysterious
-How big is your TV?|milky|float|trick|dinosaurs|garrulous|vast|roasted
-What is your most essential appliance?|protest|seemly|turn|feigned|trip|deer|rice
-What type of music do you like?|painful|art|taste|cluttered|stem|float|cloistered
-Have you ever been skinnydipping?|square|quirky|ubiquitous|steam|thirsty|mourn|flower
-How many Pillows do you sleep with?|stamp|curtain|ablaze|high|substantial|bitter|toes
-What position do you often sleep in?|thirsty|kitty|hook|tasteless|powder|haunt|brainy
-What do you wear to bed?|sign|sloppy|tap|queue|shake|whistle|jaded
-How big is your house?|harass|protect|flower|spray|sick|wish|increase
-Do you prefer sunrises or sunsets?|muddle|wrong|ear|hoc|naughty|hollow|roll
-What do you typically have for breakfast?|saw|overt|cup|jellyfish|outrageous|truthful|vast
-Do you like scary movies?|hair|thirsty|whistle|snakes|zip|time|depressed
-Whats your favourite Milkshake flavour?|foot|alike|wooden|sort|shake|flavor|sort
-Have you ever been in a newspaper?|plucky|develop|open|hammer|alike|boast|crack
-How long can you balance on one foot?|behavior|dress|penitent|milky|wave|humdrum|money
-Have you ever fired a gun?|functional|noiseless|number|tire|develop|suck|hammer
-Have you ever tried archery?|dull|fail|next|sparkling|save|retire|sparkle
-Whats your favourite condement?|fail|well-to-do|vengeful|star|penitent|basketball|flower
-Whats your favourite clean word?|change|rhyme|zany|square|observation|judge|mother
-Whats your favourite swear word?|boast|lowly|ear|value|imminent|substance|steep
-Whats your least favourite word?|dress|disturbed|grip|snore|channel|grieving|next
-What was the last film you saw?|obedient|money|hollow|near|range|pump|unable
-What football team do you support?|neighborly|mug|tax|instruct|smell|afford|volatile
-Whats the longest you've gone without sleep?|chance|behavior|develop|dull|wander|sleet|wheel
-Whats the tallest building you've ever been up?|haircut|wander|phobic|descriptive|price|market|reading
-Do you have any scars?|cynical|rose|violet|feigned|luxuriant|dinosaurs|distance
-Do you like marmite?|giraffe|chase|next|trite|turn|upbeat|number
-Did you ever win any sportsday events?|art|succinct|utter|memorise|toes|tax|protective
-What did you want to be when you grew up?|dinosaurs|instruct|observation|store|brass|kitty|fool
-If you could change anything about yourself what would it be?|cause|copy|person|sophisticated|embarrassed|hesitant|ablaze
-Whats the longest you've ever grown your hair?|observation|art|form|capable|shake|smart|pest
-Are you scared of flying?|crowd|pinch|night|price|familiar|possessive|cap
-Would you rather trade some intelligence for looks or looks for intelligence?|smell|songs|jolly|knotty|hair|gleaming|determined
-Have you ever tie-dyed your own clothes?|wicked|miscreant|smoke|secret|idea|paint|trail
-How often do you buy new clothes?|sack|beds|meat|drum|noxious|punishment|experience
-Are you reliable?|utter|building|wonder|grip|morning|pest|muddle
-Are you proud of yourself?|plants|meat|stem|tank|clumsy|fool|expand
-Have you ever had a secret admirer|aback|vigorous|enter|channel|driving|foot|elastic
-If you could ask your future self one question what would it be?|peck|determined|guard|island|jelly|tow|secret
-Do you hold grudges?|fasten|head|scratch|shrug|shoes|strap|nest
-If you could breed two animals together to defy the laws of nature what new animal would you create?|fanatical|mature|eatable|word|develop|shrill|raise
-Do you decorate the outside of your house for christmas?|neat|trade|upbeat|songs|songs|fat|aboard
-Can you solve sudoko puzzles?|observant|attack|metal|driving|testy|depressed|alert
-Have you ever played conkers?|aboriginal|self|marble|careful|ubiquitous|stranger|tramp
-Whats the most unusual conversation you've ever had?|calm|pleasure|church|detail|calm|pale|well-to-do
-Are you much of a gambler?|detailed|copy|spark|zip|reject|admire|bouncy
-Are you much of a daredevil?|visitor|seemly|painful|astonishing|toothbrush|level|yoke
-Are you a good liar?|burst|seat|icy|fast|smell|humdrum|hushed
-Are you a good judge of character?|many|badge|enchanting|rhyme|economic|air|rice
-Are you any good at charades?|increase|meaty|driving|embarrassed|sassy|pleasure|succinct
-How long could you go without talking?|compete|high|melt|rampant|noxious|roll|pale
-What has been your worst haircut/style?|feigned|smoke|racial|future|calculate|head|loaf
-Can you iceskate?|glove|calculator|crib|sail|upbeat|invention|claim
-Can you summersault?|woozy|beef|shy|volatile|vast|tired|obeisant
-Whats your favourite joke?|women|order|grip|coil|memory|outrageous|aboard
-Whats been your best present?|enormous|visitor|macho|wander|clean|trace|ready
-Whats been your worst present?|unadvised|reading|ablaze|hang|form|hair|bat
-Have you ever sleepwalked?|pickle|found|dreary|chilly|cough|head|unused
-Can you build a house of cards?|skate|bouncy|thirsty|eyes|sign|attract|juggle
-Whats your favourite TV advert?|thin|gratis|near|sheep|laugh|pleasure|willing
-Can you play poker?|shy|thaw|development|grass|wave|moan|pinch
-If your parents hated your partner you currently loved would you ditch him or carry on with him despite the protests?|versed|air|range|square|sparkling|demonic|plastic
-Have you ever been professionally photographed?|accessible|cough|languid|pest|juggle|numerous|jittery
-Have you ever baked your own cake?|bike|lumber|spray|aboard|protective|tedious|squeeze
-Whats your favourite fruit pastel colour?|stay|well-off|wild|water|flat|coal|distance
-What traditionally adorns the top of your christmas tree?|suit|shy|exotic|range|tasteful|guard|thing
-What would be your dream sandwich?|valuable|closed|loaf|sincere|grip|uncovered|copper
-Can you inpersonate anyone famous?|jump|uncovered|man|crowd|refuse|zany|jelly
-Can you do any accents other than your own?|evanescent|rot|relieved|activity|crowd|bushes|room
-Do you have a strong local accent?|ablaze|rifle|fear|horses|toes|noisy|legs
-Whats your favourite accent?|sincere|boiling|willing|stone|refuse|willing|cub
-In O's and X's which do you normally pick?|idea|grape|please|guard|protective|accurate|writing
-Do you prefer blue or black inked pens?|absorbing|chilly|chunky|ants|familiar|idea|horn
-What was the last thing you recorded off TV?|parallel|open|outrageous|succinct|wander|plants|money
-What was the last thing you dressed up as for fancy dress?|stew|narrow|sick|whistle|record|driving|flower
-Do you prefer green or red grapes?|spiritual|throne|question|haircut|idea|omniscient|murder
-What do you like on your toast?|tire|fascinated|remind|nine|thoughtful|sparkling|eyes
-Do you prefer liquid soap or bars of soap?|trace|dogs|curious|volatile|attack|adventurous|grip
-How do you have your eggs?|shock|suit|macho|shrug|edge|drunk|cause
-Whats your favourite saying?|distribution|waste|shrug|cheese|turn|remind|bear
-Have you ever been in a tug of war?|cellar|gleaming|range|instruct|squeamish|low|embarrassed
-and did you win?|good|functional|whistle|price|taste|excuse|activity
-Can you stand on your hands unassisted?|develop|interest|substance|remind|numerous|experience|cagey
-What do you have on your fridge door?|activity|racial|flood|holiday|unite|keen|rural
-Do you love or hate myspace?|store|majestic|quicksand|shade|wrap|activity|morning
-Who was the last person to knock/ring at your door?|knotty|seemly|uppity|painstaking|trucks|puny|holiday
-How old were you when you last went trick or treating?|hushed|feeble|free|shake|volleyball|afford|abhorrent
-Have you ever been bobbing for apples?|interesting|shoes|bell|curious|dolls|stamp|low
-Whats your most expensive piece of clothing?|ethereal|ablaze|rhyme|honorable|cynical|lovely|unused
-Whats the last thing you took a picture of?|fair|low|bawdy|examine|exercise|bedroom|outstanding
-Whats the last thing you drew a picture of?|love|lavish|gaze|verdant|righteous|smell|afraid
-Have you ever bought anything from ebay?|existence|wink|gratis|dispensable|pricey|bone|sick
-Whats your favourite smell/scent?|taste|well-off|sheep|neighborly|pump|ancient|repair
-Can you blow bubbles with bubblegum?|turn|reason|wonder|look|aback|bedroom|worthless
-What was your favourite birthday?|engine|twist|afford|noise|flat|spiffy|parallel
-Can you curl your tounge?|carry|yoke|scarecrow|limping|shrug|glove|sack
-Is your bellybutton an innie or outie?|edge|full|chilly|lock|empty|astonishing|electric
-What would be your dream car?|imminent|hook|meek|ancient|tire|bruise|wrap
-Are you left or right handed?|drink|whisper|wish|great|relieved|tickle|aboriginal
-What was the last book you read?|bawdy|meddle|loaf|alert|calm|watch|stir
-What was the last song you danced to?|zip|increase|disturbed|wealth|star|geese|bitter
-Have you ever owned a yo-yo?|abhorrent|compete|rural|naughty|paste|float|madly
-Have you ever been on a pogo stick?|like|bead|meat|hammer|lake|ablaze|well-groomed
-Have you ever been on a space hopper?|mundane|hate|distance|bake|approval|acoustic|trace
-Who was the last person to send you a text message?|humdrum|bathe|cars|memorise|shock|cup|ski
-Have you ever accidentally injured anyone?|arrange|outrageous|versed|reason|lake|wink|squeamish
-Are you scared of spiders?|range|pricey|interesting|identify|bear|spoon|dapper
-Can you down a pint (of anything) in one?|time|trace|zip|gleaming|disillusioned|assorted|square
-Have you ever been banned from a public place?|enchanting|bouncy|pleasure|mitten|feeble|sack|sign
-How much spam email do you tend to get a week?|lyrical|oceanic|honorable|wrap|ad|bare|tender
-If you could learn any language fluently what would it be?|amused|loving|trite|dry|action|gaze|fluffy
-What historical Figure would you love to see in 21st centuary life?|oil|fool|fry|lavish|amused|blood|apathetic
-As a kid were you ever frighted of a monster under the bed or in the cupboard?|quicksand|puny|spray|grip|pump|approval|fear
-Do you like clowns?|approval|infamous|limping|cuddly|land|smash|trick
-Do you prefer BBC or ITV?|omniscient|saw|brass|crowd|like|please|toes
-Have you ever been surfing?|powder|embarrassed|careful|horse|stiff|interesting|roll
-Have you ever been snowboarding?|record|secretive|salty|oil|puzzled|cobweb|underwear
-Who was better, the Beatles or Elvis Presley?|dogs|foot|blood|record|distribution|dispensable|instruct
-Whats your favourite type of foreign food?|jeans|blood|protect|protective|hook|hurried|price
-Which Foreign country do you dislike the most?|number|save|mysterious|bat|ants|reading|bathe
-Do you like your music loud or easy listening?|experience|smart|self|butter|hand|interest|utter
-Whats your favourite animated or cartoon program?|yoke|tank|meddle|branch|increase|question|attract
-Do you sing in the shower?|shrug|edge|mysterious|spill|existence|yoke|spiffy
-Are you a clean or messy person?|rain|brother|place|guitar|untidy|great|tall
-Whats your prefered playing piece in monopoly?|diligent|available|plastic|standing|drum|sick|miscreant
-Can or Do you still play twister?|wish|art|lean|ambitious|bed|coil|instruct
-Can you play chess?|expand|press|attack|blade|flat|test|man
-Do you know the dance steps to an annoying cheesey pop song?|warn|silky|mushy|meaty|turn|pump|naughty
-Do you prefer straight or bendy straws?|dramatic|numberless|uncovered|waste|paint|hoc|volleyball
-Have you ever entered a talent contest?|thing|humdrum|self|burly|wealth|trail|raise
-and did you win?|loving|wink|paste|milky|vigorous|grieving|sloppy
-Do you like poetry?|majestic|ear|scribble|reason|cushion|repair|stamp
-Are you a bad loser?|faded|hate|actor|tasteful|square|crime|degree
-Which would you choose? Jelly or Ice Cream?|snails|zoo|fast|sparkle|scrub|tap|observant
-Whats your favourite type of Pie?|alcoholic|zip|dinosaurs|ambitious|stranger|person|outstanding
-Whats your most used phrase?|cushion|silky|part|supply|lamp|tame|tax
-Whats your most used word?|fool|fearless|caption|interfere|head|hate|market
-Who would you want to play you in a movie of your life?|righteous|legs|snore|suit|throne|feigned|change
-What would your dream job be?|alike|baseball|bed|push|level|instruct|useful
-Which song do you hate the most?|adventurous|coil|question|cart|memorise|underwear|secretive
-How long does it take you to get ready?|miscreant|observation|mundane|clean|truthful|high|vast
-What do you think the greatest invention has been?|order|numerous|zip|repair|idea|adventurous|use
-Whats your favourite feature on the opposite sex?|cracker|abhorrent|open|rural|elastic|coal|tickle
-Whats your least favourite feature on the opposite sex?|level|square|caption|fast|slip|cellar|shoes
-Who's your favourite Comedian?|little|head|money|meaty|trace|hoc|dull
-What's your favourite board game?|untidy|peck|righteous|accurate|tramp|cagey|capable
-Do you have any lucky items, objects or traditions?|branch|rifle|remove|clean|testy|nose|soothe
-Do you have any superstitions?|pricey|head|scrub|worthless|yam|store|suit
-Whats your favourite Movie quote?|calculate|shade|fail|approval|good|near|moor
-Who would win in a fight? Chuck Norris or Jack Bauer?|order|cuddly|protective|word|mourn|volleyball|tame
-Do you have much of an ego?|cup|expand|sassy|taste|null|solid|driving
-Do you wear sunglasses indoors to look cool or stylish?|baseball|hate|rural|instruct|use|hushed|mixed
-Are you a hat person?|plane|class|scrub|fortunate|bare|hair|trucks
-Whats your favourite supermarket chain?|scratch|tender|bathe|coil|limping|tickle|functional
-Whats your favourite fastfood chain?|unused|trace|spoon|drink|curtain|bike|reaction
-Whats your first thought upon waking up?|ancient|bathe|nut|arrange|melt|rampant|best
-What animal would you most like to have as a pet?|afford|wet|rose|careful|upbeat|stone|toothbrush
-Whats your favourite type of tree?|ear|wicked|bake|truthful|attack|please|overt
-If you could bankrupt one person or company who would it be?|imperfect|country|baseball|writing|shrill|cart|dry
-If you could steal one thing without consequence what would it be?|top|fat|curtain|whisper|quicksand|languid|outgoing
-Who's your favourite celeb with the same first name or surname as you?|roasted|hoc|muddle|electric|next|cars|pickle
-If evil-doers invaded your country would you rush to the battlelines to defend the motherland or hide in a box?|descriptive|powder|beef|snore|sulky|functional|haircut
-Whats your favourite flower?|substantial|spiffy|mask|meek|absorbing|glove|oceanic
-Do you believe in ghosts?|onerous|milky|amuse|imminent|queen|wild|adventurous
-Do you believe in the loch ness monster?|regret|sedate|demonic|stay|shock|irritating|supply
-Do you believe in Aliens?|cap|cub|noxious|explain|vulgar|snake|next
-Do you believe the Governments hide technology and information from the public?|clean|zip|many|bruise|uncovered|development|offbeat
-Which is your favourite pokemon?|songs|store|star|tame|afraid|thaw|imperfect
-What horror fiction character scares you the most?|cloudy|punishment|sassy|direction|hook|sophisticated|obeisant
-Can you do 10 revolutions of a hula hoop?|enter|exotic|meddle|bitter|eyes|cagey|roasted
-Do you think Great Britain should have a National Day?|light|gifted|hair|square|mysterious|exist|full
-Do you think Great Britain should be part of a United Europe?|stage|invention|imperfect|rifle|tray|sulky|immense
-Would you want the Euro or keep the British Pound?|quirky|depressed|snakes|aboriginal|gleaming|puzzled|offbeat
-Were you part of the Brownies/Cubs/Scouts/Guides etc|stem|materialistic|absorbing|hanging|great|hesitant|slow
-Have you ever invented a fairly unique meal or drink?|sassy|fork|valuable|macho|depressed|dogs|judge
-Do you have any secret family recipes?|copy|badge|claim|waste|swim|throne|overt
-Do you have any family secrets? :o|action|rub|zip|astonishing|bear|queue|well-to-do
-Are you good at keeping secrets?|succinct|tender|sign|mother|demonic|neighborly|level
-Have you ever been up in a hot air balloon?|substance|economic|faded|engine|open|please|outgoing
-Whats your favourite Sci-fi film/program etc?|economic|paint|hand|sack|uneven|craven|tame
-When playing checkers or chess do you prefer to be black or white?|protective|meaty|trace|jaded|imperfect|shoes|tramp
-Which is better, a Pastie or Sausage Roll?|cultured|futuristic|materialistic|drum|oceanic|flat|jolly
-Do you prefer shopping on the high street or online?|mitten|depressed|scribble|blade|disturbed|tongue|file
-Would you ever want to learn to fly?|madly|plant|adventurous|market|amused|behavior|order
-Do you often read your horoscope?|paste|island|possessive|invention|country|noiseless|obtainable
-Have you ever had a proper Tarot reading?|afraid|sack|smash|enormous|back|puzzled|descriptive
-Whats your favourite brand of newspaper?|place|envious|whistle|attract|steep|fool|snotty
-Have you ever milked a cow?|load|milk|edge|abhorrent|grip|protest|pig
-Have you ever used the phrase "back in my time" to someone younger than you?|garrulous|cagey|pale|undress|miscreant|vessel|drink
-Do you love or hate rollercoasters?|divergent|aboriginal|bat|futuristic|acoustic|person|testy
-Which was the greatest Empire?|horrible|plantation|lake|instruct|flood|ants|cuddly
-Whats the cleverest word you know?|smoggy|screw|high-pitched|paste|milky|icy|explain
-Whats your favourite sportsware brand?|nut|marble|hug|hair|aboriginal|solid|change
-Do you buy any weekly/monthly magazines?|disturbed|nest|royal|flat|well-off|beds|glorious
-Who's your favourite Superhero?|spoon|ready|utter|night|tow|channel|cracker
-Who's your favourite Villain/Baddie?|empty|obey|record|clean|employ|protest|muddle
-What was the last Album you purchased?|puny|oceanic|feigned|nine|repair|handle|smash
-What was the last DVD you purchased?|morning|store|flower|obey|cellar|admire|horse
-What was the last piece of clothing you purchased?|volatile|deer|ambitious|high|island|bat|cynical
-When pulling crackers does everyone get one each regardless or whoever gets the big ends keeps all the prizes|fear|excite|obey|high-pitched|youthful|exclusive|substantial
-Do you ever make your own greetings cards|wealth|mitten|impress|guitar|high-pitched|interesting|rice
-Do you have a swiss army knife?|fluffy|daffy|lean|burly|label|snakes|clumsy
-At what age did you twig onto the fact Santa wasnt real?|fold|daffy|form|evanescent|clean|jump|exist
-Whats your favourite fruit?|look|enchanting|remember|idea|rub|mysterious|trip
-Have you ever done something really unbelivable, only to have no one around to see it?|chicken|load|observation|approval|secret|brother|rice
-Do you buy from charity shops?|steep|bear|brainy|occur|sloppy|snore|outstanding
-Have you ever sold your services?|driving|closed|hushed|vengeful|gifted|grieving|meat
-Have you ever raised money for charity?|pump|feigned|soothe|action|vast|bouncy|dull
-Have you ever won a giant sized cuddly toy from a fair?|lock|lovely|hurried|grip|cap|square|wanting
-Is the glass half full or half empty?|billowy|day|brainy|whistle|wish|space|cub
-Is the grass greener on the other side?|repair|excite|cup|horn|ants|wish|verdant
-If a tree falls in the forest and there's no one around to hear it does it make a noise?|naughty|exist|north|bruise|guard|test|tap
-Why does it always rain on me?|record|wish|plastic|hilarious|cushion|flawless|place
-Have you ever sailed a boat?|embarrassed|lowly|bear|regret|toes|smell|bell
-Do you love or loathe Harry Potter?|immense|used|ubiquitous|possessive|queen|tramp|number
-Do you do your utmost for the environment?|protect|cracker|hair|bawdy|brainy|save|mitten
-Do you love or loather Eurovison?|trucks|wave|possessive|thin|hilarious|stranger|protect
-Have you ever weilded a sword?|cars|ad|onerous|remind|scarecrow|noisy|statement
-If you were famous would you want a statue or a building names after you?|hammer|rice|clean|well-groomed|available|peck|blue
-Whats your favourite type of fish?|statement|discovery|secretive|tasteless|roasted|right|trick
-Which do you prefer pony tails or pig tails?|mysterious|cause|sulky|reaction|wooden|fluffy|substance
-Whats the ultimate cake topping?|wooden|disillusioned|record|sparkle|rice|powder|testy
-Do you like marzipan?|remove|cars|swim|tedious|obtainable|repeat|salty
-Whats better? Center Parks or Butlins?|cagey|stir|underwear|wheel|activity|roll|screw
-If you were in a band, what instrument/role would you play?|pinch|mask|bed|bare|paste|roll|heady
-Can you erect a tent?|retire|rainy|whistle|bat|effect|blade|envious
-Do you suck or bite lollipops?|whisper|untidy|sheep|numberless|cloudy|tame|shrug
-Have you ever used the yellow pages?|obey|wonder|well-to-do|jagged|coil|sulky|unite
-If you have an mp3 player what size is it?|save|envious|development|badge|wall|bawdy|increase
-Do you still have any music on vinyl or casettes?|melt|admire|vigorous|thin|drum|efficient|hang
-Do you still have a camera that uses conventional film?|building|ethereal|exclusive|jeans|coal|loaf|ban
-Approximately how many DVD's do you have?|abstracted|reading|cobweb|nine|development|peel|skate
-Approximately how many Albums do you have?|flavor|erratic|wooden|add|milk|whistle|smoke
-Do you talk to yourself?|space|boast|fail|bake|rigid|disturbed|grieving
-Do you sing to yourself?|future|omniscient|spark|interfere|mitten|cluttered|scribble
-Do you know any identical twins?|sail|clean|dispensable|warn|whistle|dry|rhyme
-Have you ever given blood?|pull|copper|pest|skirt|evanescent|class|lamp
-Could you ever be a medical guineapig?|inform|laugh|sack|dinosaurs|kitty|smell|thrill
-Whats your favourite radio station?|interfere|unused|wrap|copy|disillusioned|scribble|toothbrush
-Whats your favourite letter of the Alphabet?|accurate|macho|moor|employ|development|puzzled|admire
-Which is better? rollerblade or rollerskates?|mask|forgetful|wink|oceanic|electric|spoon|smell
-Have you ever written a love letter?|square|night|snotty|grip|invention|flower|seat
-How many valentines cards did you recieve this/last year?|value|horse|love|mixed|rub|excite|testy
-What are cooler? Dinosaurs or Dragons?|stranger|damage|acoustic|future|calculator|pickle|volleyball
-Have you ever made your own ice lollies?|soothe|mug|luxuriant|sail|wooden|cultured|low
-Have you ever made your own Ice cream?|raise|wicked|well-to-do|puzzled|neat|rub|jelly
-Which forgeign language did you have to learn at school?|effect|label|serious|oil|hand|blade|demonic
-and do you still remember enough to hold a conversation in that language?|volleyball|women|judge|mother|spicy|smoke|admire
-Do you know CPR?|fortunate|outgoing|lyrical|penitent|open|smoggy|pleasure
-Do you have any swimming badges?|butter|capable|soothe|abnormal|grieving|part|alike
-Do you prefer digital or rotary/analogue clocks?|low|violet|fold|tedious|sack|record|salty
-How tall is the tallest person you know?|laugh|degree|gleaming|lean|amused|vessel|quixotic
-Have you ever got lost in a maze?|rifle|popcorn|bat|tray|haunt|depressed|daffy
-Have you ever been attacked by a wild animal?|flawless|amuse|order|train|puny|seashore|flood
-Have you ever ridden a camel?|whistle|offbeat|adventurous|metal|many|good|polish
-Whats your opinion on rats?|wet|imminent|bell|cloudy|plants|file|found
-Have you ever been to a gym?|worthless|bruise|invention|woozy|economic|eatable|fluffy
-Have you ever been in a helicopter?|groan|shoes|crowd|empty|trail|birds|square
-Have you ever cheated at a test?|guitar|sedate|seemly|detail|bedroom|admire|examine
-Have you ever ridden a tractor?|force|cultured|purring|load|vulgar|effect|change
-Are you a gossip?|null|flood|plantation|abstracted|fool|light|crowd
-Have you ever cried at a film?|cream|gifted|future|question|hollow|clean|rampant
-When you're ill do you struggle on regardless or just curl up in bed as much as possible?|bedroom|acoustic|sheep|bathe|paste|blue|muddle
-Do you need to write down things to remember them?|salty|tramp|verdant|verdant|wonder|direction|enter
-Do you keep a diary/journal?|tray|mixed|milky|hanging|zip|love|volatile
-Are you scared of thunderstorms?|abnormal|meddle|serious|trip|solid|cobweb|many
-Do you have any unusual fears or phobias?|pale|terrible|zesty|penitent|fold|tray|brass
-Whats your favourite disney movie?|chilly|snails|sincere|pricey|horrible|neat|horn
-Have you ever slept in a caravan?|bake|wrong|tie|dogs|magical|haunt|bathe
-Have you ever painted a house?|class|vagabond|stir|noise|snails|damaged|hot
-Have you got green fingers?|zesty|save|remove|swim|rain|peel|grieving
-Whats the tallest tree you've ever climbed?|hate|ablaze|songs|wild|wonder|swim|sparkle
-Have you ever dialed the talking clock?|honorable|penitent|land|way|painful|elastic|shock
-Do you always wear identical socks?|fascinated|best|harass|clumsy|nose|fat|mysterious
-Do you live by any motto or philosophy?|noiseless|branch|drunk|envious|number|experience|twist
-Do you lick the yoghurt or desert lid?|rice|cub|smart|cloistered|grieving|faded|volatile
-Do you lick the spoon clean after making something sweet?|float|regret|load|phobic|gratis|trite|enormous
-Do you like the sound of music? (the musical/film)|bore|succinct|useful|increase|pig|hook|relieved
-Have you ever made your own orangejuice?|bouncy|pleasure|cub|blood|keen|stiff|humdrum
-Have you ever sucked on a lemon?|flood|bed|serious|tickle|substance|puny|day
-Have you ever licked a battery?|waste|dispensable|assorted|spray|adventurous|best|remind
-Are you a good aim with a rubber band?|trip|cluttered|rose|minister|tasteful|familiar|beds
-Have you ever played golf?|fry|songs|empty|zippy|low|holiday|word
-Whats the most unusual name you've ever come across?|luxuriant|haircut|jaded|bed|star|melt|suit
-Do you prefer to wash in the mornings or evenings?|plantation|queue|lovely|neat|morning|five|plants
-Have you ever danced in the rain?|craven|well-off|value|gifted|cluttered|divergent|bushes
-Do you like long or short hair?|wanting|sleet|horn|shrug|horn|naughty|accessible
-Have you ever sworn at an authority figure?|gratis|elastic|bright|orange|jolly|cellar|jolly
-Have you ever walked into a wall?|wink|mature|rural|hair|flood|cup|crib
-Whats your favourite precious metal?|fearless|boast|stiff|copper|occur|supply|class
-Whats your favourite precious stone?|label|smash|cluttered|thing|blood|writing|visitor
-Could you ever hunt your own meal?|plant|retire|neat|hammer|sturdy|snails|page
-Have you ever read any comics?|press|bike|outrageous|bed|solid|pump|meaty
-Where do you like to go to on a first date?|excite|rice|hair|daffy|madly|store|haunt
-Do you prefer vertical or horizontal stripes?|serious|ambitious|onerous|activity|bone|vulgar|spill
-Have you ever baked your own bread?|shoes|dress|wicked|cultured|steam|stream|apathetic
-Can you believe I can't believe its not butter is in fact not actually butter?|shade|found|coil|ubiquitous|dinosaurs|outgoing|muddle
-Can you name all 50 American states?|found|north|minister|worm|friends|cellar|seat
-Have you ever owned a goldfish?|curtain|dinosaurs|sick|class|thoughtful|paint|arrange
-What was your favourite school subject?|thrill|occur|fail|burst|cobweb|bell|employ
-What was your least favourite school subject?|question|cracker|distribution|flower|ubiquitous|smell|bell
-Have you ever passed wind in an embarassing situation?|mourn|snotty|well-to-do|pest|remove|low|wink
-Have you ever played the bongos?|smell|abhorrent|boiling|horrible|lumber|interesting|tired
-Have you ever handled a snake?|use|milk|scarecrow|load|boast|apathetic|squeamish
-Have you ever assembled furniture by yourself?|country|utter|calculate|jittery|degree|curtain|secret
-When did you last go to the beach?|blink|occur|burst|like|excite|receive|screw
-When if ever did you last go to london?|sleet|rampant|action|honorable|blood|wanting|dime
-What do you do to cool down when its hot?|truthful|question|butter|pricey|tall|scribble|sick
-Whats the most unusual thing you've ever eaten?|post|flat|melt|cloistered|bone|memory|fold
-Do you have a favourite mug?|brother|bead|enjoy|damage|tall|way|fold
-Do you know any self defence or martial arts?|fade|faded|succinct|remember|vagabond|truthful|rigid
-Who's your favourite movie action hero?|ubiquitous|excite|inform|cup|substantial|well-off|skate
-Have you ever ridden a motorcycle?|wrong|page|bead|heady|full|flower|ablaze
-Do you collect anything?|hook|change|night|hilarious|queue|laugh|outstanding
-Is there anything you wished would come back into fashion?|occur|exclusive|sparkling|drink|spicy|dress|unused
-Do you stick to conventional fashions or like to try and be original?|bruise|feeble|add|smash|form|lavish|ready
-Have you ever given someone a handmade present?|mature|mature|well-groomed|futuristic|open|cub|eatable
-Are you introvert or extrovert?|queen|produce|peck|retire|minister|hilarious|fade
-If you could have any feature from an animal what would you want?|orange|economic|pickle|volatile|future|wicked|vast
-Whats your prefered swimming stroke?|dime|pets|reaction|press|acoustic|detail|test
-Have you ever been scuba diving?|metal|substantial|number|pickle|mature|interesting|boiling
-Have you ever had a disasterous interview?|flat|interfere|effect|room|guitar|attract|turn
-What makes you nervous?|cart|fluffy|expect|clumsy|wonder|brass|ancient
-Which of the 5 senses would you say is your strongest?|stiff|puzzled|refuse|wicked|pets|trite|pets
-What colour are your eyes?|zoo|silky|coil|madly|hushed|gratis|repair
-Have you ever been to an Art gallery?|hurried|skirt|rice|rain|lowly|square|shake
-Do you shout out the answers at the TV whilst watching quiz shows?|anxious|jittery|wave|blade|abhorrent|crack|haunt
-Are you a valuable asset on a Pub Quiz team?|secret|smash|humdrum|rainy|use|man|scratch
-Have you ever won any kind of quiz yourself?|employ|admire|grass|damaged|turn|seashore|flawless
-Do you get over-involved with TV or movie plots at times?|ambitious|tickle|fair|coil|milk|dreary|zoo
-Do you own any inflatable furniture?|ski|pest|fair|glove|dispensable|dull|divergent
-Whats the highest hill or mountain you've ever climbed?|lumber|writing|toothbrush|immense|flood|trade|little
-Do you have a piggy bank?|tickle|roll|royal|solid|electric|yoke|zippy
-Whats the fastest you've ever travelled in a car?|receive|quirky|back|part|discovery|noiseless|polish
-Could you ever hand milk a cow?|horses|grass|chance|detailed|bright|force|haunt
-Do you have popcorn with a movie?|copper|remind|bead|scratch|uneven|legs|chase
-Whats the futhest you've ever got a paper airplane to fly?|murder|neighborly|queen|open|mourn|develop|silky
-Have you ever built an igloo?|damage|mother|exclusive|marble|low|rice|forgetful
-Can you play the harmonica?|nine|ear|offbeat|island|impress|alert|development
-Have you ever made a ball of twine or rubberbands?|grape|detail|wander|hollow|identify|class|north
-If given the option of having a flake in your ice cream do you always take it?|ad hoc|aboriginal|use|sheep|noise|water|enchanting
-Could you ever be a living organ donor?|snotty|wave|market|fry|shrug|sad|puzzled
-Which was your favourite science? Biology, Physics or Chemistry?|suck|tedious|arrange|eyes|tedious|five|cloudy
-Could you ever go out with someone just cause they're rich?|toothbrush|garrulous|abhorrent|well-off|substantial|well-groomed|next
-Have you ever contemplated sueing someone?|trade|bead|fortunate|exist|rose|enchanting|queen
-Are you pretty devious?|man|hollow|lowly|tender|alike|concern|dry
-Have you ever had a surprise party? (that was an actual surprise)|grip|instruct|thoughtful|shock|queue|exercise|spill
-Are you any good at giving massages?|spicy|rice|sort|jellyfish|roll|meat|thing
-Whats been your worst date ever?|drunk|shake|juggle|lyrical|hilarious|twist|exotic
-Have you ever slapped somoene in public?|sparkling|infamous|supply|seat|visitor|mug|sedate
-Have you ever drawn on a sleeping or inebriated person?|languid|bike|watch|stage|cart|shade|curtain
-Have you ever warn clothing with the labels/tags still attached?|next|star|fry|purring|whistle|interesting|plants
-Have you ever slipped on a banana skin?|overt|embarrassed|jelly|lake|space|attract|one
-Are you scared of the dark?|day|hollow|tongue|painful|hot|money|peck
-Do you have a lawyer?|chunky|name|reason|ethereal|mysterious|enormous|observant
-Have you ever been wolf whistled in public?|produce|grip|peel|fork|detail|curious|mitten
-Whats the worst chatup line you've heard?|examine|apathetic|efficient|tramp|retire|regret|tasteful
-Have you ever been water skiing?|glorious|blue|jeans|warlike|hook|secret|craven
-Have you ever hopelessly failed a test?|horse|love|parallel|north|shrill|little|shoes
-If you had a year off, what would you want to do?|hesitant|dapper|garrulous|record|overt|yellow|record
-How many sms/txt messages do you recieve on average a day?|demonic|obey|cushion|clean|dry|ambitious|class
-How long did you last phone call last?|elastic|acoustic|hot|snotty|tender|seashore|horses
-Do you go to car boot sales?|night|supply|kick|direction|basketball|numerous|spiffy
-If you saw someone drop a £10 note, would you claim it for your own or try to return it to them?|keen|mask|wooden|wooden|unite|rain|burly
-Have you ever helped someone across the road?|magical|spicy|absorbing|lake|development|succinct|please
-Have you ever been horseriding?|grieving|futuristic|smell|flat|sparkling|garrulous|lock
-Have you ever walked a tightrope?|distance|develop|plucky|interesting|hair|lavish|keen
-Have you ever demolished a wall or building?|damaged|found|feigned|open|assorted|lake|demonic
-If you and a friend both wanted the same thing would you let the friend get it first?|meaty|name|clean|harass|rainy|sturdy|fold
-Have you ever argued over who should pay for something?|outstanding|memory|tap|foot|neighborly|queen|exotic
-Do you have any family heirlooms?|bat|fat|wet|rot|sort|look|sloppy
-Are you related or distantly related to anyone famous?|meddle|languid|bedroom|grip|possessive|parallel|mug
-Whats your favourite ocean?|reject|reject|wealth|calm|absorbing|economic|curtain
-Do you correct peoples mistakes?|rural|chunky|cap|substance|moan|narrow|punishment
-Have you ever helped out an injured animal?|basketball|stranger|fearless|vengeful|phobic|person|plucky
-Do you throw bread for the ducks?|slow|solid|sick|observation|determined|degree|produce
-Do you think babies are little bundles of joy or smelly noisey things?|drum|useful|hurried|hoc|fasten|word|solid
-Do you give money to buskers?|moan|fear|cause|secret|chance|caption|kitty
-Have you ever tossed your own pancake?|punishment|irritating|boiling|bore|tow|glorious|alert
-Are you any good at egg and spoon races?|hollow|disturbed|horn|dreary|shrug|juggle|racial
-Are you allergic to anything?|well-groomed|alike|shrug|well-to-do|upbeat|functional|identify
-Are you ticklish?|wish|mushy|gaze|lumber|uncovered|used|high
-Do you prefer tea,coffee or cocoa?|use|tap|copy|used|useful|load|thing
-Do you like Turkish Delight?|direction|wish|jelly|admire|cumbersome|hand|mask
-Do you buy people presents to bring back when you go on holiday?|cloistered|watch|afraid|rhyme|shock|water|place
-Are you tired of answering questions yet?|rose|offbeat|strap|spiritual|cloistered|chase|wet
-Have you ever been wheelbarrow racing?|youthful|baseball|found|macho|bead|stem|amused
-Do you ever forward or reply to chain mails?|forgetful|brainy|grip|fascinated|murder|cry|save
-Do you often have a tune in your head you can't name?|bitter|empty|order|painstaking|question|fry|yellow
-Has anyone ever approached you thinking you were someone else?|moor|oceanic|queue|crime|press|noise|mature
-Have you ever been approached by someone who knew you but you couldn't remember them for the life of you?|irritating|gratis|lowly|silky|observation|hook|number
-What do you do to keep fit?|memory|hot|obedient|onerous|sparkling|smoggy|air
-Are you the sort to step in and try to break up a fight?|gaze|fascinated|turn|forgetful|fool|interfere|parallel
-Have you ever been in a fight?|wall|marble|building|solid|hammer|lean|employ
-Have you ever started a rumour?|outgoing|wrong|meaty|horses|alert|roll|madly
-Have you ever heard any outstanding rumours about yourself?|puzzled|workable|increase|secret|question|paint|abhorrent
-Have you ever been in or had a food fight?|water|examine|utter|watch|grape|light|rose
-When its your birthday do you always wear an age badge?|ants|invention|attraction|butter|copper|raise|jittery
-Have you ever starred in an amateur or professional video?|deer|press|fork|fade|blade|nine|action
-If you were comfortbly rich would you work hard for more or rest on your laurels?|chase|humdrum|increase|arrange|workable|horse|fasten
-Have you ever been in a position of authority?|blade|sloppy|obeisant|slow|room|vengeful|ants
-Have you ever been caught in a comprimising position? even despite a valid explanation?|careful|pull|writing|peck|metal|plane|change
-Have you ever tried to make your own alcohol?|sort|spicy|fasten|numberless|hilarious|stir|reading
-If you were ruler of your own country what would you call it?|crime|ready|rhyme|gratis|boast|press|fork
-And what title would you give yourself?|guard|rigid|word|numberless|numerous|onerous|fold
-If you invented a monster what would you call it?|name|produce|dime|mailbox|feeble|accessible|thirsty
-And what features would it have?|electric|near|wooden|accessible|trite|glove|shade
-Have you ever had a dream you chased only to be let down when you achived it?|rub|force|identify|obtainable|grip|garrulous|earn
-Is there anything about the opposite sex you just don't understand or comprehend?|sheep|scribble|crack|demonic|arrange|use|obedient
-Who was your favourite teacher at school and why?|used|thing|roll|bruise|sparkling|wanting|testy
-Whats your favourite party game?|rainy|statement|puny|peel|melt|seemly|vengeful
-Is it acceptable or unacceptable to smack a child as form of disapline?|stone|attack|low|land|polish|great|wild
-Can a hetrosexual male ever wear pink?|peel|unable|horrible|calculate|fold|aboard|obeisant
-Is it criminal to wear socks with sandals?|room|way|five|holiday|meaty|mask|edge
-If you were captain of a ship, what would you call it?|scrub|place|majestic|hair|enjoy|hang|macho
-If you were to join an emergency service which would it be?|seashore|cup|well-to-do|night|envious|languid|closed
-If you were to join one of the armed forced which would it be?|cumbersome|excuse|cellar|assorted|flood|mushy|statement
-Whats the worst thing about being your gender?|milk|willing|jellyfish|nose|stiff|wanting|outgoing
-Whats the best thing about being your gender?|mother|cap|badge|interfere|suit|engine|sheep
-If you swapped genders for a day how would you spend it?|disillusioned|spill|slow|boat|plane|wish|cheese
-If you were exiled what country would you choose as your new home?|twist|cub|capable|peel|onerous|space|blade
-Have you ever made someone cry?|part|label|bear|tap|caption|languid|trade
-Have you ever starred in a school play?|calculator|amuse|null|coal|fool|uppity|engine
-Were you a member of any celebrity fanclub?|attack|level|question|obeisant|place|hesitant|plane
-Have you ever been a member of any other club?|clumsy|value|toes|watch|hand|bushes|slip
-If you could have a full scholarship to any university what would you choose to study?|interest|bat|lyrical|cuddly|possessive|pricey|disturbed
-Whats been your greatest ever day?|smash|sassy|juggle|bead|good|sack|mourn
-What historical period would you like to live in if you could go back in time?|crack|standing|well-to-do|holiday|flat|wonder|slow
-What would you bring along to an idillic picnic?|eatable|claim|luxuriant|abnormal|dinosaurs|zesty|five
-Whats your favourite childrens story?|wave|capable|next|accessible|part|toothbrush|stay
-What movie ending really frustrated you? And how would you change it?|jaded|cultured|enchanting|deranged|cream|plants|silky
-What three things do you think of most each day?|bed|invention|jolly|fold|gun|damage|square
-What do you call your evening meal? Dinner Tea or Supper?|cluttered|cagey|cough|sail|sassy|whistle|deer
-What do you call your after meal sweet? Pudding or Dessert?|cub|peel|tow|tall|pricey|erratic|change
-If you had a warning label, what would yours say?|shake|save|quicksand|muddle|horrible|irritating|fortunate
-Have you ever got sweet revenge on anyone?|gleaming|trace|apathetic|onerous|roll|rely|hanging
-Have you ever been to a live concert?|testy|suit|word|reaction|supply|development|look
-Have you ever been to see stand up comedy?|vessel|wall|chunky|untidy|pig|receive|racial
-Have you ever needed stitches?|spray|jittery|throne|wave|truthful|look|distance
-If you could invent brand new baby names what would they be?|zippy|right|repair|standing|chilly|disturbed|wheel
-Do your dreams ever tell you to do anything?|racial|hoc|underwear|cup|mug|refuse|amuse
-Who's your favourite radio 1 DJ?|hot|sad|aboriginal|vulgar|crowd|abnormal|macho
-Whats the best way to your heart?|smart|branch|man|swim|copper|stew|empty
-Do you know your own mobile phone number off by heart?|sedate|reason|quicksand|discovery|hollow|meek|screw
-If you were a fashion designer, what style of clothing or accessories would you design?|burly|afford|irritating|instruct|obedient|rampant|lunchroom
-Do you ever laugh at things you shouldn't?|heady|interest|bat|calm|astonishing|familiar|quixotic
-Have you ever been in a submarine?|gifted|cluttered|clean|gleaming|roasted|air|open
-Have you ever walked out of a cinema before the film was done?|minister|yoke|day|mysterious|geese|ban|omniscient
-What song would you say best sums you up?|dreary|rural|astonishing|cloudy|brainy|unite|tired
-Do you have any old friends wou wish you could meet up with again?|grass|muddle|snakes|wrong|trade|breezy|hanging
-Whats your favourite Nursury Rhyme?|roll|interfere|rain|eyes|hoc|capable|peel
-Do you prefer metric or imperial measurements?|lake|five|rub|unused|enormous|change|copy
-Who's your favourite monarch of all time?|friends|gun|nine|eatable|degree|hammer|ants
-What was the last thing you ate?|capable|tax|explain|smell|turn|smoggy|suit
-Whats your favourite farmyard animal?|dapper|market|action|sheep|effect|seashore|cream
-If you could choose one celebrity to be the father/mother of your child who would it be?|beautiful|crabby|curtain|skirt|interest|brother|stranger
-What would you do if someone proposed to you tomorrow?|yam|brainy|value|stage|hammer|name|number
-What are your 3 favourite internet sites?|island|smell|hesitant|little|cough|women|longing
-How high can you jump?|rigid|mom|boast|post|abstracted|grip|tedious
-Which fictional character do you wish was real?|blue|seat|produce|cumbersome|approval|admire|moan
-Who was your first crush?|sack|interest|songs|juggle|shade|great|erratic
-Whats the greatest thing about being your nationality?|daffy|wish|increase|muddle|boast|futuristic|steam
-Whats the least greatest thing about being your nationality?|breezy|deer|vengeful|geese|curtain|painful|flat
-Do you believe in destiny, fate or free will?|boat|right|offbeat|fascinated|range|sick|strap
-If you could talk to one species of animal which would it be?|mug|marble|immense|wild|imminent|mug|bone
-If you had friends round what DVD's would you have to watch?|bright|beef|copper|plane|hair|powder|wish
-Do you like vanilla or chocolate?|reason|gratis|dress|copy|stir|meat|lumber
-Are you a giver or a receiver?|vagabond|roasted|hook|caption|secretive|shrug|marble
-Do you have any enemies?|juggle|action|observant|chunky|miscreant|cagey|quicksand
-Are you scared of needles?|instruct|ethereal|attack|stranger|offbeat|bitter|existence
-How many piercings do you have? if any|fold|trucks|fluffy|spill|compete|clumsy|bike
-Have you ever got majorly lost trying to get somewhere?|verdant|north|snake|snore|bore|scream|efficient
-How fast can you say the alphabet?|great|cagey|pleasure|upbeat|sleet|fasten|phobic
-Do you say "Zee" or "Zed" to describe the letter Z?|envious|worthless|air|judge|beds|cultured|well-to-do
-What was the last thing to make you feel happy?|page|forgetful|caption|harass|sheep|stranger|glistening
-What was the last thing to make you feel angry?|lamp|serious|bike|toes|whistle|inform|dispensable
-You are walking to work. There is a dog drowning in the canal on the side of the street. Your boss told you if you are late one more time you're fired. Do you save the dog?|royal|haunt|brainy|writing|grieving|longing|mysterious
-Are you the kind of friend you'd want to have as a friend yourself?|full|quixotic|sedate|longing|daffy|snore|mundane
-Do you have any questions or queries about things you're just to scared or embarassed to ask anyone about?|trite|jeans|shrill|twist|question|unable|degree
-If you were a wrestler what would your stage name be?|jagged|space|waste|gaze|flower|null|snore
-and what would your special move be called?|paint|repeat|development|store|wrap|wrong|economic
-Whats the most interesting thing you can see out of your nearest window?|coil|great|sparkle|ambitious|obtainable|curious|star
-Do you think Barbie is a negative role model for young girls?|tedious|fast|blue|approval|spot|succinct|friends
-Have you ever needed an eye test?|spill|future|degree|secret|unused|aboard|grieving
-Do you find yourself attractive?|exercise|hug|full|milk|way|bedroom|seashore
-Can you roll your R's?|reading|onerous|boast|explain|bake|unused|page
-What social class do you consider yourself or your family background to be in?|trick|caption|trip|invention|throne|noiseless|bake
-Do you know any magic tricks?|sulky|humdrum|majestic|naughty|testy|aboard|ear
-Whats the largest amount of money you've ever won?|way|tall|engine|birds|sassy|watch|humdrum
-Whats the largest amount of money you've spent in one spree?|deranged|spiritual|seemly|tasteful|channel|memory|cream
-Whats the largest amount of money you've had to borrow off of a friend or family member|toes|unused|guard|retire|fold|stem|efficient
-Have you ever been on a cable car?|tank|amused|cluttered|ad|fast|trip|dull
-Do you prefer Honey or Jam?|tired|polish|spray|zany|observation|whistle|worm
-Do you prefer the French or Germans?|grip|crime|baseball|flower|metal|ear|attraction
-How fast can you get changed?|workable|madly|increase|record|drunk|marble|pricey
-How fast do you type?|assorted|drink|scrub|excite|slip|baseball|milk
-How fast can you run?|zany|dolls|milky|tie|pump|earn|rhyme
-Which is better, Mario or Sonic?|back|skate|cushion|pets|adventurous|lake|fearless
-Whats your favourite biscuit to dunk?|refuse|acoustic|lowly|wanting|beef|envious|substantial
-Which would you rather have if you had to, a broken leg or a broken arm?|five|secretive|day|afraid|brainy|ad|calm
-Do you read a daily newspaper?|pleasure|wonder|stranger|peck|minister|rampant|cumbersome
-Do you watch the news on TV?|bear|lumber|useful|grass|tow|kick|coil
-Have you ever had anything published?|wheel|excite|muddle|craven|sturdy|building|beef
-Do you believe in love at first sight?|remember|bare|cry|moor|beds|mixed|part
-How many remote controls do you have in your house?|willing|zip|coil|exotic|murder|deer|scarecrow
-Have you ever been in a hot tub or sauna?|uncovered|love|oceanic|coal|behavior|dogs|muddle
-Have you ever had chicken pox?|shrill|roll|baseball|square|guitar|smart|skate
-Do you own a lava lamp?|cuddly|fortunate|ban|wicked|idea|ban|shrill
-Are you glad these are almost over?|cheese|relieved|claim|suit|wild|snake|forgetful
-On a scale of 1-10 how random would you say these are?|seat|whisper|receive|observant|interest|workable|instruct
-What is your one major weekness?|lean|use|diligent|grip|tray|mom|fear
-Whats been the best descision you've made in your life so far?|train|painstaking|channel|attract|hanging|tall|longing
-Whats been the worst descision you've made in your life so far?|high-pitched|rural|cuddly|swim|vigorous|glorious|zoo
-What words do you always struggle to spell correctly?|haunt|tender|tired|hate|gifted|action|cloistered
-On a scale of 1-10 how happy would you say you are?|high|dime|beef|outstanding|majestic|metal|lamp
-On a scale of 1-10 how smart would you say you are?|numberless|daffy|tasteless|art|place|trick|interesting
-On a scale of 1-10 how funny would you say you are?|exotic|rice|lake|identify|squeeze|blade|steam
-On a scale of 1-10 how devious would you say you are?|violet|available|dogs|apathetic|unadvised|beef|null
-On a scale of 1-10 how awesome would you say you are?|tow|jeans|ubiquitous|evanescent|afford|little|cloudy
-On a scale of 1-10 how devilsh would you say you are?|roll|pickle|vigorous|tedious|evanescent|meddle|stir
-On a scale of 1-10 how nice/caring would you say you are?|meat|harass|scream|hair|oil|zip|wicked
-On a scale of 1-10 how bitchy would you say you are?|wrap|stir|excite|little|trite|writing|good
-On a scale of 1-10 how polite would you say you are?|scarecrow|solid|grip|keen|jump|bawdy|descriptive
-On a scale of 1-10 how attractive would you say you are?|pets|chase|bedroom|behavior|burst|undress|seashore
-If you could be any famous person who would you be and why?|tame|queen|many|wanting|omniscient|writing|order
-Whats your favourite animal beginning with the letter A?|form|force|oceanic|mysterious|tasteless|juggle|deranged
-Whats your favourite item of clothing beginning with the letter B?|bone|orange|flower|wink|crack|smoke|test
-Whats your favourite expleitive beginning with the letter C?|bat|wall|save|shade|songs|legs|legs
-Whats your favourite boys name beginning with the letter D?|brass|bike|honorable|wheel|judge|plants|gifted
-Whats your favourite girls name beginning with the letter E?|possessive|functional|damage|curious|standing|ear|chase
-Whats your favourite book beginning with the letter F?|scribble|price|bell|uneven|daffy|thrill|burst
-Whats your favourite bodypart beginning with the letter G?|unable|clean|place|nest|milk|snakes|high-pitched
-Whats your favourite musical instrument beginning with the letter H?|worm|tedious|push|distribution|plane|immense|yoke
-Whats your favourite song beginning with the letter I?|supply|demonic|oil|tank|right|cry|vengeful
-Whats your favourite actress beginning with the letter J?|place|pale|workable|closed|square|polish|grape
-Whats your favourite actor beginning with the letter K?|scream|square|turn|whistle|unadvised|boat|pest
-Whats your favourite film beginning with the letter L?|cobweb|place|arrange|light|pest|substantial|remember
-Whats your favourite tv show beginning with the letter M?|crib|tax|number|vessel|interest|nut|burly
-Whats your favourite game beginning with the letter N?|rub|plane|succinct|penitent|women|degree|approval
-Whats your favourite non alcoholic drink beginning with the letter O?|obeisant|unused|pig|rifle|pig|meek|square
-Whats your favourite food beginning with the letter P?|jittery|free|assorted|chilly|best|madly|paste
-Whats your favourite band beginning with the letter Q?|undress|moan|suck|guitar|hilarious|fast|back
-Whats your favourite author beginning with the letter R?|smoke|remove|wander|thin|sparkle|coil|cream
-Whats your favourite sport beginning with the letter S?|number|remember|coil|pets|pale|tie|fast
-Whats your favourite job beginning with the letter T?|whistle|nest|engine|foot|alert|boat|cushion
-Whats your favourite mythical creature beginning with the letter U?|mushy|test|push|sleet|record|disillusioned|puzzled
-Whats your favourite alcoholic drink beginning with the letter V?|strap|puny|sack|warlike|stream|closed|macho
-Whats your favourite cartoon character beginning with the letter W?|suit|irritating|phobic|pull|place|untidy|overt
-Whats your favourite word beginning with the letter X?|land|flood|church|full|shade|electric|solid
-Whats your favourite city beginning with the letter Y?|hand|smell|jeans|guitar|air|jagged|examine
-Whats your favourite country beginning with the letter Z?|sophisticated|mug|bawdy|relieved|yoke|bike|exist
-Do you get seasick?|squeamish|number|hot|right|room|noisy|obey
-If you discovered a new species of dinosaur what would you call it?|numerous|faded|pricey|underwear|economic|sail|bitter
-Do you own a paddling pool?|crabby|remind|occur|jeans|punishment|geese|unite
-What do you consider is the most important piece of furniture in a house?|mixed|day|unused|rampant|fluffy|irritating|expand
-What do you consider is the most important appliance in a house?|snake|boat|exist|morning|honorable|substantial|juggle
-If you could have any celebritys hair whos would it be?|tramp|steep|mixed|gleaming|hushed|hug|rifle
-Which Celebrity do you find the most annoying?|clean|snakes|narrow|retire|protect|back|acoustic
-What potential talents do you think you might have if you worked at them?|tie|throne|pleasure|empty|noiseless|hug|loving
-Who was better, Flipper, Lassie or Skippy?|church|fascinated|giraffe|holiday|crabby|vast|rigid
-If you could be trained up in any profession of your choice by top professionals what profession would you choose?|blood|produce|obey|shy|pig|trail|flavor
-If someone elses child was being an annoying little runt would you go tell them off or do something about it?|futuristic|languid|forgetful|trite|art|acoustic|attract
-Do you believe in kharma?|slip|faded|tongue|cream|quicksand|dull|spray
-Do you believe in revenge?|wander|ants|air|stay|bushes|fast|dull
-Do you believe in fairies?|phobic|existence|demonic|sort|yoke|hot|fortunate
-Do you believe in a god?|north|painstaking|lavish|peel|plastic|hoc|puzzled
-Do you believe there used to be dragons?|marble|claim|horse|suit|sincere|pump|existence
-Who would you want to be with on a desert island?|mailbox|tired|nose|zip|crack|spot|tickle
-What's the worst show on television?|free|nut|obeisant|puzzled|back|please|number
-Who's your favourite god from ancient history?|vast|trip|spark|land|bitter|breezy|tedious
-What one device would you want to see added to a mobile phone?|yellow|possessive|cobweb|fast|spill|degree|use
-Where do you see yourself in 1 months time?|head|next|orange|stew|place|time|languid
-Where do you see yourself in 1 years time?|dolls|underwear|neat|nine|memory|rain|uppity
-Where do you see yourself in 10 years time?|throne|hilarious|cup|shy|craven|scream|please
-What was the best thing about your old school?|well-to-do|distance|utter|valuable|explain|cumbersome|room
-What was the worst thing about your old school?|badge|milk|peel|gifted|interfere|suit|cream
-If you could change your name to anything what would your new name be?|alert|driving|uneven|press|righteous|smell|absorbing
-Do you watch too much tv?|enjoy|lavish|thirsty|smell|ready|yoke|offbeat
-Have you ever planted a tree?|smash|strap|accessible|vigorous|whistle|develop|stiff
-Whats the heaviest thing you can lift?|well-off|lumber|economic|jolly|use|stem|sort
-What was the last present you recieved?|uppity|painstaking|part|receive|place|puny|crib
-Are your ears lobed or attached?|noisy|pricey|careful|hammer|flower|rain|sack
-How often do you wash your ears?|determined|explain|mature|spoon|tickle|cloudy|jump
-Could you go out with someone who had a child from a previous relationship?|outrageous|copper|value|wanting|warn|bedroom|sign
-What was your first alcoholic drink?|judge|wheel|materialistic|shade|copper|shoes|blue
-What was your first job?|solid|great|paste|shake|outstanding|damage|phobic
-What was your first car? (or what would you like it to be?)|sick|milky|tray|rainy|bell|smell|retire
-What was your first mobile phone?|offbeat|vigorous|record|standing|flavor|imperfect|disturbed
-What is your first proper memory?|tap|acoustic|art|erratic|rub|horn|haunt
-Who was your first teacher?|add|clumsy|steep|haunt|coal|slip|acoustic
-Where did you go on your first ride on an airplane?|detail|pinch|found|afraid|chase|descriptive|remove
-Who was your first best friend?|watch|amuse|space|store|idea|grip|cap
-What was your first detention for?|fat|beef|macho|statement|trade|north|vengeful
-Whats your strongest voluntary muscle?|bell|mixed|naughty|smell|cough|unite|blue
-Who was your first kiss?|star|luxuriant|burst|cumbersome|dry|mourn|boat
-What was the first film you remember seeing at the cinema?|relieved|marble|icy|wanting|tire|fanatical|save
-What thing that you've made are you most proud of?|infamous|taste|curious|skirt|person|range|bright
-Could you ever be someones bodygaurd?|lavish|bat|brass|class|efficient|popcorn|lumber
-Michelangelo's David... Masterpiece or filth?|seemly|mundane|experience|imminent|statement|quixotic|rot
-Do you like other people buying you clothes?|cough|bore|secretive|horrible|chance|aboard|cars
-Have you ever brought a present for someone that they hated/disliked?|brainy|spark|milky|women|spill|flower|cheese
-What nicknames do you have/have had?|standing|room|well-groomed|hushed|observation|land|obtainable
-Did you have any pretend or imaginary friends?|jellyfish|useful|roasted|horses|boiling|snore|hammer
-Have you ever seen a therapist/shrink?|gun|bruise|smoggy|pinch|noiseless|morning|distance
-Have you ever carved a pumpkin?|expect|soothe|ubiquitous|noisy|bat|acoustic|ubiquitous
-Would you say you are a good or bad influence to others?|concern|tender|claim|sick|cracker|obtainable|reject
-Do you prefer giving or recieving gifts/help etc|person|fold|crib|ad|sack|fair|way
-If you were a member of the spice girls, what would your spice handle be?|dry|mourn|untidy|range|numberless|flawless|range
-If you were to become a famous singer, what would your debut album be called?|spark|cap|float|hang|shade|mysterious|squeeze
-If you could join any music group which would you want to join?|rampant|adventurous|claim|screw|air|hook|brother
-What do your parents do?|stream|excuse|blade|boiling|undress|concern|spicy
-If you were a giant mega monster what city would you rampage?|steam|terrible|dramatic|unadvised|miscreant|mushy|pricey
-Did you ever have a treehouse as a kid?|swim|plane|well-off|many|bake|stir|noiseless
-Is your dad an embarassing dancer?|unite|rigid|spicy|determined|chance|crack|bright
-Do you plan to vote in the next election?|test|star|melt|orange|suit|tramp|testy
-If you could replace one bodypart with a super bionic replacement what bodypart and what features would the new bionic replacement have?|mom|channel|reject|sturdy|sincere|quixotic|pump
-What if any unusual objects have you swallowed?|loaf|distribution|water|ants|many|repair|uneven
-When you buy something new do you get a desire to use/play with it even when they dont have any physical application yet?|one|oceanic|used|fasten|produce|fence|obtainable
-Did you understand the Matrix Trilogy?|bushes|possessive|strap|interfere|faded|mushy|water
-Would you rather be the fella in a movie who gets the girl or the baddie with all the good lines?|feeble|fork|high-pitched|pest|substance|edge|coil
-If you were stinking rich, would you only go to places other rich people went?|channel|occur|oceanic|spiritual|discovery|direction|yoke
-Would you rather have a mans top half and a womens bottom half or visa versa?|geese|wonder|jump|fanatical|memory|detail|luxuriant
-Rebound relationships, good or bad?|tongue|good|tall|painful|tramp|cub|wall
-Have you ever owned a slinky?|memorise|mask|float|lumber|milky|wild|turn
-Teenage parents, good bad or indifferent?|exist|yam|shoes|calculate|bell|forgetful|loaf
-Whats the most expensive thing you've ever broken?|aboard|jaded|gleaming|smash|lovely|experience|omniscient
-Pirate downloads, good or bad?|astonishing|dull|dreary|enjoy|lake|muddle|absorbing
-Democracy, good or bad?|wild|polish|undress|pump|lake|clumsy|knotty
-Communism, good or bad?|depressed|order|queue|many|high-pitched|sheep|depressed
-Have you ever been electrocuted?|popcorn|eyes|infamous|secretive|versed|mixed|obedient
-Have you ever been attacked with a creamy bakery product?|trail|ablaze|high-pitched|vessel|curious|holiday|vast
-Have you ever shawn a sheep?|market|name|fold|pleasure|compete|bedroom|steep
-Have you ever accidentally set fire to yourself?|noise|best|spiritual|naughty|pricey|forgetful|scream
-Have you ever eaten a whole tube of pringles by yourself?|actor|anxious|squeamish|stranger|gleaming|snake|meaty
-Have you ever been hit on by someone of the same gender?|wonder|whistle|overt|church|range|regret|cup
-The war in Iraq, good or bad?|legs|dark|apathetic|majestic|truthful|electric|cagey
-The war in Afganistan, good or bad?|glistening|produce|anxious|beef|aboriginal|yellow|well-off
-Have you ever appeared on youtube?|sparkle|slip|increase|punishment|lunchroom|punishment|lowly
-Have you ever performed in front of a large audience?|penitent|racial|rhyme|change|cough|skate|land
-Have you ever eaten anything prepared by a celebrity chef?|rot|place|demonic|spill|worthless|obedient|thaw
-Have you ever been on radio?|acoustic|taste|watch|screw|minister|repair|warn
-Did your school make a teatowel that everyone submitted to?|pump|worm|lunchroom|rot|lyrical|suit|class
-What colour/style was your school tie?|limping|roll|press|serious|skirt|wish|worthless
-Do you have to wear glasses?|bead|flower|shock|macho|tired|racial|queen
-Do you bite your nails?|fence|rhyme|sleet|many|dinosaurs|rifle|square
-Do you prefer male or female singers voices?|terrible|penitent|drink|post|clean|full|moor
-Would you rather be the worlds greatest football player or lover?|screw|giraffe|fair|economic|tedious|zoo|bruise
-Do you get hayfever?|development|distance|breezy|onerous|number|record|head
-Do you have a list of things to do before your 'x' years old?|coal|plucky|attract|murder|tap|direction|underwear
-Do you like your age?|sloppy|numberless|guard|examine|money|horse|workable
-Whats your favourite physical thing you like about yourself?|oceanic|supply|horrible|smell|noise|pig|wish
-Whats your least favourite physical thing you like about yourself?|handle|tall|fat|snotty|yoke|versed|sophisticated
-Are you proud, comfortable or ashamed of your body?|remind|ad|verdant|soothe|tow|fry|fascinated
-Whats your favourite personality trait you like about yourself?|polish|well-to-do|possessive|skirt|cap|church|giraffe
-Whats your least favourite personality trait you like about yourself?|underwear|seashore|zip|approval|best|suck|marble
-Do you know html?|tasteful|roasted|fork|tray|loaf|hoc|change
-Have you ever flown first class?|available|push|saw|bore|sad|soothe|naughty
-How many languages do you speak?|vulgar|deranged|craven|friends|steam|fence|ants
-What are better, violins or pianos?|warlike|plants|zoo|fold|record|cause|billowy
-Whats the fastest you've ever driven? (as driver or passenger)|queue|trip|deer|royal|deer|bore|cagey
-What compulsions do you have?|tasteless|keen|fat|deranged|versed|steam|blue
-What makes you angry?|meek|handle|narrow|hurried|bear|raise|cumbersome
-If you could see any band, which would you like to see?|spot|workable|rely|hate|tie|compete|remove
-Who would you say are more attractive, English or Europeans?|kick|fork|oceanic|like|jump|smell|daffy
-What would you say is your favourite album of all time?|rhyme|nose|mysterious|sail|hair|beautiful|wealth
-Do you dislike hairy people?|writing|depressed|zany|bike|feigned|fearless|engine
-Are you much of an adventurer?|narrow|squeeze|spot|full|branch|mug|toes
-Do you like your own name?|push|interest|bushes|enchanting|crib|experience|mom
-Would you ever sign a Prenuptial agreement?|curious|dime|wave|sincere|sort|meek|spot
-How long has your longest ever phone call been?|rely|bushes|guitar|taste|shoes|purring|plants
-Have you ever stolen anything?|degree|bitter|rural|jolly|fail|pest|nest
-Could you ever have an affair with a married person?|pig|miscreant|vast|regret|enjoy|muddle|feeble
-Could you ever split up a couple for one reason or another?|familiar|bell|limping|skate|ready|volatile|nose
-What is your family christmases like?|dark|paint|chunky|jolly|flower|gun|squeeze
-Do you prefer sporty or academic members of the opposite sex?|squeeze|shrug|statement|obedient|rub|fail|save
-How much would it cost to buy your love?|self|unused|rot|wish|vagabond|wish|idea
-Who was your least favourite teacher at school and why?|repeat|pump|grape|plants|upbeat|penitent|calculate
-If you met a Genie who offered you three wishes, what would you wish for? (more wishes does not count)|ban|cultured|rhyme|smoggy|bitter|meaty|like
+Shared Preferences  is a storage option Android provides.|True|False
+Internal Storage  is a storage option Android provides.|True|False
+External Storage  is a storage option Android provides.|True|False
+SQLite Databases  is a storage option Android provides.|True|False
+Network Connection  is a storage option Android provides.|True|False
+SQLite Storage  is a storage option Android provides.|False|True
+Internal Preferences  is a storage option Android provides.|False|True
+External Preferences  is a storage option Android provides.|False|True
+Internal Databases  is a storage option Android provides.|False|True
+External Connection  is a storage option Android provides.|False|True
+Shared Preferences store private primitive data in key-value pairs.|True|False
+Internal Storage store private data on the device memory.|True|False
+External Storage store public data on the shared external storage.|True|False
+SQLite Databases store structured data in a private database.|True|False
+Network Connection store data on the web with your own network server.|True|False
+Shared Preferences store private data on the device memory.|False|True
+Shared Preferences store public data on the shared external storage.|False|True
+Shared Preferences store structured data in a private database.|False|True
+Shared Preferences store data on the web with your own network server.|False|True
+Internal Storage store private primitive data in key-value pairs.|False|True
+Internal Storage store public data on the shared external storage.|False|True
+Internal Storage store structured data in a private database.|False|True
+Internal Storage store data on the web with your own network server.|False|True
+External Storage store private primitive data in key-value pairs.|False|True
+External Storage store private data on the device memory.|False|True
+External Storage store structured data in a private database.|False|True
+External Storage store data on the web with your own network server.|False|True
+SQLite Databases store private primitive data in key-value pairs.|False|True
+SQLite Databases store private data on the device memory.|False|True
+SQLite Databases store public data on the shared external storage.|False|True
+SQLite Databases store data on the web with your own network server.|False|True
+Network Connection store private primitive data in key-value pairs.|False|True
+Network Connection store private data on the device memory.|False|True
+Network Connection store public data on the shared external storage.|False|True
+Network Connection store structured data in a private database.|False|True
+You can use SharedPreferences to save any primitive data.|True|False
+You can use SharedPreferences to save booleans.|True|False
+You can use SharedPreferences to save floats.|True|False
+You can use SharedPreferences to save ints.|True|False
+You can use SharedPreferences to save longs.|True|False
+You can use SharedPreferences to save strings.|True|False
+You can use SharedPreferences to save Objects.|False|True
+SharedPreferences data will persist across user sessions even if your application is killed.|True|False
+SharedPreferences data will persist across user sessions unless your application is killed.|False|True
+getSharedPreferences() - Use this if you need multiple preferences files identified by name, which you specify with the first parameter.|True|False
+getPreferences() - Use this if you need only one preferences file for your Activity. Because this will be the only preferences file for your Activity, you don't supply a name.|True|False
+getPreferences() - Use this if you need multiple preferences files identified by name, which you specify with the first parameter.|False|True
+getSharedPreferences() - Use this if you need only one preferences file for your Activity. Because this will be the only preferences file for your Activity, you don't supply a name.|False|True
+You must use an Editor to edit Shared Preferences.|True|False
+You must add values with methods such as putBoolean() and putString(), when putting data into Shared Preferences.|True|False
+You must explictely commit into Shared Preferences the new values with commit().|True|False
+There is no need to commit new values to Shared Preferences .|False|True
+You must get values with methods such as getBoolean() and getString(), when getting data from Shared Preferences.|True|False
+When using Internal Storage, by default, users have access to the to them.|False|True
+When using Internal Storage, by default, other applications have access to the to them.|False|True
+When using Internal Storage, by default, users do not have access to the to them.|True|False
+When using Internal Storage, by default, other applications do not have access to the to them.|True|False
+When the app is uninstalled, Internal Storage Files are removed.|True|False
+When the app is uninstalled, Internal Storage Files are kept.|False|True
+Call openFileOutput() with the name of the file and the operating mode. This returns a FileOutputStream to Internal Storage.|True|False
+Call openFileOutput() with MODE_PRIVATE will create the file or replace a file of the same name and make it private to your application.|True|False
+MODE_APPEND is a mode options for openFileOutput(). Subject Internal Storage.|True|False
+MODE_WORLD_READABLE is a mode options for openFileOutput(). Subject Internal Storage.|True|False
+MODE_WORLD_WRITEABLE is a mode options for openFileOutput(). Subject Internal Storage.|True|False
+Tip: If you want to save a static file in your application at compile time, save the file in your project res/raw/ directory. You can open it with openRawResource(), passing the R.raw.<filename> resource ID. This method returns an InputStream that you can use to read the file but you cannot write to the original file.|True|False
+Tip: If you want to save a static file in your application at compile time, save the file in your project res/raw/ directory. You can open it with openRawResource(), passing the R.raw.<filename> resource ID. This method returns an InputStream that you can use to read the file you can also write to the original file.|False|True
+Tip: If you want to save a static file in your application at compile time, save the file in your project res/drawable/ directory. You can open it with openRawResource(), passing the R.raw.<filename> resource ID. This method returns an InputStream that you can use to read the file you can also write to the original file.|False|True
+Tip: If you want to save a static file in your application at compile time, save the file in your project res/layout/ directory. You can open it with openRawResource(), passing the R.raw.<filename> resource ID. This method returns an InputStream that you can use to read the file you can also write to the original file.|False|True
+Tip: If you want to save a static file in your application at compile time, save the file in your project res/values/ directory. You can open it with openRawResource(), passing the R.raw.<filename> resource ID. This method returns an InputStream that you can use to read the file you can also write to the original file.|False|True
+Tip: If you want to save a static file in your application at compile time, save the file in your project res/mimap/ directory. You can open it with openRawResource(), passing the R.raw.<filename> resource ID. This method returns an InputStream that you can use to read the file you can also write to the original file.|False|True
+Use getCacheDir() to open a File that represents the internal directory where your application should save temporary cache files.|True|False
+When the device is low on internal storage space, Android may delete cached files to recover space.|True|False
+When working with Internal Storage, getFilesDir() Gets the absolute path to the filesystem directory where your internal files are saved.|True|False
+When working with Internal Storage, getDir() Creates or opens an existing directory within your internal storage space.|True|False
+When working with Internal Storage, deleteFile() Deletes a file saved on the internal storage.|True|False
+When working with Internal Storage, fileList() Returns an array of files currently saved by your application.|True|False
+When working with Internal Storage, fileList() Gets the absolute path to the filesystem directory where your internal files are saved.|False|True
+When working with Internal Storage, deleteFile() Gets the absolute path to the filesystem directory where your internal files are saved.|False|True
+When working with Internal Storage, fileList() Creates or opens an existing directory within your internal storage space.|False|True
+When working with Internal Storage, getFilesDir() Creates or opens an existing directory within your internal storage space.|False|True
+When working with Internal Storage, fileList() Deletes a file saved on the internal storage.|False|True
+When working with Internal Storage, getDir() Deletes a file saved on the internal storage.|False|True
+When working with Internal Storage, getFilesDir() Deletes a file saved on the internal storage.|False|True
+When working with Internal Storage, getDir() Returns an array of files currently saved by your application.|False|True
+When working with Internal Storage, getFilesDir() Returns an array of files currently saved by your application.|False|True
+Files saved to the external storage are world-readable and can be modified by the user when they enable USB mass storage to transfer files on a computer.|True|False
+Files saved to the external storage are private and can't be modified by the user when they enable USB mass storage to transfer files on a computer.|False|True
+All applications can read and write files placed on the external storage and the user can remove them.|True|False
+In order to read or write files on the external storage, your app must acquire the READ_EXTERNAL_STORAGE or WRITE_EXTERNAL_STORAGE system permissions.|True|False
+You do not need permissions in order to read or write files on the external storage|False|True
+The WRITE_EXTERNAL_STORAGE permission implicitly requires read access.|True|False
+In order to read and write files on the external storage, your app must acquire the READ_EXTERNAL_STORAGE and WRITE_EXTERNAL_STORAGE system permissions.|False|True
+Beginning with Android 4.4, WRITE_EXTERNAL_STORAGE and READ_EXTERNAL_STORAGE are not required if you're reading or writing only files that are private to your app.|True|False
+You should always call getExternalStorageState() to check whether the media is available.|True|False
+Calling getExternalStorageState() is not neccessary to check whether the media is available.|False|True
+Include an empty file named .nomedia in your external files directory will...|prevents media scanner from reading your media files and providing them to other apps through the MediaStore content provider.|prevents media scanner from reading your media files but still provide them to other apps through the MediaStore content provider.|allow the media scanner to read your media files and provide them to other apps through the MediaStore content provider.|allow the media scanner to read your media files but not provide them to other apps through the MediaStore content provider.
+Passing getExternalStoragePublicDirectory() DIRECTORY_MUSIC will return a public directory where your app can save files to.|True|False
+Passing getExternalStoragePublicDirectory() DIRECTORY_PODCASTS will return a public directory where your app can save files to.|True|False
+Passing getExternalStoragePublicDirectory() DIRECTORY_RINGTONES will return a public directory where your app can save files to.|True|False
+Passing getExternalStoragePublicDirectory() DIRECTORY_ALARMS will return a public directory where your app can save files to.|True|False
+Passing getExternalStoragePublicDirectory() DIRECTORY_NOTIFICATIONS will return a public directory where your app can save files to.|True|False
+Passing getExternalStoragePublicDirectory() DIRECTORY_PICTURES will return a public directory where your app can save files to.|True|False
+Passing getExternalStoragePublicDirectory() DIRECTORY_MOVIES will return a public directory where your app can save files to.|True|False
+Passing getExternalStoragePublicDirectory() DIRECTORY_DOWNLOADS will return a public directory where your app can save files to.|True|False
+Passing getExternalStoragePublicDirectory() DIRECTORY_DCIM will return a public directory where your app can save files to.|True|False
+Passing getExternalStoragePublicDirectory() DIRECTORY_MUSIC will return a public directory where your app can save files to. By saving your files to the corresponding media-type directory, the system's media scanner can properly categorize your files in the system.|True|False
+Passing getExternalStoragePublicDirectory() DIRECTORY_PODCASTS will return a public directory where your app can save files to. By saving your files to the corresponding media-type directory, the system's media scanner can properly categorize your files in the system.|True|False
+Passing getExternalStoragePublicDirectory() DIRECTORY_RINGTONES will return a public directory where your app can save files to. By saving your files to the corresponding media-type directory, the system's media scanner can properly categorize your files in the system.|True|False
+Passing getExternalStoragePublicDirectory() DIRECTORY_ALARMS will return a public directory where your app can save files to. By saving your files to the corresponding media-type directory, the system's media scanner can properly categorize your files in the system.|True|False
+Passing getExternalStoragePublicDirectory() DIRECTORY_NOTIFICATIONS will return a public directory where your app can save files to. By saving your files to the corresponding media-type directory, the system's media scanner can properly categorize your files in the system.|True|False
+Passing getExternalStoragePublicDirectory() DIRECTORY_PICTURES will return a public directory where your app can save files to. By saving your files to the corresponding media-type directory, the system's media scanner can properly categorize your files in the system.|True|False
+Passing getExternalStoragePublicDirectory() DIRECTORY_MOVIES will return a public directory where your app can save files to. By saving your files to the corresponding media-type directory, the system's media scanner can properly categorize your files in the system.|True|False
+Passing getExternalStoragePublicDirectory() DIRECTORY_DOWNLOADS will return a public directory where your app can save files to. By saving your files to the corresponding media-type directory, the system's media scanner can properly categorize your files in the system.|True|False
+Passing getExternalStoragePublicDirectory() DIRECTORY_DCIM will return a public directory where your app can save files to. By saving your files to the corresponding media-type directory, the system's media scanner can properly categorize your files in the system.|True|False
+Saving your files to the corresponding media-type directory will allow the system's media scanner can properly categorize your files in the system.|True|False
+Files in External storage can be app-private.|True|False
+Files stored in an apps private external storage location will be deleted on uninstall.|True|False
+Files stored in an apps private external storage directory will not be deleted on uninstall.|False|True
+The system media scanner reads files in an apps private external storage directory.|False|True
+The system media scanner does not read files in an apps private external storage directory.|True|False
+If you'd like to access both possible locations while also supporting Android 4.3 and lower, use the support library's static method, ContextCompat.getExternalFilesDirs().|True|False
+If you'd like to access both possible locations while also supporting Android 4.3 and lower, use the support library's static method, ContextCompat.getExternalCacheDirs().|True|False
+In the event a device that has allocated a partition of the internal memory for use as the external storage and also offers an SD card slot as external storage. If the device is running Android 4.3, calling getExternalFilesDirs() method will provide access to only the internal partition and your app cannot read or write to the SD card.|True|False
+In the event a device that has allocated a partition of the internal memory for use as the external storage and also offers an SD card slot as external storage. If the device is running Android 4.3, calling getExternalCacheDirs() method will provide access to only the internal partition and your app cannot read or write to the SD card.|True|False
+In the event a device that has allocated a partition of the internal memory for use as the external storage and also offers an SD card slot as external storage. If the device is running Android 4.3, calling ContextCompat.getExternalFilesDirs() method will provide access to only the internal partition and your app cannot read or write to the SD card.|False|True
+In the event a device that has allocated a partition of the internal memory for use as the external storage and also offers an SD card slot as external storage. If the device is running Android 4.3, calling ContextCompat.getExternalCacheDirs() method will provide access to only the internal partition and your app cannot read or write to the SD card.|False|True
+In the event a device that has allocated a partition of the internal memory for use as the external storage and also offers an SD card slot as external storage. If the device is running Android 4.3, calling ContextCompat.getExternalFilesDirs() method will provide access to both the internal partition and the SD card.|True|False
+In the event a device that has allocated a partition of the internal memory for use as the external storage and also offers an SD card slot as external storage. If the device is running Android 4.3, calling ContextCompat.getExternalCacheDirs() method will provide access to both the internal partition and the SD card.|True|False
+You can cache data on Internal and External media.|True|False
+You can cache data on Internal media only.|False|True
+You can cache data on External media only.|False|True
+Android provides full support for SQLite databases.|True|False
+Databases you create will be accessible by name to any class in the application, but not outside the application|True|False
+Databases you create will be accessible by name to any class in the application and outside the application|False|True
+Android's backup service allows you to copy your persistent application data to remote "cloud" storage, in order to provide a restore point for the application data and settings.|True|False
+If a user performs a factory reset or converts to a new Android-powered device, the system automatically restores your backup data when the application is re-installed.|True|False
+Android's backup process is completely transparent to the user and does not affect the functionality or user experience in your application.|True|False
+During a backup operation which your application can request, Android's Backup Manager BackupManager queries your application for backup data, then hands it to a backup transport, which then delivers the data to the cloud storage.|True|False
+During a restore operation, the Backup Manager retrieves the backup data from the backup transport and returns it to your application so your application can restore the data to the device. |True|False
+It's possible for your application to request a backup restore.|True|False
+Android automatically performs a restore operation when your application is installed and there exists backup data associated with the user.|True|False
+Android backup service is not designed for synchronizing application data with other clients or saving data that you'd like to access during the normal application lifecycle.|True|False
+You cannot read or write backup data on demand and cannot access it in any way other than through the APIs provided by the Backup Manager.|True|False
+You can read or write backup data on demand and access it through APIs other than the Backup Manager.|False|True
+You cannot read or write backup data on demand and access it through APIs other than the Backup Manager.|False|True
+Data backup is not guaranteed to be available on all Android-powered devices.|True|False
+Data backup is guaranteed to be available on all Android-powered devices.|False|True
+When your application runs on a device that does not provide a backup transport, your application operates normally, but will not receive callbacks from the Backup Manager to backup data.|True|False
+When your application runs on a device that does not provide a backup transport, your application wil fail and will receive callbacks from the Backup Manager to backup data.|False|True
+When your application runs on a device that does not provide a backup transport, your application wil fail and not receive callbacks from the Backup Manager to backup data.|False|True
+Because the cloud storage and transport service can differ from device to device, Android makes no guarantees about the security of your data while using backup.|True|False
+Because the cloud storage and transport service can do not differ from device to device, Android guarantees the security of your data while using backup.|False|True
+You should always be cautious about using backup to store sensitive data, such as usernames and passwords.|True|False
+Beginning with API Level 8, you can allow your application to be installed on the external storage.|True|False
+Beginning with API Level 14, you can allow your application to be installed on the external storage.|False|True
+Beginning with API Level 20, you can allow your application to be installed on the external storage.|False|True
+Beginning with API Level 3, you can allow your application to be installed on the external storage.|False|True
+Beginning with API Level 7, you can allow your application to be installed on the external storage.|False|True
+Beginning with API Level 15, you can allow your application to be installed on the external storage.|False|True
+Beginning with API Level 9, you can allow your application to be installed on the external storage.|False|True
+Beginning with API Level 18, you can allow your application to be installed on the external storage.|False|True
+If you declare for your application with the "android:installLocation" manifest attribute. The user can move your application between internal and external storage.|True|False
+When your application is installed on the external storage.There is no effect on the application performance so long as the external storage is mounted on the device.|True|False
+When your application is installed on the external storage.The .apk file is saved on the external storage, but all private user data, databases, optimized .dex files, and extracted native code are saved on the internal device memory.|True|False
+When your application is installed on the external storage.The unique container in which your application is stored is encrypted with a randomly generated key that can be decrypted only by the device that originally installed it. Thus, an application installed on an SD card works for only one device.|True|False
+When your application is installed on the external storage.The user can move your application to the internal storage through the system settings.|True|False
+When your application is installed on the external storage.The application performance may degrade.|False|True
+When your application is installed on the external storage.The .apk file is saved on the external storage, as well as all private user data, databases, optimized .dex files, and extracted native code.|False|True
+When your application is installed on the external storage.The unique container in which your application is stored works for multiple devices.|False|True
+When your application is installed on the external storage.The user is unable to move your application.|False|True
+When an application component starts and the application does not have any other components running, the Android system starts a new Linux process for the application with a single thread of execution.|True|False
+When an application component starts even if there is another component running, the Android system starts a new Linux process for the application with a single thread of execution.|False|True
+By default, all components of the same application run in the same process and thread called the "main" thread.|True|False
+If an application component starts and there already exists a process for that application, because another component from the application exists, then the component is started within that process and uses the same thread of execution.|True|False
+If an application component starts and there already exists a process for that application, the component is started with a different process.|True|False
+If you find that you need to control which process a certain component belongs to, you can do so in the manifest file.|True|False
+The Foreground Process is the most important process and is killed last.|True|False
+The Foreground Process is the most important process and is killed Second.|False|True
+The Foreground Process is the most important process and is killed First.|False|True
+A process is considered to be in the foreground if it hosts an Activity the user is interacting with, the Activity's onResume( method has been called.|it hosts a Service that's bound to the activity that the user is interacting with.|it hosts a Service that's running "in the foreground"—the service has called startForeground().|it hosts a Service that's executing one of its lifecycle callbacks. onCreate(), onStart(), or onDestroy().|it hosts a BroadcastReceiver that's executing its onReceive() method).|True|False
+A visible Process is killed before a foreground process.|True|False
+A visible Process is killed before a Service process.|False|True
+A visible Process is killed before a Background process.|False|True
+A visible Process is killed before a Empty process.|False|True
+A Process is considered to be visible if it hosts an Activity that is not in the foreground, but is still visible to the user,its onPause( method has been called. This might occur, for example, if the foreground activity started a dialog, which allows the previous activity to be seen behind it.
+|it hosts a Service that's bound to a visible or foreground activity).|True|False
+A Service process is a process running a service that has been started with the startService() method and does not fall into either of the two higher categories.|True|False
+A Service Process is killed before a Visible process.|True|False
+A Service Process is killed before a Foreground process.|True|False
+A Service Process is killed before a Background process.|False|True
+A Service Process is killed before a Empty process.|False|True
+A Background Process is a process holding an activity that's not currently visible to the user the activity's onStop() method has been called.|True|False
+A Background Process is killed before a Foreground process.|True|False
+A Background Process is killed before a Visible process.|True|False
+A Background Process is killed before a Service process.|True|False
+A Background Process is killed before a Empty process.|False|True
+An Empty Process is killed First.|True|False
+An Empty Process is killed before a Foreground process.|False|True
+An Empty Process is killed before a Visible process.|False|True
+An Empty Process is killed before a Service process.|False|True
+An Empty Process is killed before a Background process.|False|True
+An Empty process that doesn't hold any active application components.|True|False
+Empty processes are kept for caching purposes, to improve startup time the next time a component needs to run in it.|True|False
+If a process A is serving another process B, Process A is always considered at least as important as process B and no lower.|True|False
+A process that is serving another process can never be ranked lower than the process it is serving.|True|False
+Android supports Interprocessess Communication.|True|False
+The main thread is also sometimes called the UI thread.|True|False
+Andoid UI toolkit is not thread-safe.|True|False
+Do not block the UI thread.|True|False
+Do not access the Android UI toolkit from outside the UI thread.|True|False
+It's ok to access the Android UI toolkit from outside the UI thread.|False|True
+You can access the UI thread from other threads with Activity.runOnUiThreadRunnable.|True|False
+You can access the UI thread from other threads with View.postRunnable.|True|False
+You can access the UI thread from other threads with View.postDelayedRunnable, long.|True|False
+There is no way to access the UI thread from other threads.|True|False
+AsyncTask allows you to perform asynchronous work on your user interface. It performs the blocking operations in a worker thread and then publishes the results on the UI thread, without requiring you to handle threads and/or handlers yourself.|True|False
+AsyncTask: The method doInBackground() executes automatically on a worker thread.|True|False
+AsyncTask: onPreExecute(), onPostExecute(), and onProgressUpdate() are all invoked on the UI thread.|True|False
+AsyncTask: The value returned by doInBackground() is sent to onPostExecute().|True|False
+AsyncTask: You can call publishProgress() at anytime in doInBackground() to execute AsyncTask: onProgressUpdate() on the UI thread.|True|False
+AsyncTask: You can cancel the task at any time, from any thread.|True|False
+AsyncTask: onPreExecute(), onPostExecute(), and onProgressUpdate() are all invoked in a background thread.|False|True

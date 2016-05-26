@@ -1,10 +1,10 @@
 # Gather Answers
-array=( $(awk -F "|" '{print $2}' test.txt))
+array=( $(awk -F "|" '{print $2}' $1 | sort -u ))
 
-> questions.txt 
+> results.txt 
 while read line           
 do        
-	arrayCount=${#array[@]}   
+	arrayCount=${#array[@]}  
 	A=$(($RANDOM % $arrayCount))
 	B=$(($RANDOM % $arrayCount))
 	C=$(($RANDOM % $arrayCount))
@@ -23,6 +23,6 @@ do
 	replace="$OptionA|$OptionB|$OptionC|$OptionD|$OptionE|$OptionF"
     
 
-    echo "$line" | sed -e 's/'"$variable"'/'"$replace"'/'  >> questions.txt        
-done < test.txt   
+    echo "$line" | sed -e 's/'"$variable"'/'"$replace"'/'  >> results.txt        
+done < $1  
 

@@ -1,0 +1,138 @@
+(Shared Preferences|Internal Storage|External Storage|SQLite Databases|Network Connection)  is a storage option Android provides.|True|False
+(SQLite Storage|Internal Preferences|External Preferences|Internal Databases|External Connection)  is a storage option Android provides.|False|True
+Shared Preferences store private primitive data in key-value pairs.|True|False
+Internal Storage store private data on the device memory.|True|False
+External Storage store public data on the shared external storage.|True|False
+SQLite Databases store structured data in a private database.|True|False
+Network Connection store data on the web with your own network server.|True|False
+Shared Preferences (store private data on the device memory|store public data on the shared external storage|store structured data in a private database|store data on the web with your own network server).|False|True
+Internal Storage (store private primitive data in key-value pairs|store public data on the shared external storage|store structured data in a private database|store data on the web with your own network server).|False|True
+External Storage (store private primitive data in key-value pairs|store private data on the device memory|store structured data in a private database|store data on the web with your own network server).|False|True
+SQLite Databases (store private primitive data in key-value pairs|store private data on the device memory|store public data on the shared external storage|store data on the web with your own network server).|False|True
+Network Connection (store private primitive data in key-value pairs|store private data on the device memory|store public data on the shared external storage|store structured data in a private database).|False|True
+You can use SharedPreferences to save any primitive data.|True|False
+You can use SharedPreferences to save (booleans|floats|ints|longs|strings).|True|False
+You can use SharedPreferences to save (Objects).|False|True
+SharedPreferences data will persist across user sessions (even if your application is killed).|True|False
+SharedPreferences data will persist across user sessions (unless your application is killed).|False|True
+getSharedPreferences() - Use this if you need multiple preferences files identified by name, which you specify with the first parameter.|True|False
+getPreferences() - Use this if you need only one preferences file for your Activity. Because this will be the only preferences file for your Activity, you don't supply a name.|True|False
+getPreferences() - Use this if you need multiple preferences files identified by name, which you specify with the first parameter.|False|True
+getSharedPreferences() - Use this if you need only one preferences file for your Activity. Because this will be the only preferences file for your Activity, you don't supply a name.|False|True
+You must use an Editor to edit Shared Preferences.|True|False
+You must add values with methods such as putBoolean() and putString(), when putting data into Shared Preferences.|True|False
+You must explictely commit into Shared Preferences the new values with commit().|True|False
+There is no need to commit new values to Shared Preferences .|False|True
+You must get values with methods such as getBoolean() and getString(), when getting data from Shared Preferences.|True|False
+When using Internal Storage, by default, (users|other applications) have access to the to them.|False|True
+When using Internal Storage, by default, (users|other applications) do not have access to the to them.|True|False
+When the app is uninstalled, Internal Storage Files are removed.|True|False
+When the app is uninstalled, Internal Storage Files are kept.|False|True
+Call openFileOutput() with the name of the file and the operating mode. This returns a FileOutputStream to Internal Storage.|True|False
+Call openFileOutput() with MODE_PRIVATE will create the file (or replace a file of the same name) and make it private to your application.|True|False
+(MODE_APPEND|MODE_WORLD_READABLE|MODE_WORLD_WRITEABLE) is a mode options for openFileOutput(). Subject Internal Storage.|True|False
+Tip: If you want to save a static file in your application at compile time, save the file in your project res/raw/ directory. You can open it with openRawResource(), passing the R.raw.<filename> resource ID. This method returns an InputStream that you can use to read the file (but you cannot write to the original file).|True|False
+Tip: If you want to save a static file in your application at compile time, save the file in your project res/(raw|drawable|layout|values|mimap)/ directory. You can open it with openRawResource(), passing the R.raw.<filename> resource ID. This method returns an InputStream that you can use to read the file (you can also write to the original file).|False|True
+Use getCacheDir() to open a File that represents the internal directory where your application should save temporary cache files.|True|False
+When the device is low on internal storage space, Android may delete cached files to recover space.|True|False
+When working with Internal Storage, getFilesDir() Gets the absolute path to the filesystem directory where your internal files are saved.|True|False
+When working with Internal Storage, getDir() Creates (or opens an existing) directory within your internal storage space.|True|False
+When working with Internal Storage, deleteFile() Deletes a file saved on the internal storage.|True|False
+When working with Internal Storage, fileList() Returns an array of files currently saved by your application.|True|False
+When working with Internal Storage, (fileList|deleteFile)() Gets the absolute path to the filesystem directory where your internal files are saved.|False|True
+When working with Internal Storage, (fileList|getFilesDir)() Creates (or opens an existing) directory within your internal storage space.|False|True
+When working with Internal Storage, (fileList|getDir|getFilesDir)() Deletes a file saved on the internal storage.|False|True
+When working with Internal Storage, (getDir|getFilesDir)() Returns an array of files currently saved by your application.|False|True
+Files saved to the external storage are world-readable and can be modified by the user when they enable USB mass storage to transfer files on a computer.|True|False
+Files saved to the external storage are private and can't be modified by the user when they enable USB mass storage to transfer files on a computer.|False|True
+All applications can read and write files placed on the external storage and the user can remove them.|True|False
+In order to read or write files on the external storage, your app must acquire the READ_EXTERNAL_STORAGE or WRITE_EXTERNAL_STORAGE system permissions.|True|False 
+You do not need permissions in order to read or write files on the external storage|False|True 
+The WRITE_EXTERNAL_STORAGE permission implicitly requires read access.|True|False
+In order to read and write files on the external storage, your app must acquire the READ_EXTERNAL_STORAGE and WRITE_EXTERNAL_STORAGE system permissions.|False|True 
+Beginning with Android 4.4, WRITE_EXTERNAL_STORAGE and READ_EXTERNAL_STORAGE are not required if you're reading or writing only files that are private to your app.|True|False 
+You should always call getExternalStorageState() to check whether the media is available.|True|False
+Calling getExternalStorageState() is not neccessary to check whether the media is available.|False|True
+Include an empty file named .nomedia in your external files directory will...|prevents media scanner from reading your media files and providing them to other apps through the MediaStore content provider.|prevents media scanner from reading your media files but still provide them to other apps through the MediaStore content provider.|allow the media scanner to read your media files and provide them to other apps through the MediaStore content provider.|allow the media scanner to read your media files but not provide them to other apps through the MediaStore content provider. 
+Passing getExternalStoragePublicDirectory() (DIRECTORY_MUSIC|DIRECTORY_PODCASTS|DIRECTORY_RINGTONES|DIRECTORY_ALARMS|DIRECTORY_NOTIFICATIONS|DIRECTORY_PICTURES|DIRECTORY_MOVIES|DIRECTORY_DOWNLOADS|DIRECTORY_DCIM) will return a public directory where your app can save files to.|True|False
+Passing getExternalStoragePublicDirectory() (DIRECTORY_MUSIC|DIRECTORY_PODCASTS|DIRECTORY_RINGTONES|DIRECTORY_ALARMS|DIRECTORY_NOTIFICATIONS|DIRECTORY_PICTURES|DIRECTORY_MOVIES|DIRECTORY_DOWNLOADS|DIRECTORY_DCIM) will return a public directory where your app can save files to. By saving your files to the corresponding media-type directory, the system's media scanner can properly categorize your files in the system.|True|False
+Saving your files to the corresponding media-type directory will allow the system's media scanner can properly categorize your files in the system.|True|False
+Files in External storage can be app-(private).|True|False 
+Files stored in an apps private external storage location will be deleted on uninstall.|True|False 
+Files stored in an apps private external storage directory will not be deleted on uninstall.|False|True 
+The system media scanner reads files in an apps private external storage directory.|False|True 
+The system media scanner does not read files in an apps private external storage directory.|True|False 
+If you'd like to access both possible locations while also supporting Android 4.3 and lower, use the support library's static method, ContextCompat.getExternal(Files|Cache)Dirs().|True|False 
+In the event a device that has allocated a partition of the internal memory for use as the external storage and also offers an SD card slot as external storage. If the device is running Android 4.3, calling getExternal(Files|Cache)Dirs() method will provide access to only the internal partition and your app cannot read or write to the SD card.|True|False 
+In the event a device that has allocated a partition of the internal memory for use as the external storage and also offers an SD card slot as external storage. If the device is running Android 4.3, calling ContextCompat.getExternal(Files|Cache)Dirs() method will provide access to only the internal partition and your app cannot read or write to the SD card.|False|True 
+In the event a device that has allocated a partition of the internal memory for use as the external storage and also offers an SD card slot as external storage. If the device is running Android 4.3, calling ContextCompat.getExternal(Files|Cache)Dirs() method will provide access to both the internal partition and the SD card.|True|False 
+You can cache data on Internal and External media.|True|False 
+You can cache data on (Internal|External) media only.|False|True 
+Android provides full support for SQLite databases.|True|False 
+Databases you create will be accessible by name to any class in the application, but not outside the application|True|False 
+Databases you create will be accessible by name to any class in the application and outside the application|False|True 
+Android's backup service allows you to copy your persistent application data to remote "cloud" storage, in order to provide a restore point for the application data and settings.|True|False
+If a user performs a factory reset or converts to a new Android-powered device, the system automatically restores your backup data when the application is re-installed.|True|False
+Android's backup process is completely transparent to the user and does not affect the functionality or user experience in your application.|True|False
+During a backup operation (which your application can request), Android's Backup Manager (BackupManager) queries your application for backup data, then hands it to a backup transport, which then delivers the data to the cloud storage.|True|False
+During a restore operation, the Backup Manager retrieves the backup data from the backup transport and returns it to your application so your application can restore the data to the device. |True|False
+It's possible for your application to request a backup restore.|True|False
+Android automatically performs a restore operation when your application is installed and there exists backup data associated with the user.|True|False
+Android backup service is not designed for synchronizing application data with other clients or saving data that you'd like to access during the normal application lifecycle.|True|False
+You cannot read or write backup data on demand and cannot access it in any way other than through the APIs provided by the Backup Manager.|True|False
+You (can|cannot) read or write backup data on demand and access it through APIs other than the Backup Manager.|False|True
+Data backup is not guaranteed to be available on all Android-powered devices.|True|False
+Data backup is guaranteed to be available on all Android-powered devices.|False|True
+When your application runs on a device that does not provide a backup transport, your application operates normally, but will not receive callbacks from the Backup Manager to backup data.|True|False
+When your application runs on a device that does not provide a backup transport, your application wil fail and (will|not) receive callbacks from the Backup Manager to backup data.|False|True
+Because the cloud storage and transport service can differ from device to device, Android makes no guarantees about the security of your data while using backup.|True|False
+Because the cloud storage and transport service can do not differ from device to device, Android guarantees the security of your data while using backup.|False|True
+You should always be cautious about using backup to store sensitive data, such as usernames and passwords.|True|False
+Beginning with API Level 8, you can allow your application to be installed on the external storage.|True|False
+Beginning with API Level (14|20|3|7|15|9|18), you can allow your application to be installed on the external storage.|False|True 
+If you declare for your application with the "android:installLocation" manifest attribute. The user can move your application between internal and external storage.|True|False
+When your application is installed on the external storage.(There is no effect on the application performance so long as the external storage is mounted on the device.|The .apk file is saved on the external storage, but all private user data, databases, optimized .dex files, and extracted native code are saved on the internal device memory.|The unique container in which your application is stored is encrypted with a randomly generated key that can be decrypted only by the device that originally installed it. Thus, an application installed on an SD card works for only one device.|The user can move your application to the internal storage through the system settings.)|True|False
+When your application is installed on the external storage.(The application performance may degrade.|The .apk file is saved on the external storage, as well as all private user data, databases, optimized .dex files, and extracted native code.|The unique container in which your application is stored works for multiple devices.|The user is unable to move your application.)|False|True
+When an application component starts and the application does not have any other components running, the Android system starts a new Linux process for the application with a single thread of execution.|True|False 
+When an application component starts even if there is another component running, the Android system starts a new Linux process for the application with a single thread of execution.|False|True 
+By default, all components of the same application run in the same process and thread called the "main" thread.|True|False 
+If an application component starts and there already exists a process for that application, because another component from the application exists, then the component is started within that process and uses the same thread of execution.|True|False
+If an application component starts and there already exists a process for that application, the component is started with a different process.|True|False
+If you find that you need to control which process a certain component belongs to, you can do so in the manifest file.|True|False
+The Foreground Process is the most important process and is killed last.|True|False
+The Foreground Process is the most important process and is killed (Second|First).|False|True
+A process is considered to be in the foreground if (it hosts an Activity the user is interacting with, the Activity's onResume() method has been called.|it hosts a Service that's bound to the activity that the user is interacting with.|it hosts a Service that's running "in the foreground"—the service has called startForeground().|it hosts a Service that's executing one of its lifecycle callbacks. onCreate(), onStart(), or onDestroy().|it hosts a BroadcastReceiver that's executing its onReceive() method).|True|False
+A visible Process is killed before a foreground process.|True|False
+A visible Process is killed before a (Service|Background|Empty) process.|False|True
+A Process is considered to be visible if (it hosts an Activity that is not in the foreground, but is still visible to the user,its onPause() method has been called. This might occur, for example, if the foreground activity started a dialog, which allows the previous activity to be seen behind it.
+|it hosts a Service that's bound to a visible or foreground activity).|True|False
+A Service process is a process running a service that has been started with the startService() method and does not fall into either of the two higher categories.|True|False
+A Service Process is killed before a (Visible|Foreground) process.|True|False
+A Service Process is killed before a (Background|Empty) process.|False|True
+A Background Process is a process holding an activity that's not currently visible to the user the activity's onStop() method has been called.|True|False
+A Background Process is killed before a (Foreground|Visible|Service) process.|True|False
+A Background Process is killed before a (Empty) process.|False|True
+An Empty Process is killed First.|True|False
+An Empty Process is killed before a (Foreground|Visible|Service|Background) process.|False|True
+An Empty process that doesn't hold any active application components.|True|False
+Empty processes are kept for caching purposes, to improve startup time the next time a component needs to run in it.|True|False
+If a process A is serving another process B, Process A is always considered at least as important as process B and no lower.|True|False
+A process that is serving another process can never be ranked lower than the process it is serving.|True|False
+Android supports Interprocessess Communication.|True|False
+The main thread is also sometimes called the UI thread.|True|False
+Andoid UI toolkit is not thread-safe.|True|False
+Do not block the UI thread.|True|False
+Do not access the Android UI toolkit from outside the UI thread.|True|False
+It's ok to access the Android UI toolkit from outside the UI thread.|False|True
+You can access the UI thread from other threads with Activity.runOnUiThread(Runnable).|True|False
+You can access the UI thread from other threads with View.post(Runnable).|True|False
+You can access the UI thread from other threads with View.postDelayed(Runnable, long).|True|False
+There is no way to access the UI thread from other threads.|True|False
+AsyncTask allows you to perform asynchronous work on your user interface. It performs the blocking operations in a worker thread and then publishes the results on the UI thread, without requiring you to handle threads and/or handlers yourself.|True|False
+AsyncTask: The method doInBackground() executes automatically on a worker thread.|True|False
+AsyncTask: onPreExecute(), onPostExecute(), and onProgressUpdate() are all invoked on the UI thread.|True|False
+AsyncTask: The value returned by doInBackground() is sent to onPostExecute().|True|False
+AsyncTask: You can call publishProgress() at anytime in doInBackground() to execute AsyncTask: onProgressUpdate() on the UI thread.|True|False
+AsyncTask: You can cancel the task at any time, from any thread.|True|False
+AsyncTask: onPreExecute(), onPostExecute(), and onProgressUpdate() are all invoked in a background thread.|False|True
+AsyncTask: You can cancel the task at any time, from the UI thread.|False|True

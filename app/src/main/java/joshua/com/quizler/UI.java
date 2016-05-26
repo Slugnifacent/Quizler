@@ -1,13 +1,15 @@
 package joshua.com.quizler;
 
 import android.app.Activity;
-import android.content.Context;
-import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
+
+import java.lang.reflect.Array;
+
+import joshua.com.quizler.test.Question;
 
 /**
  * Created by Joshua on 5/18/2016.
@@ -31,6 +33,9 @@ public class UI {
             case R.id.button_stats:
                 StatsLayout();
                 break;
+            case R.id.button_tests:
+                TestLayout();
+                break;
             case R.id.button_reset:
                 ResetStats();
                 break;
@@ -48,7 +53,9 @@ public class UI {
     public static void GenerateNextQuestion()
     {
         Question question = MainActivity.GenerateQuestion();
-        PostNextQuestion(question.getQuestion(), question.getOptions(), question.getAnswer());
+        if(question != null) {
+            PostNextQuestion(question.getQuestion(), question.getOptions(), question.getAnswer());
+        }
     }
 
     public static void PassUserAnswerToGrader(int Answer)
@@ -57,6 +64,11 @@ public class UI {
         {
             GenerateNextQuestion();
         }
+    }
+
+    public static void ChangeTest(String TestName)
+    {
+        MainActivity.SetTest(TestName);
     }
 
     private static void PostNextQuestion(String Question,String[] Options,int Answer )
@@ -79,6 +91,8 @@ public class UI {
     }
 
     private static void StatsLayout() {
+
+
             activity.setContentView(R.layout.stats_layout);
 
             ListView listView = (ListView) activity.findViewById(R.id.list_results);
@@ -91,6 +105,29 @@ public class UI {
                     android.R.layout.simple_list_item_1, grade);
 
             listView.setAdapter(adapter);
+    }
+
+    private static void TestLayout() {
+
+        activity.setContentView(R.layout.tests_layout);
+
+        ListView listView = (ListView) activity.findViewById(R.id.list_tests);
+
+        final String[] TestNames = MainActivity.GetTestNames();
+
+
+        ArrayAdapter<String> adapter = new ArrayAdapter<String>(activity,
+                android.R.layout.simple_list_item_1, TestNames);
+
+        listView.setAdapter(adapter);
+        listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                String answer = TestNames[position];
+                ChangeTest(answer);
+                QuizLayout();
+            }
+        });
     }
 
     private static void ResetStats()

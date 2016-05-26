@@ -1,4 +1,4 @@
-package joshua.com.quizler;
+package joshua.com.quizler.grade;
 
 /**
  * Created by Joshua on 5/18/2016.
@@ -73,5 +73,15 @@ public class Grade {
             grade.append('-');
         }
         return grade.toString();
+    }
+
+    public int getPoints()
+    {
+        return points;
+    }
+
+    public int getTotal()
+    {
+        return total;
     }
 }

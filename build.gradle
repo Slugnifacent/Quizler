@@ -18,6 +18,10 @@ allprojects {
     }
 }
 
+task GenerateQuestions(type: Exec) {
+    commandLine 'cmd', '/c', 'D:\\Development\\Quizler\\GenerateQuestions\\GenerateQuestions.sh'
+}
+
 task clean(type: Delete) {
     delete rootProject.buildDir
 }

@@ -1,0 +1,24 @@
+|True|False     |False|True
+
+An Intent is a messaging object you can use to request an action from another app component. |True|False
+ intents facilitate communication between components
+
+To (start an activity|start a service|deliver a broadcast) is a fundamental way to utilize an intent.|True|False
+(Explicit|Implicit) intent is a type of intent.|True|False
+Explicit intents specify the component to start by name, the fully-qualified class name.|True|False
+Implicit intents do not name a specific component, but instead declare a general action to perform, which allows a component from another app to handle it.|True|False
+Implicit intents specify the component to start by name, the fully-qualified class name.|False|True
+Explicit intents do not name a specific component, but instead declare a general action to perform, which allows a component from another app to handle it.|False|True
+Android finds the appropriate component to start an implicit intent by searching the intent filters in other apps.|True|False
+If multiple intent filters are compatible, the system displays a dialog so the user can pick which app to use.|True|False
+If multiple intent filters are compatible, the system picks the first app to use.|False|True
+By declaring an intent filter for an activity, you make it possible for other apps to directly start your activity with a certain kind of intent.|True|False
+If you do not declare any intent filters for an activity, then it can be started only with an explicit intent.|True|False
+By declaring an intent filter for an activity, you make it possible for other apps to directly start your activity with a certain kind of intent.|True|False
+If you do not declare any intent filters for an activity, then it can be started only with an explicit intent.|True|False
+Setting the Component Name of the the intent with a qualified name defines the intent as explicit.|True|False
+Setting the Component Name of the the intent with a qualified name defines the intent as implicit.|True|False
+You should always specify the component name when starting a service.Otherwise...|Both|you cannot be certain what service will respond to the intent|The user cannot see which service starts.
+(ACTION_VIEW|ACTION_SEND) is a type of action in the action component of an intent.|True|False
+(ACTION_VIEW|ACTION_SEND) is not a type of action in the action component of an intent.|False|True
+Data Component of the intent specifies the URI, a Uri object, that references the data to be acted on and/or the MIME type of that data.|True|False
