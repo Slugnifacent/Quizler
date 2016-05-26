@@ -5,19 +5,17 @@ import android.content.Context;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Toast;
-
-import java.util.ArrayList;
 
 import joshua.com.quizler.grade.Grader;
 import joshua.com.quizler.test.Question;
 import joshua.com.quizler.test.Test;
 import joshua.com.quizler.test.TestFactory;
 import joshua.com.quizler.util.Storage;
+import joshua.com.quizler.util.XUI;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static TestFactory test;
+    private static TestFactory testFactory;
     private static Grader grader;
     private static Test currentTest;
 
@@ -26,9 +24,10 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         Storage.instance().init(this);
-        test = new TestFactory(this);
-        currentTest = test.GetTest("joshuaiscool");
+        testFactory = new TestFactory(this);
+        currentTest = testFactory.GetTest("joshuaiscool");
         grader = new Grader(currentTest);
+        XUI.SetActivity(this);
         UI.SetActivity(this);
         UI.QuizLayout();
         context = this;
@@ -38,25 +37,36 @@ public class MainActivity extends AppCompatActivity {
         UI.onClick(view);
     }
 
+    public static Test GetCurrentTest()
+    {
+        return currentTest;
+    }
+
     public static Test GetTest(String TestName)
     {
-        return test.GetTest(TestName);
+        return testFactory.GetTest(TestName);
+    }
+
+    public static void ResetTest(Test test)
+    {
+        testFactory.ResetTest(test);
+        testFactory.SaveGrades();
     }
 
     public static void SetTest(String TestName)
     {
-        currentTest = test.GetTest(TestName);
-        grader = new Grader(currentTest);
+        currentTest = testFactory.GetTest(TestName);
+        grader.ChangeTest(currentTest);
     }
 
     public static String GetGrade(Test test)
     {
-        return grader.RetrieveGrade(test);
+        return testFactory.RetrieveGrade(test);
     }
 
     public static String[] GetTestNames()
     {
-        return test.GetTestNames();
+        return testFactory.GetTestNames();
     }
 
     public static String[] GetMissedQuestions(Test test)
@@ -70,9 +80,9 @@ public class MainActivity extends AppCompatActivity {
         return grader.GradeAnswerToCurrentQuestion(Answer);
     }
 
-    public static void ResetGrade()
-    {
-        grader.ResetGrade();
+    public static void ResetAll(){
+        testFactory.ResetTests();
+        testFactory.SaveGrades();
     }
 
     public static Question GenerateQuestion()

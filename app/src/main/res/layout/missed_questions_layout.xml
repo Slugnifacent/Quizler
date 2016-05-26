@@ -20,6 +20,15 @@
             android:clickable="true"
             android:onClick="onClick" />
 
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Reset"
+            android:id="@+id/button_individual_reset"
+            android:gravity="center"
+            android:clickable="true"
+            android:onClick="onClick" />
+
     </LinearLayout>
 
     <TextView
@@ -28,6 +37,22 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="Large Text"
         android:id="@+id/missed_questions_test_name"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Large Text"
+        android:id="@+id/missed_questions_stats"
+        android:layout_gravity="left|center_horizontal" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Recent Missed Questions"
+        android:id="@+id/missed_questions_text"
         android:layout_gravity="center_horizontal" />
 
     <ListView

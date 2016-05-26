@@ -16,6 +16,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 import joshua.com.quizler.R;
+import joshua.com.quizler.grade.Grade;
+import joshua.com.quizler.grade.GradeComponent;
 import joshua.com.quizler.util.Storage;
 
 /**
@@ -30,6 +32,41 @@ public class TestFactory
         tests = new ArrayList<Test>();
         GetInternalQuestions(activity);
         GetExternalQuestions(activity);
+        LoadGrades();
+    }
+
+    public void LoadGrades()
+    {
+        for(Test test : tests) {
+            String testName = test.getName();
+            test.ResetGrade();
+            int points = Storage.instance().retrieveFromPreferences(testName + GradeComponent.Points);
+            int total = Storage.instance().retrieveFromPreferences(testName + GradeComponent.Total);
+            test.AdjustGrade(points, total);
+        }
+    }
+
+    public void SaveGrades()
+    {
+        for(Test test : tests) {
+            String testName = test.getName();
+
+            Storage.instance().saveToPreferences(
+                    testName + GradeComponent.Points,
+                    test.getGrade().getPoints());
+
+            Storage.instance().saveToPreferences(
+                    testName + GradeComponent.Total,
+                    test.getGrade().getTotal());
+        }
+    }
+
+    public void ResetTests()
+    {
+        for(Test test : tests)
+        {
+            test.ResetGrade();
+        }
     }
 
     public String[] GetTestNames()
@@ -42,6 +79,11 @@ public class TestFactory
         return testnames.toArray(new String[0]);
     }
 
+    public void ResetTest(Test test)
+    {
+        int index = tests.indexOf(test);
+        if(index > -1) tests.get(index).ResetGrade();
+    }
 
     public Test GetTest(String Name)
     {
@@ -51,6 +93,22 @@ public class TestFactory
             {
                 return test;
             }
+        }
+        return null;
+    }
+
+    public Test GetTest(Test test)
+    {
+        int index = tests.indexOf(test);
+        return (index > -1) ? tests.get(index) : null;
+    }
+
+    public String RetrieveGrade(Test test)
+    {
+        Test result = GetTest(test);
+        if(result != null)
+        {
+            return  result.getGrade().toString();
         }
         return null;
     }

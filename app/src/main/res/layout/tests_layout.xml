@@ -9,12 +9,11 @@
         android:layout_height="wrap_content"
         android:gravity="right">
 
-
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Stats"
-            android:id="@+id/button_stats"
+            android:text="Quiz"
+            android:id="@+id/button_quiz"
             android:gravity="center"
             android:clickable="true"
             android:onClick="onClick" />
@@ -22,8 +21,8 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Quiz"
-            android:id="@+id/button_quiz"
+            android:text="Stats"
+            android:id="@+id/button_stats"
             android:gravity="center"
             android:clickable="true"
             android:onClick="onClick" />

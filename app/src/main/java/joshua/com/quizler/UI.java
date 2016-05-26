@@ -46,11 +46,10 @@ public class UI {
                 TestLayout();
                 break;
             case R.id.button_reset:
-                ResetStats();
+                ResetAll();
                 break;
             default:
                 break;
-
         }
     }
 
@@ -128,12 +127,27 @@ public class UI {
             });
     }
 
-    private static void ShowMissedQuestions(Test test)
+    private static void ShowMissedQuestions(final Test test)
     {
         activity.setContentView(R.layout.missed_questions_layout);
         ListView listView = (ListView) activity.findViewById(R.id.list_missed_questions);
+
         TextView text = (TextView) activity.findViewById(R.id.missed_questions_test_name);
         text.setText(test.getName());
+
+        TextView stats = (TextView) activity.findViewById(R.id.missed_questions_stats);
+        stats.setText(test.getGrade().toString());
+
+        Button resetButton = (Button) activity.findViewById(R.id.button_individual_reset);
+        resetButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                ResetTest(test);
+                ShowMissedQuestions(test);
+            }
+        });
+
+
         final String[] missedQuestions = test.GetMissedQuestions();
 
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(activity,
@@ -165,18 +179,14 @@ public class UI {
         });
     }
 
-    public static void Toast(String Message)
+    private static void ResetTest(Test test)
     {
-        if(activity != null) {
-            int duration = Toast.LENGTH_SHORT;
-            Toast toast = Toast.makeText(activity, Message, duration);
-            toast.show();
-        }
+        MainActivity.ResetTest(test);
     }
 
-    private static void ResetStats()
+    private static void ResetAll()
     {
-        MainActivity.ResetGrade();
+        MainActivity.ResetAll();
         StatsLayout();
     }
 

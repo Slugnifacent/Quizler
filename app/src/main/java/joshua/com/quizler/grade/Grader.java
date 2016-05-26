@@ -6,21 +6,24 @@ import joshua.com.quizler.test.Question;
 import joshua.com.quizler.util.Storage;
 import joshua.com.quizler.test.Test;
 import joshua.com.quizler.util.XLogger;
+import joshua.com.quizler.util.XUI;
 
 /**
  * Created by Joshua on 5/18/2016.
  */
 public class Grader {
-
-
     private Test test;
-    private Grade grade;
     private final XLogger logger = new XLogger(Grader.class);
 
     public Grader (Test test)
     {
         this.test = test;
         RetrieveGrades(test);
+    }
+
+    public void ChangeTest(Test test)
+    {
+        this.test = test;
     }
 
     public boolean GradeAnswerToCurrentQuestion(int Answer)
@@ -37,55 +40,50 @@ public class Grader {
             {
                 // Do Something before leaving Right Answer
                 // Add to correct Points
-                AdjustGrade(1,1);
+                test.AdjustGrade(1, 1);
+                saveGrade(test);
             }
             currentQuestion.Refresh();
             result = true;
-            UI.Toast("Correct");
-            saveGrade(test);
+            XUI.Toast("Correct");
+
             return result;
         }
 
         if(!currentQuestion.isMarkedWrong()) {
             currentQuestion.MarkWrong();
-            AdjustGrade(0,1);
+            test.AdjustGrade(0,1);
+            saveGrade(test);
         }
-        UI.Toast("Wrong");
+        XUI.Toast("Wrong");
         return result;
-    }
-
-    private void AdjustGrade(int Points, int Total)
-    {
-        grade.AddPoints(Points);
-        grade.IncreaseTotal(Total);
     }
 
     private void RetrieveGrades(Test test)
     {
         String testName = test.getName();
-        int points = Storage.instance().retrieveFromPreferences(testName+GradeComponent.Points);
+        test.ResetGrade();
+        int points = Storage.instance().retrieveFromPreferences(testName + GradeComponent.Points);
         int total  = Storage.instance().retrieveFromPreferences(testName + GradeComponent.Total);
-        grade = new Grade(points,total);
+        test.AdjustGrade(points, total);
     }
 
-    private  void saveGrade(Test test)
+    private void saveGrade(Test test)
     {
         String testName = test.getName();
-        Storage.instance().saveToPreferences(testName+GradeComponent.Points,grade.getPoints());
-        Storage.instance().saveToPreferences(testName+GradeComponent.Total,grade.getTotal());
-    }
 
-    public String RetrieveGrade(Test test)
-    {
-        String testName = test.getName();
-        int points = Storage.instance().retrieveFromPreferences(testName+GradeComponent.Points);
-        int total  = Storage.instance().retrieveFromPreferences(testName + GradeComponent.Total);
-        return new Grade(points,total).toString();
+        Storage.instance().saveToPreferences(
+                testName + GradeComponent.Points,
+                test.getGrade().getPoints());
+
+        Storage.instance().saveToPreferences(
+                testName+GradeComponent.Total,
+                test.getGrade().getTotal());
     }
 
     public void ResetGrade()
     {
-        grade.ResetGrade();
+        test.ResetGrade();
     }
 
 }
