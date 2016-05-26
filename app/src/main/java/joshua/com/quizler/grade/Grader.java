@@ -32,7 +32,7 @@ public class Grader {
             if(currentQuestion.isMarkedWrong())
             {
                 // Do Something before Leaving incorrect Answer
-
+                test.SaveMissedQuestion(currentQuestion);
             }else
             {
                 // Do Something before leaving Right Answer
@@ -42,7 +42,6 @@ public class Grader {
             currentQuestion.Refresh();
             result = true;
             UI.Toast("Correct");
-
             saveGrade(test);
             return result;
         }

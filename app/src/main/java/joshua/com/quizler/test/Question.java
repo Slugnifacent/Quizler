@@ -69,6 +69,11 @@ public class Question {
         return options;
     }
 
+    public String getStringAnswer()
+    {
+        return options[answer];
+    }
+
     public int getAnswer()
     {
         return answer;

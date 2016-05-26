@@ -59,6 +59,12 @@ public class MainActivity extends AppCompatActivity {
         return test.GetTestNames();
     }
 
+    public static String[] GetMissedQuestions(Test test)
+    {
+        return test.GetMissedQuestions();
+    }
+
+
     public static boolean GradeQuestion(int Answer)
     {
         return grader.GradeAnswerToCurrentQuestion(Answer);

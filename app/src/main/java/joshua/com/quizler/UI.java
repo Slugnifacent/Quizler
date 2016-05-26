@@ -1,15 +1,19 @@
 package joshua.com.quizler;
 
+import android.app.ActionBar;
 import android.app.Activity;
+import android.text.Layout;
 import android.view.View;
+import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.Button;
+import android.widget.LinearLayout;
 import android.widget.ListView;
+import android.widget.PopupWindow;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import java.lang.reflect.Array;
-import java.text.Format;
 import java.util.ArrayList;
 
 import joshua.com.quizler.test.Question;
@@ -19,7 +23,8 @@ import joshua.com.quizler.test.Test;
  * Created by Joshua on 5/18/2016.
  */
 public class UI {
-    static Activity  activity;
+    private static Activity  activity;
+
     public static void SetActivity(Activity Context)
     {
         activity = Context;
@@ -97,7 +102,7 @@ public class UI {
     private static void StatsLayout() {
             activity.setContentView(R.layout.stats_layout);
 
-            ListView listView = (ListView) activity.findViewById(R.id.list_results);
+            final ListView listView = (ListView) activity.findViewById(R.id.list_results);
 
             final String[] TestNames = MainActivity.GetTestNames();
             ArrayList<String> list = new ArrayList<String>();
@@ -114,6 +119,27 @@ public class UI {
             ArrayAdapter<String> adapter = new ArrayAdapter<String>(activity,
                     android.R.layout.simple_list_item_1, grades);
             listView.setAdapter(adapter);
+            listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+                @Override
+                public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                    Test tempTest = MainActivity.GetTest(TestNames[position]);
+                    ShowMissedQuestions(tempTest);
+                }
+            });
+    }
+
+    private static void ShowMissedQuestions(Test test)
+    {
+        activity.setContentView(R.layout.missed_questions_layout);
+        ListView listView = (ListView) activity.findViewById(R.id.list_missed_questions);
+        TextView text = (TextView) activity.findViewById(R.id.missed_questions_test_name);
+        text.setText(test.getName());
+        final String[] missedQuestions = test.GetMissedQuestions();
+
+        ArrayAdapter<String> adapter = new ArrayAdapter<String>(activity,
+                android.R.layout.simple_list_item_1, missedQuestions);
+
+        listView.setAdapter(adapter);
     }
 
     private static void TestLayout() {
